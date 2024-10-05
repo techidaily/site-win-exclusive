@@ -1,7 +1,7 @@
 ---
 title: "How to Edit the Hosts File Using VBScript or PowerShell: A Step-by-Step Guide"
-date: 2024-09-27T07:22:16.627Z
-updated: 2024-09-29T19:12:10.052Z
+date: 2024-09-29T20:04:06.630Z
+updated: 2024-10-05T19:59:57.710Z
 tags:
   - application-packaging-training
 categories:
@@ -38,10 +38,10 @@ Please keep in mind that editing the hosts file usually necessitates administrat
 There might be cases where the modification of the hosts file is required directly from the MSI package, and the only way to do this is only via Custom Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Write in hosts file with VBScript
@@ -90,10 +90,10 @@ The above VBScript performs the following actions:
 * Once the new entry is written, the file is closed again.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Write in hosts file with PowerShell
@@ -106,16 +106,10 @@ $hostname = "example.com"
 $ipAddress = "127.0.0.1"
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check if the hosts file exists
@@ -154,10 +148,10 @@ The script checks if the hosts file exists and if the entry already exists in th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)I have compiled a list of the most used scripts in Software Packaging that you can download from [here](https://www.alexandrumarin.com/downloads/#packaging-script-collection "here").  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -175,19 +169,19 @@ The script checks if the hosts file exists and if the entry already exists in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-choosing-between-gopro-and-yi-for-2024/"><u>[New] The Ultimate Guide to Choosing Between GoPro and Yi for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hps-color-expertise-in-full-display-the-z32x-review/"><u>2024 Approved HP's Color Expertise in Full Display The Z32X Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mute-instagrams-personalized-posts/"><u>2024 Approved Mute Instagram's Personalized Posts</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1725288408997-dvdusb/"><u>DVDからUSBメモリーへのコピー - 安全で自由にダウンロード</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726027810416-flacmp3/"><u>FLAC形式へのMP3ファイル変換手順 - ステップバイステップガイド</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-ace-2-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Ace 2 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor FRP</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726030474539-ituneswav/"><u>ITunesから直接WAVファイル:カンタンに変換方法解説</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029811365-mpeg-4/"><u>MPEG-4変換手順ガイド - 動画に最適化</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-proxies-a-practical-guide-to-enhanced-privacy/"><u>Win 11 Proxies: A Practical Guide to Enhanced Privacy</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/win-the-new-wonderfox-collection-free-prize-and-special-deals-for-back-to-school-season-2014/"><u>Win the New WonderFox Collection – Free Prize & Special Deals for Back to School Season, 2014!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/youtubemp3/"><u>YouTubeからMP3プレーヤーに楽曲転送テクニック</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/44ot44oh44kq44o744of44ol44o844k444od44kv44ov44kh44kk44or55so6zplusz5aow44kz44o844oh44od44kv5asj5pu05oml6acg44ks44kk44oj/"><u>ビデオ・ミュージックファイル用音声コーデック変更手順ガイド</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-aspect-ratio-for-video-content-on-social-platforms/"><u>[New] 2024 Approved Aspect Ratio for Video Content on Social Platforms</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comparative-techniques-in-software-remastering-insights-into-msi-and-exe-conversion-strategies/"><u>Comparative Techniques in Software Remastering: Insights Into MSI and EXE Conversion Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/datasafe-experts-assessment-for-2024/"><u>DataSafe Experts Assessment for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-503-error-code-causes-impacts-and-remedies/"><u>Decoding the 503 Error Code: Causes, Impacts, and Remedies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gmail-hack-proof-effective-ways-to-manage-and-add-multiple-emails-securely/"><u>Gmail Hack-Proof: Effective Ways to Manage and Add Multiple Emails Securely</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/id3-tagger-quickly-assign-metadata-to-your-audio-library-for-enhanced-discoverability/"><u>ID3 Tagger: Quickly Assign Metadata to Your Audio Library for Enhanced Discoverability</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/kostenlose-dvd-decodierungssoftware-fur-windows-10-and-macos-herunterladen/"><u>Kostenlose DVD-Decodierungssoftware Für Windows 10 & macOS - Herunterladen</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/master-the-art-of-a-clean-browsing-experience-with-these-4-techniques-to-block-and-remove-pop-ups-from-firefox/"><u>Master the Art of a Clean Browsing Experience with These 4 Techniques to Block & Remove Pop-Ups From Firefox</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-asana-setbacks-a-guide-for-windows-users/"><u>Navigating Asana Setbacks: A Guide for Windows Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-gamers-blueprint-techniques-to-record-virtual-realms-for-2024/"><u>The Gamer's Blueprint Techniques to Record Virtual Realms for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-5-multifaceted-antivirus-scanners-expert-reviews-and-comparisons/"><u>Top 5 Multifaceted Antivirus Scanners: Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/unraveling-the-mystery-why-does-my-chrome-display-managed-by-an-organization-and-is-it-safe/"><u>Unraveling the Mystery: Why Does My Chrome Display 'Managed By an Organization,' And Is It Safe?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-started-with-mp4-video-editing-a-friendly-tutorial-for-mac-and-windows-beginners/"><u>Updated 2024 Approved Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners</u></a></li>
 </ul></div>
 

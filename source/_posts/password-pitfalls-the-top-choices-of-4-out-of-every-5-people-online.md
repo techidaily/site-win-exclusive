@@ -1,7 +1,7 @@
 ---
 title: "Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online"
-date: 2024-09-27T17:06:14.164Z
-updated: 2024-09-29T21:26:35.933Z
+date: 2024-10-01T18:59:39.293Z
+updated: 2024-10-05T17:14:13.642Z
 tags:
   - product
   - antivirus
@@ -89,6 +89,13 @@ As you can compare, the list of 2020 and 2019 is exact. And comparing it with th
 
 So, what mistakes are people doing while choosing a password? Let us find out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Most Common Password Mistakes
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
@@ -100,13 +107,6 @@ While preparing a password, what most people do is they simply use their persona
 While it may be a great way to show your love and respect towards your close ones, it is also a great way to make your online presence vulnerable. 
 
 It makes it easy for hackers to crack your password by just knowing a few basic details about you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Using the Same Password Everywhere**
 
@@ -120,23 +120,9 @@ People remember this. Passwords are meant just for your eyes. They are not for s
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips to Improve your Password Security
 
 Here are some tips for creating a secured password
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **1\. Use a Robust Password Manager**
 
@@ -148,15 +134,22 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 
 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor%5Fauthentication) is a security measure in which users required to authenticate themselves using more than one credentials. For example, the first step of login could be entering your username and password; the second step could be verification by mobile OTP: and the third step could be verification by fingerprint.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Don’t Create Passwords with Dictionary Words**
 
 Creating a password using dictionary words is a silly practice. While creating a password, always use alphanumeric combinations and also append special characters. Also, try to make it more complicated by the combination of upper and lower case letters.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion: Most Common Passwords
@@ -176,6 +169,13 @@ A unique password is the one that you only use for one account and do not repeat
 **What are the most common 4 digits passwords?** 
 
 The most common 4 digit passwords are **1234, 1111, and 0000\.** Another popular 4 digit is the combination of birth date and birth month. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -202,24 +202,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-superior-sound-recognizers-in-education-for-2024/"><u>[New] Superior Sound Recognizers in Education for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/filemaker/"><u>「音楽・動画をFileMakerで正常にインポートするための対策ガイド」</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-converting-social-media-audio-to-personalized-mobile-alerts/"><u>2024 Approved Converting Social Media Audio to Personalized Mobile Alerts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-excellence-guild-crafting-photos-plus-sounds-visuals/"><u>2024 Approved Excellence Guild Crafting Photos + Sounds, Visuals</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-secure-extraction-converting-youtube-to-trusted-mp4/"><u>2024 Approved Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726027560661-mkv/"><u>最適な非劣化編集ツール：MKVファイルの基本から上達までガイド</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029516744-chrome/"><u>Chromeビデオ再生に問題が発生したときの解決手段</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-with-these-5-simple-cost-free-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format with These 5 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-change-trp-videos-to-ts-format-without-a-hitch/"><u>Easy Steps to Change TRP Videos to TS Format without a Hitch</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expand-your-horizons-with-a-bundle-of-youtube-videos-for-2024/"><u>Expand Your Horizons With A Bundle of YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-guide-ultimate-hd-video-processing-toolkit-with-feature-rich-factory-pro-applications/"><u>Expert Guide: Ultimate HD Video Processing Toolkit with Feature-Rich Factory Pro Applications</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/factory-or-pro-key-advantages-of-the-two-versions-of-nokia-video-converter/"><u>Factory or Pro? Key Advantages of the Two Versions of Nokia Video Converter</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oppo-reno-9a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Oppo Reno 9A without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/laptop-and-web-navigating-live-video-communication-in-whatsapp/"><u>Laptop & Web Navigating Live Video Communication in WhatsApp</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sonys-whole-hearing-evolution-wh-1000xm4-insights/"><u>Sony's Whole Hearing Evolution: WH-1000XM4 Insights</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-mobile-printing-with-android-smartphones-and-tablets/"><u>Step-by-Step Tutorial on Mobile Printing with Android Smartphones and Tablets</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/streamline-your-viewing-experience-tips-for-recording-app-show-content/"><u>Streamline Your Viewing Experience: Tips for Recording App Show Content</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-selecting-prime-android-applications-for-high-quality-voice-recording-free/"><u>Updated In 2024, Selecting Prime Android Applications for High-Quality Voice Recording (FREE)</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029858827-youtubedvd/"><u>YouTube上でDVDデータを効率よくアップロードする方法説明 - ユーザーフレンドリーなチュートリアル</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-adding-music-to-your-instagram-snapshots-stickers-and-more/"><u>[New] Adding Music to Your Instagram Snapshots Stickers and More</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-beyond-the-surface-10-under-the-radar-facts-about-reels-for-2024/"><u>[New] Beyond the Surface 10 Under-the-Radar Facts About Reels for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-transforming-video-tutorials-into-playable-animated-gifs-online/"><u>[Updated] 2024 Approved Transforming Video Tutorials Into Playable Animated GIFs Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-image-merging-techniques/"><u>[Updated] Mastering Image Merging Techniques</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-academy-online-tutorials/"><u>Comprehensive MSI Academy Online Tutorials</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exploring-the-world-of-advanced-msi-box-design-download-our-comprehensive-guide/"><u>Exploring the World of Advanced MSI Box Design: Download Our Comprehensive Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-on-halting-notification-pop-ups-and-adblock-implementation-in-google-chrome/"><u>Guide on Halting Notification Pop-Ups & Adblock Implementation in Google Chrome</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/interactive-learning-landscapes-with-vr-for-2024/"><u>Interactive Learning Landscapes with VR for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-opera-screen-captures-a-comprehensive-guide/"><u>Mastering the Art of Opera Screen Captures: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigate-through-harsh-trade-battles-with-our-in-depth-review-of-offworld-trading-companys-empire-tactics/"><u>Navigate Through Harsh Trade Battles with Our In-Depth Review of Offworld Trading Company's Empire Tactics</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/premier-websites-to-amplify-your-musical-experience-with-the-latest-beats/"><u>Premier Websites to Amplify Your Musical Experience with the Latest Beats</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/protect-your-privacy-expert-tips-for-finding-and-deleting-spyware-on-android-phones-using-malwarefox/"><u>Protect Your Privacy: Expert Tips for Finding and Deleting Spyware on Android Phones Using MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-free-software-for-converting-flv-videos-into-3gp-format/"><u>Top Free Software for Converting FLV Videos Into 3GP Format</u></a></li>
 </ul></div>
 

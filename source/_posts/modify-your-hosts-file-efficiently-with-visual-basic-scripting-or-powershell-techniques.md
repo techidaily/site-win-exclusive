@@ -1,7 +1,7 @@
 ---
 title: Modify Your Hosts File Efficiently with Visual Basic Scripting or PowerShell Techniques
-date: 2024-09-23T03:57:59.567Z
-updated: 2024-09-29T22:06:33.078Z
+date: 2024-10-02T19:38:03.868Z
+updated: 2024-10-05T18:53:06.386Z
 tags:
   - application-packaging-training
 categories:
@@ -38,10 +38,10 @@ Please keep in mind that editing the hosts file usually necessitates administrat
 There might be cases where the modification of the hosts file is required directly from the MSI package, and the only way to do this is only via Custom Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Write in hosts file with VBScript
@@ -89,27 +89,28 @@ The above VBScript performs the following actions:
 * If the entry is not found, the file is closed and reopened in appending mode to write the new entry using the WriteLine method.
 * Once the new entry is written, the file is closed again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Write in hosts file with PowerShell
 
 If you want to use PowerShell to write in the hosts file, this is also quite easy to accomplish.
 
 $hostsFilePath = "$env:SystemRoot\System32\drivers\etc\hosts"
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specify the hostname and IP address
 $hostname = "example.com"
 $ipAddress = "127.0.0.1"
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check if the hosts file exists
@@ -148,10 +149,10 @@ The script checks if the hosts file exists and if the entry already exists in th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)I have compiled a list of the most used scripts in Software Packaging that you can download from [here](https://www.alexandrumarin.com/downloads/#packaging-script-collection "here").  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -169,22 +170,24 @@ The script checks if the hosts file exists and if the entry already exists in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-new-dimensions-in-physical-interaction-tech/"><u>[New] In 2024, Unlocking New Dimensions in Physical Interaction Tech</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-engaging-followers-on-instagram-with-youtube-video-links-in-stories/"><u>[Updated] Engaging Followers on Instagram with YouTube Video Links in Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-editors-elevating-online-videos/"><u>[Updated] In 2024, Cutting-Edge Editors Elevating Online Videos</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/filemaker/"><u>「音楽・動画をFileMakerで正常にインポートするための対策ガイド」</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726027560661-mkv/"><u>最適な非劣化編集ツール：MKVファイルの基本から上達までガイド</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029516744-chrome/"><u>Chromeビデオ再生に問題が発生したときの解決手段</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-with-these-5-simple-cost-free-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format with These 5 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-change-trp-videos-to-ts-format-without-a-hitch/"><u>Easy Steps to Change TRP Videos to TS Format without a Hitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-fixes-for-dragons-dogma-2-crashing-issues-on-windowsmac/"><u>Essential Fixes for Dragon's Dogma 2 Crashing Issues on Windows/Mac</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-guide-ultimate-hd-video-processing-toolkit-with-feature-rich-factory-pro-applications/"><u>Expert Guide: Ultimate HD Video Processing Toolkit with Feature-Rich Factory Pro Applications</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/factory-or-pro-key-advantages-of-the-two-versions-of-nokia-video-converter/"><u>Factory or Pro? Key Advantages of the Two Versions of Nokia Video Converter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/harness-unmatched-thermal-efficiency-with-pioneercools-ultrafrost-duo-aio-liquid-cooler/"><u>Harness Unmatched Thermal Efficiency with PioneerCool's UltraFrost-Duo AIO Liquid Cooler</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-vistas-hardware-management-without-gui/"><u>Navigating Vista's Hardware Management Without GUI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-xcover-6-pro-tactical-edition-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy XCover 6 Pro Tactical Edition? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029858827-youtubedvd/"><u>YouTube上でDVDデータを効率よくアップロードする方法説明 - ユーザーフレンドリーなチュートリアル</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplify-lenovo-screen-casting-today/"><u>[New] 2024 Approved Simplify Lenovo Screen Casting Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-adding-soundtracks-to-your-inshot-projects-for-2024/"><u>[New] Adding Soundtracks to Your InShot Projects for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-best-8-online-photo-montage-maker/"><u>[New] Best 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-smart-tv-meets-social-networks-televising-fb-content/"><u>[Updated] 2024 Approved Smart TV Meets Social Networks Televising FB Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-for-enhanced-job-hunting/"><u>6 Effective Strategies: Leveraging ChatGPT for Enhanced Job Hunting</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/a-comprehensive-guide-streaming-moba-fun-from-mobile-legends-to-your-pc/"><u>A Comprehensive Guide: Streaming MOBA Fun From Mobile Legends to Your PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/background-noise-begone-mastering-audio-editing-in-final-cut-pro-x/"><u>Background Noise Begone! Mastering Audio Editing in Final Cut Pro X</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-security-question-practices-a-comprehensive-guide-to-enhancing-your-online-safety/"><u>Best Security Question Practices: A Comprehensive Guide to Enhancing Your Online Safety</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-evaluation-of-screencast-o-matic-features-and-performance/"><u>Comprehensive Evaluation of Screencast-O-Matic: Features and Performance</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-academy-online-tutorials/"><u>Comprehensive MSI Academy Online Tutorials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-budget-friendly-study-apps-for-students-preparing-for-school/"><u>Discover the Latest Budget-Friendly Study Apps for Students Preparing for School</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-moving-your-contacts-and-files-from-an-old-iphone-to-a-new-iphone-xs/"><u>Easy Steps: Moving Your Contacts and Files From an Old iPhone to a New iPhone XS</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/imovie-compatible-video-format-transformer-how-to-optimize-videos-for-seamless-editing/"><u>IMovie Compatible Video Format Transformer: How to Optimize Videos for Seamless Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>In 2024, ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-13-pro-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 13 Pro</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-opera-screen-captures-a-comprehensive-guide/"><u>Mastering the Art of Opera Screen Captures: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/navigating-cyber-threats-understanding-the-dangers-of-suspicious-pdfs-on-mobile-devices-with-malwarefox-insights/"><u>Navigating Cyber Threats: Understanding the Dangers of Suspicious PDFs on Mobile Devices with MalwareFox Insights</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-free-software-for-converting-flv-videos-into-3gp-format/"><u>Top Free Software for Converting FLV Videos Into 3GP Format</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-avatar-online-for-2024/"><u>Updated Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
 </ul></div>
 

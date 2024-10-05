@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Handling Customer Information with Microsoft Windows Installation Framework
-date: 2024-09-29T10:08:37.659Z
-updated: 2024-09-30T10:22:33.612Z
+date: 2024-10-03T20:12:16.890Z
+updated: 2024-10-05T16:31:18.569Z
 tags:
   - application-packaging-training
 categories:
@@ -51,10 +51,10 @@ We already have the advertised shortcut option on all of the shortcuts, so we'll
 ![ai vlc hkcu](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-hkcu.png "ai vlc hkcu")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We need user registry keys so that the self-healing mechanism detects their absence when a user launches the shortcuts and initiates the actions. When the self-healing mechanism kicks in, it also considers the custom actions in the sequence.
@@ -62,13 +62,6 @@ We need user registry keys so that the self-healing mechanism detects their abse
 The user data files are then moved to a per-machine location. To do so, go to the Files and Folders page and create a new folder called UserData under the Application Folder, then drag the previously created vlc folder under the Application Data and drop it under the newly created UserData. At the end, it should look like this:
 
 ![ai vlc user data per machine](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine.png "ai vlc user data per machine")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We can now be certain that the files that must be copied on each user profile are always present on a per-machine basis, and that the files will be available even if the MSI is deleted. The final step is to create a custom action that copies the files from the UserData folder to the %appdata% folder.
 
@@ -101,26 +94,12 @@ Then, launch Advanced Installer and go to the Custom Actions Page. Look for the 
 
 ![ai vlc user data per machine vbscript](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-vbscript.png "ai vlc user data per machine vbscript")  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The code for the PowerShell script:
 
 $programfiles = $env:ProgramW6432
 $appdata = $env:APPDATA
 $sourcePath = $programfiles + "\VideoLAN\VLC\UserData"
 $destinationPath = $appdata + "\VLC"
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Copy the folder and its contents recursively
 Copy-Item -Path $sourcePath -Destination $destinationPath -Recurse -Force
@@ -139,15 +118,36 @@ Then, launch Advanced Installer and go to the Custom Actions Page. Search for th
 
 ![ai vlc user data per machine powershell](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-powershell.png "ai vlc user data per machine powershell")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Scenario two - Active Setup
 
 The only difference between scenarios 1 and 2 is that in the active setup case, we disable the advertised shortcuts and do not require any other HKCU registry keys. After you've disabled the advertised shortcuts, go to the Product Details page and look for the Active Setup tab.
 
 ![ai vlc user data per machine active setup page](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-active-setup-page.png "ai vlc user data per machine active setup page")  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In here, click on New and you can leave everything as default in the new window that appears.
 
 ![ai vlc user data per machine active setup config](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-active-setup-config.png "ai vlc user data per machine active setup config")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 We have discussed more in-depth about the [Active Setup mechanism in our first book](https://tools.techidaily.com/advancedinstaller/products/), but if we check what the above settings mean we end up with the following:
 
@@ -179,22 +179,17 @@ And that is it, in both cases after the application is installed we have ensured
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-cc-license-application-a-comprehensive-guide/"><u>[New] Mastering CC License Application A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-complete-insight-gopro-silver-hero4-detailed-assessment/"><u>[Updated] Complete Insight GoPro Silver Hero4 Detailed Assessment</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-spin-cycle-in-the-ice-arena-of-22/"><u>[Updated] Spin Cycle in the Ice Arena of '22</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-vectors-sourcebook-top-10-list/"><u>2024 Approved The Ultimate Vectors Sourcebook - Top 10 List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>2024 Approved Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726027560661-mkv/"><u>最適な非劣化編集ツール：MKVファイルの基本から上達までガイド</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029516744-chrome/"><u>Chromeビデオ再生に問題が発生したときの解決手段</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-with-these-5-simple-cost-free-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format with These 5 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-importance-of-chatgpts-language-processing-capabilities/"><u>Decoding the Importance of ChatGPT's Language Processing Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-officejet-inkjet-printer-drivers-for-windows-systems/"><u>Download the Latest HP OfficeJet Inkjet Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-change-trp-videos-to-ts-format-without-a-hitch/"><u>Easy Steps to Change TRP Videos to TS Format without a Hitch</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-guide-ultimate-hd-video-processing-toolkit-with-feature-rich-factory-pro-applications/"><u>Expert Guide: Ultimate HD Video Processing Toolkit with Feature-Rich Factory Pro Applications</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-mir4-game-crashes-on-windows/"><u>Resolved: Fixes for Mir4 Game Crashes on Windows</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-tutorial-setting-up-and-using-the-functional-exodus-kodi-addon-with-leia/"><u>Step-by-Step Tutorial: Setting Up and Using the Functional Exodus Kodi Addon with Leia</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/streamline-your-viewing-experience-tips-for-recording-app-show-content/"><u>Streamline Your Viewing Experience: Tips for Recording App Show Content</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/tips-for-removing-discord-servers-on-pcs-and-phones-for-2024/"><u>Tips for Removing Discord Servers on PCs & Phones for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029858827-youtubedvd/"><u>YouTube上でDVDデータを効率よくアップロードする方法説明 - ユーザーフレンドリーなチュートリアル</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-optimal-solutions-for-webp-to-jpg-image-transformation/"><u>[New] 2024 Approved Optimal Solutions for WebP-to-JPG Image Transformation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-clearing-the-fuzziness-tips-to-improve-chrome-videography/"><u>[New] Clearing the Fuzziness Tips to Improve Chrome Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-hands-on-approaches-to-archive-vimeo-video-for-2024/"><u>[Updated] Hands-On Approaches to Archive Vimeo Video for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-into-the-digital-frontier-vr-today-and-tomorrow-for-2024/"><u>[Updated] Into the Digital Frontier VR Today & Tomorrow for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-frame-fastness-mastering-time-lapse-shots-with-samsung/"><u>2024 Approved Frame Fastness Mastering Time-Lapse Shots with Samsung</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>2024 Approved How to Minimize Stress in iPad Screen Recordings? Here's a Way</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/decoding-cyber-threats-how-malware-differs-from-spyware-with-insights-from-malwarefox/"><u>Decoding Cyber Threats: How Malware Differs From Spyware with Insights From MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ensuring-flawless-transitions-through-optimized-repackaging-methods/"><u>Ensuring Flawless Transitions Through Optimized Repackaging Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simple-methods-seamless-m4a-to-wav-file-transformation/"><u>Simple Methods: Seamless M4A to WAV File Transformation</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-5-free-mac-screen-capture-tools-the-ultimate-guide/"><u>Top 5 Free Mac Screen Capture Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-fortnite-starter-pack-mastering-the-basics/"><u>Ultimate Fortnite Starter Pack: Mastering the Basics</u></a></li>
 </ul></div>
 

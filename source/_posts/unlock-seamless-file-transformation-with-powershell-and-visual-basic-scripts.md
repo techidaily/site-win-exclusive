@@ -1,7 +1,7 @@
 ---
 title: Unlock Seamless File Transformation with PowerShell and Visual Basic Scripts
-date: 2024-09-25T17:26:36.051Z
-updated: 2024-09-29T21:15:37.761Z
+date: 2024-09-28T18:51:42.036Z
+updated: 2024-10-05T17:05:15.905Z
 tags:
   - application-packaging-training
 categories:
@@ -26,10 +26,10 @@ Allowing users to modify the installation path of their application is a common 
 In this article, we'll see how we can replace hard coded paths or variables inside files using custom actions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Discover Hard-coded Files?
@@ -50,13 +50,6 @@ To see which files contain the C:\\Program Files\\path, follow these steps:
 
 ![Find in files](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/findinfiles.png "Find in files")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. In the **Find What** field, input the INSTALLDIR of your application, in our case: C:\\Program Files\\.
 
 3\. In the **Directory** field, input the location of your captured files.
@@ -67,13 +60,6 @@ If there are any matches found, Notepad++ will show you at what **file and line*
 
 ![Find in files result](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/findinfilesresult.png "Find in files result")  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Does Automatic INI De-hardcoding Work?
 
 As you can see from above, Notepad++ found our location inside an INI file. However, working with INI files becomes a straightforward process when using Advanced Installer. During the repackaging process, the Advanced Installer imports all INI files into the project and **de-hardcodes them automatically**.
@@ -83,6 +69,13 @@ Additionally, when you add a new INI file while editing your project, Advanced I
 Want to see Advanced Installer in action? Check it out through our [30-day full featured free trial](https://tools.techidaily.com/advancedinstaller/products/) and elevate your installation process today!
 
 ![AI Ini](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/AIIni.png "AI Ini")  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### De-hardcoding Files Using VBScript Custom Actions
 
@@ -127,10 +120,10 @@ Up to line 8, we are using **Session.Property("CustomActionData");** this allows
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Check out our article and learn [How to set an installer property using custom actions](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 At line 9, the "**;**" separates the parameters, and **path1** represents the first argument. The **path2** represents the second argument that we pass.
@@ -161,6 +154,13 @@ Now that we have our script ready, let’s **create the Custom Action** in Advan
 After the package is installed, if we check the **hello.cfg** file in the INSTALLDIR, we can see that it has been successfully de-hardcoded.
 
 ![cfgdehard](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/cfgdehard.png "cfgdehard")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### De-hardcoding Files using PowerShell Custom Actions
 
@@ -205,18 +205,21 @@ The behavior is the same as with VBScript, and the **hello.cfg** file is correct
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-virtual-stage-enhancement-zooms-filter-guidebook/"><u>[Updated] The Virtual Stage Enhancement Zoom's Filter Guidebook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>2024 Approved Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-interaction-shape-the-knowledge-base-of-chatgpt-from-conversations/"><u>Can Interaction Shape the Knowledge Base of ChatGPT From Conversations?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-the-apple-m4-processor-released-information-exciting-features-and-capabilities/"><u>Explore the Apple M4 Processor: Released Information, Exciting Features & Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/humorous-editing-apps-and-tools-a-comprehensive-list-iosandroid/"><u>Humorous Editing Apps & Tools A Comprehensive List (iOS/Android)</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/pchulu-youtube/"><u>PCによるHulu映像のビデオ録画手引き - YouTubeで見る方法</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-strategies-for-archiving-irretrievable-tiktok-footage/"><u>Step-by-Step Strategies for Archiving Irretrievable TikTok Footage</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-us-national-biocontainment-facilities-such-as-the-nihs-rocky-mountain-laboratories-play-a-critical-role-in-researching-dangerous-pathogens-under-high-le43/"><u>The U.S. National Biocontainment Facilities, Such as the NIH's Rocky Mountain Laboratories, Play a Critical Role in Researching Dangerous Pathogens Under High-Level Containment Conditions.</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo-for-2024/"><u>The Ultimate Guide to Video Excellence & Staff Picks at Vimeo for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-techniques-to-stream-wma-files-on-your-android-device/"><u>Top Techniques to Stream WMA Files on Your Android Device</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-techniques-for-ripping-burning-and-cloning-data-on-dvds-and-cds/"><u>Ultimate Techniques for Ripping, Burning & Cloning Data on DVDs and CDs</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/vbr-vs-cbr-choosing-the-right-video-compression-method/"><u>VBR vs CBR: Choosing the Right Video Compression Method</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/win-the-new-wonderfox-collection-free-prize-and-special-deals-for-back-to-school-season-2014/"><u>Win the New WonderFox Collection – Free Prize & Special Deals for Back to School Season, 2014!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-2023s-top-no-cost-fb-photo-and-video-crafting/"><u>[New] 2024 Approved 2023'S Top No-Cost FB Photo & Video Crafting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhancing-your-iphone-experience-voice-memo-techniques/"><u>[New] In 2024, Enhancing Your iPhone Experience Voice Memo Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-effective-pip-use-on-edge-browser/"><u>[Updated] Expert Tips for Effective PIP Use on Edge Browser</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-seamless-transfer-of-iphone-contacts-to-your-new-samsung-galaxy-s6/"><u>1. Seamless Transfer of iPhone Contacts to Your New Samsung Galaxy S6</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-create-an-alarm-reminder-on-your-android-device/"><u>Easy Steps to Create an Alarm Reminder on Your Android Device</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-repackaging-strategies-guaranteeing-seamless-results/"><u>Effective Repackaging Strategies Guaranteeing Seamless Results</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exposing-googles-5th-billion-scheme-understanding-the-scam-and-effective-elimination-techniques/"><u>Exposing Google's 5Th Billion Scheme: Understanding the Scam & Effective Elimination Techniques</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/free-effortless-conversion-of-m4v-files-to-mp4-format-moveavis-quick-guide/"><u>Free Effortless Conversion of M4V Files to MP4 Format - Moveavi's Quick Guide</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/free-guide-creating-playlists-and-burning-cds-using-itunes-macos-windows-11-and-earlier-versions/"><u>Free Guide: Creating Playlists and Burning CDs Using iTunes, MacOS, Windows 11 & Earlier Versions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-to-broadcasting-your-gameplay-mastering-lcs-style-livestreams-with-wild-rift/"><u>Guide to Broadcasting Your Gameplay: Mastering LCS-Style Livestreams with Wild Rift</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>In 2024, Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-z-fold-5-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy Z Fold 5 Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-adjusting-video-playback-velocity-a-comprehensive-guide/"><u>Mastering the Art of Adjusting Video Playback Velocity: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-email-impersonation-techniques-and-defense-strategies/"><u>Understanding Email Impersonation: Techniques & Defense Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpt-plus-enhanced-ai-chatbot-us-only-us20-mo/"><u>Unveiling GPT-Plus: Enhanced AI ChatBot, U.S. Only (US$20 Mo)</u></a></li>
 </ul></div>
 

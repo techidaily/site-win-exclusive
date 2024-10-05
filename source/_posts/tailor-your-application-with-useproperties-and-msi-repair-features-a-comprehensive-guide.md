@@ -1,7 +1,7 @@
 ---
 title: "Tailor Your Application with UseProperties & MSI Repair Features: A Comprehensive Guide"
-date: 2024-09-29T04:27:52.033Z
-updated: 2024-09-30T01:44:43.758Z
+date: 2024-09-30T20:15:30.969Z
+updated: 2024-10-05T16:34:18.371Z
 tags:
   - application-packaging-training
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 ## Application Customization
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Significance of Advertised Shortcuts
 
 An advertised shortcut is a pointer to a file or folder that is installed by an MSI package. When running an advertised shortcut, Windows Installer first checks that all the components of the respective feature are installed before running the file. If any of the components are missing, Windows Installer repairs the installation by installing the missing components. This ensures that the application remains consistent and that all of its features are available when required.
@@ -32,6 +39,13 @@ What is to take is that if your application contains multiple features, but the 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more information regarding shortcuts, check out our first [MSI Packaging Essentials ebook](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is Self-Healing
 
 The MSI (Microsoft Installer) self-healing mechanism is a powerful feature that ensures the integrity and availability of installed applications. It is intended to detect and repair any missing or corrupted files, registry entries, or other components of an application, preserving the application's functionality and preventing potential problems.
@@ -39,19 +53,6 @@ The MSI (Microsoft Installer) self-healing mechanism is a powerful feature that 
 When an MSI-based application is installed, Windows Installer creates a comprehensive installation database known as the installation package or MSI package. This package contains all of the resources and information needed to install and maintain the application. Files, registry entries, shortcuts, components, and other configuration settings are all included. This small MSI it’s also known as the “cached MSI” and can be found in the %systemroot%\\installer folder. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)It is very important to mention that manual interventions for the Installer folder should never be done. For more details about the Installer folder check out [this article](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Specific events, such as the launch of an application, the opening of a document associated with the application, or the invocation of a Windows Installer action such as repair or modify, initiate the self-healing process. When any of these events occurs, Windows Installer validates the application's integrity by comparing the recorded installation information to the current state of the system.
 
@@ -129,6 +130,13 @@ We already looked at how to use Process Monitor to detect if an EXE contains an 
 
 ![process monitor detect vlc settings](https://cdn.advancedinstaller.com/img/application-customization/process-monitor-detect-vlc-settings.png "process monitor detect vlc settings")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click OK and start the capture process
 * Open VLC Media Player and go to Tools > Preferences and implement the desired configurations. Close the preferences and close VLC Media Player
 
@@ -136,27 +144,7 @@ After we have completed all of these steps, we can see at the bottom of the Proc
 
 ![process monitor detect vlc settings info](https://cdn.advancedinstaller.com/img/application-customization/process-monitor-detect-vlc-settings-info.png "process monitor detect vlc settings info")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to use Advanced Repackager, follow the same steps as when we started the VLC Media Player repackaging process, but instead of selecting an executable, check the Session Monitoring checkbox. At the end, Advanced Repackager will identify the modified vlcrc.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Custom settings implementation in the package
 
@@ -165,10 +153,10 @@ Now that we know which file needs to be added into the package, we can simplify 
 ![vlc media player settings ai](https://cdn.advancedinstaller.com/img/application-customization/vlc-media-player-settings-ai.png "vlc media player settings ai")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When it comes to installers, however, working with user files or the registry is more difficult. When an application is deployed in an infrastructure using any infrastructure management tools, the NT System\\Administrator account is used. This is the most privileged account available.
@@ -216,17 +204,21 @@ However, while this solution may work, it does not represent industry best pract
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-4-essential-steps-to-create-engaging-instagram-loops-for-2024/"><u>[New] The 4 Essential Steps to Create Engaging Instagram Loops for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/deciphering-the-distinction-a-side-by-side-comparison-of-kindle-and-amazon-fire-tablet/"><u>Deciphering the Distinction: A Side-by-Side Comparison of Kindle and Amazon Fire Tablet.</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-note-12r-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi Note 12R Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-sony-xperia-5-portable-size-premium-cost/"><u>Examining the Sony Xperia 5: Portable Size, Premium Cost</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/get-your-free-windows-10-movie-file-support-by-downloading-and-installing-the-mov-codec/"><u>Get Your Free Windows 10 Movie File Support by Downloading and Installing the Mov Codec!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-f34-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy F34 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-130-music-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia 130 Music Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/in-depth-comparison-test-of-top-dvd-tools-wonderfox-vs-winx-which-wins/"><u>In-Depth Comparison Test of Top DVD Tools: WonderFox VS WinX - Which Wins?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ipadvob/"><u>IPadにおけるVOB形式再生不可解決のステップバイ・ステップガイド</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/pchulu-youtube/"><u>PCによるHulu映像のビデオ録画手引き - YouTubeで見る方法</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A2 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-strategies-for-archiving-irretrievable-tiktok-footage/"><u>Step-by-Step Strategies for Archiving Irretrievable TikTok Footage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>[New] Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unpacking-newscreenx-pros-recording-innovations/"><u>[Updated] 2024 Approved Unpacking NewScreenX Pro’s Recording Innovations</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-9-removal-techniques-for-white-background-email-signatures-2023-edition/"><u>Best 9 Removal Techniques for White Background Email Signatures: 2023 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-unresponsive-space-bar-keys-in-your-new-windows-11-pc/"><u>Dealing with Unresponsive Space Bar Keys in Your New Windows 11 PC</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/decoding-cyber-threats-how-malware-differs-from-spyware-with-insights-from-malwarefox/"><u>Decoding Cyber Threats: How Malware Differs From Spyware with Insights From MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ensuring-flawless-transitions-through-optimized-repackaging-methods/"><u>Ensuring Flawless Transitions Through Optimized Repackaging Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-smart-7-hd-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Smart 7 HD Phone?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-grove-memetic-magic-for-all-ages/"><u>In 2024, Giggle Grove Memetic Magic for All Ages</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>In 2024, Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premiere-pros-finest-tools-free-and-exceptional-quality/"><u>Premiere Pro's Finest Tools - Free & Exceptional Quality</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/quick-guide-deleting-whatsapp-conversations-efficiently-on-ios-devices/"><u>Quick Guide: Deleting WhatsApp Conversations Efficiently on iOS Devices</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simple-methods-seamless-m4a-to-wav-file-transformation/"><u>Simple Methods: Seamless M4A to WAV File Transformation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-essential-guide-to-youtube-video-lighting-tips-for-2024/"><u>The Essential Guide to YouTube Video Lighting Tips for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-5-free-mac-screen-capture-tools-the-ultimate-guide/"><u>Top 5 Free Mac Screen Capture Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-fortnite-starter-pack-mastering-the-basics/"><u>Ultimate Fortnite Starter Pack: Mastering the Basics</u></a></li>
 </ul></div>
 

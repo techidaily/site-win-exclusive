@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality"
-date: 2024-09-24T16:42:13.187Z
-updated: 2024-09-30T02:45:42.243Z
+date: 2024-10-01T19:58:46.552Z
+updated: 2024-10-05T18:39:46.504Z
 tags:
   - application-packaging-training
 categories:
@@ -46,6 +46,13 @@ Regsvr32 \[/u\] \[/n\] \[/i\[:cmdline\]\] <dllname>
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Regsvr32 must always be used from an elevated command prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, to register a DLL/OCX, you can use:
 
 Regsvr32.exe PATHTODLL\name.DLL
@@ -59,20 +66,6 @@ Regsvr32.exe /U PATHTODLL\name.DLL
 Copy
 
 ![Regsvr32 command-line utility](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/regsvr32.png "Regsvr32 command-line utility")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with VBscript?
 
@@ -119,11 +112,25 @@ Copy
 
 ![register the DLL](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLRegisterVB.png "register the DLL")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We also want to unregister the DLL during uninstallation, so let's create another custom action the same way as we did previously. Except this time, select the unregister script and configure the Custom Action as seen below:
 
 ![unregister the DLL during uninstallation](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLUnregisterVB.png "unregister the DLL during uninstallation")  
 
 And that is it, all you need to do is **Build the MSI and install it.** The DLL will be registered.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with PowerShell?
 
@@ -156,20 +163,13 @@ For the unregister action, we follow the same steps as above and configure the C
 
 ![DLL Unregister PowerShell script](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLUnregisterPS.png "DLL Unregister PowerShell script")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And you're done, now you can Build the MSI and install it. The DLL will be registered.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with Advanced Installer?
@@ -214,16 +214,20 @@ It creates the required registry entries so that your assembly is operable throu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-prime-additions-for-newbie-gopro-photographers-for-2024/"><u>[New] Prime Additions for Newbie GoPro Photographers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-transformations-unlocked-the-2-most-effective-ways-to-convert-video-for-2024/"><u>[New] Transformations Unlocked The 2 Most Effective Ways to Convert Video for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/filemaker/"><u>「音楽・動画をFileMakerで正常にインポートするための対策ガイド」</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-indestructible-link-methodology-for-tiktok-bio-info/"><u>2024 Approved The Indestructible Link Methodology for TikTok Bio Info</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/factory-or-pro-key-advantages-of-the-two-versions-of-nokia-video-converter/"><u>Factory or Pro? Key Advantages of the Two Versions of Nokia Video Converter</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/get-your-free-windows-10-movie-file-support-by-downloading-and-installing-the-mov-codec/"><u>Get Your Free Windows 10 Movie File Support by Downloading and Installing the Mov Codec!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-ginger-islet-simplified-for-stardew-gamers/"><u>In 2024, Ginger Islet Simplified for Stardew Gamers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/in-depth-comparison-test-of-top-dvd-tools-wonderfox-vs-winx-which-wins/"><u>In-Depth Comparison Test of Top DVD Tools: WonderFox VS WinX - Which Wins?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-pros-and-cons-an-authoritative-review-of-the-newly-enhanced-elegoo-neptune-4-max-printer/"><u>Unveiling the Pros & Cons: An Authoritative Review of the Newly Enhanced Elegoo Neptune 4 Max Printer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808337934-windows-10-settings-wont-open-solved/"><u>Windows 10 Settings Won't Open ? [Solved]</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-activating-or-deactivating-user-feedback-on-videos/"><u>[Updated] Activating or Deactivating User Feedback on Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-captivating-audiences-on-tiktok-by-blending-sound-and-sight/"><u>[Updated] In 2024, Captivating Audiences on TikTok by Blending Sound and Sight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-video-sims-4-mastery-guide-for-2024/"><u>[Updated] Video Sims 4 Mastery Guide for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-securing-your-android-top-strategies-to-shield-against-malware-and-ensure-device-safety/"><u>1. Securing Your Android: Top Strategies to Shield Against Malware & Ensure Device Safety</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-13c-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi 13C Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-3-cost-free-alternatives-to-itunes-on-your-iphone/"><u>Best 3 Cost-Free Alternatives to iTunes on Your iPhone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/defending-against-wannacry-comprehensive-guide-by-malwarefox/"><u>Defending Against WannaCry: Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/evaluating-your-antivirus-ensuring-effective-cybersecurity-protection/"><u>Evaluating Your Antivirus: Ensuring Effective Cybersecurity Protection</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/evasion-experts-how-effective-is-malware-at-outsmarting-windows-defender-protections/"><u>Evasion Experts: How Effective Is Malware at Outsmarting Windows Defender Protections?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/expert-picks-the-11-leading-ransomware-protection-tools-of-the-year/"><u>Expert Picks: The 11 Leading Ransomware Protection Tools of the Year</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-dolby-digital-issues-for-optimal-home-cinema-experience-on-windows-11/"><u>How To Fix Dolby Digital Issues for Optimal Home Cinema Experience on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-easy-to-use-free-youtube-downloader-with-mp3-support/"><u>In 2024, Easy-to-Use Free YouTube Downloader with MP3 Support</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/making-the-leap-to-digital-readers/"><u>Making the Leap to Digital Readers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-win32pup-gene-threat-identification-and-removal-guide/"><u>Understanding Win32/PUP-Gene Threat: Identification & Removal Guide</u></a></li>
 </ul></div>
 

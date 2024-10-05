@@ -1,7 +1,7 @@
 ---
 title: "Comparative Techniques in Software Remastering: Insights Into MSI and EXE Conversion Strategies"
-date: 2024-09-27T01:41:06.793Z
-updated: 2024-09-29T23:45:14.157Z
+date: 2024-10-04T17:07:29.798Z
+updated: 2024-10-05T19:16:27.211Z
 tags:
   - application-packaging-training
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 
 ## Way forward for your installer
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Strategies for Repackaging Applications: MSI and EXE Approaches
 
 Depending on the situation, there are a number of actions you can take when it comes to repackaging an application:
@@ -35,10 +42,10 @@ The first step is to determine whether the EXE requires repackaging or if it con
 * Use [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon "Process Monitor")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Process Monitor to Detect embedded MSI in EXE
@@ -56,10 +63,10 @@ To detect if an EXE contains an embedded MSI with Process Monitor, follow these 
 ![process monitor filters window](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-filters-window.png "process monitor filters window")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- Configure filter rules: In the Filter dialog box, specify the conditions to filter the events. To detect if an EXE installer contains an embedded MSI, you can set up the following filters: In the "Display entries matching these conditions" select "Operation", “is”, “Process Create” and then “include’. Click on Add.
@@ -67,16 +74,10 @@ To detect if an EXE contains an embedded MSI with Process Monitor, follow these 
 ![process monitor operation is process create](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-operation-is-process-create.png "process monitor operation is process create")  
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- These filters will record events related to the EXE installer and any MSI files used during its execution.
@@ -92,13 +93,6 @@ To detect if an EXE contains an embedded MSI with Process Monitor, follow these 
 For example, if we install Tableau Reader and start the Process Monitor tool and follow the above steps, we will have the following operations captured:
 
 ![process monitor detect msi](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-detect-msi.png "process monitor detect msi")  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We're most interested in the Path and Detail columns. Looking at what TableauReader.exe does, it first extracts the installer data into a temporary directory in the %temp% directory, then installs the Visual C++ Redistributables 2013, followed by the Tableau Reader. However, if we look closely, we can see that the msiexec.exe service is called, indicating that the exe file is extracting the file in that %temp% location.
 
@@ -119,24 +113,19 @@ This is an example where you will need to create a transform file (MST) to furth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-innovative-ways-to-log-ps3-competitive-sessions/"><u>[Updated] 2024 Approved Innovative Ways to Log PS3 Competitive Sessions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/filemaker/"><u>「音楽・動画をFileMakerで正常にインポートするための対策ガイド」</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029516744-chrome/"><u>Chromeビデオ再生に問題が発生したときの解決手段</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-with-these-5-simple-cost-free-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format with These 5 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-methods-to-perform-a-soft-reset-on-your-iphone/"><u>Easy Methods to Perform a Soft Reset on Your iPhone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-change-trp-videos-to-ts-format-without-a-hitch/"><u>Easy Steps to Change TRP Videos to TS Format without a Hitch</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/einfachheit-perfekt-machen-einstellen-von-handbrake-fur-hevch265-kodierung/"><u>Einfachheit Perfekt Machen: Einstellen Von HandBrake Für HEVC/H.265-Kodierung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-224003-solved-troubleshooting-non-playable-video-files/"><u>Error 224003 Solved: Troubleshooting Non-Playable Video Files</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-guide-ultimate-hd-video-processing-toolkit-with-feature-rich-factory-pro-applications/"><u>Expert Guide: Ultimate HD Video Processing Toolkit with Feature-Rich Factory Pro Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-best-phone-options-for-enhanced-gear-vr-immersion-for-2024/"><u>Explore the Best Phone Options for Enhanced Gear VR Immersion for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/factory-or-pro-key-advantages-of-the-two-versions-of-nokia-video-converter/"><u>Factory or Pro? Key Advantages of the Two Versions of Nokia Video Converter</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/get-your-free-windows-10-movie-file-support-by-downloading-and-installing-the-mov-codec/"><u>Get Your Free Windows 10 Movie File Support by Downloading and Installing the Mov Codec!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-se-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone SE Without Previous Owner?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S24 Ultra Lock Screen Password?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/in-depth-comparison-test-of-top-dvd-tools-wonderfox-vs-winx-which-wins/"><u>In-Depth Comparison Test of Top DVD Tools: WonderFox VS WinX - Which Wins?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leverage-with-these-free-video-teasers/"><u>Leverage with These Free Video Teasers</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029858827-youtubedvd/"><u>YouTube上でDVDデータを効率よくアップロードする方法説明 - ユーザーフレンドリーなチュートリアル</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-traditional-markets-with-virtual-engineering/"><u>[Updated] Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-free-pdf-editing-software-optimal-choice-for-windows-11-users/"><u>Best Free PDF Editing Software: Optimal Choice for Windows 11 Users</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-tools-and-websites-to-download-mp3-from-youtube-videos/"><u>Best Tools and Websites to Download MP3 From YouTube Videos</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/building-a-safe-digital-environment-incorporating-anti-money-laundering-measures-in-banking-software/"><u>Building a Safe Digital Environment: Incorporating Anti-Money Laundering Measures in Banking Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-1087/"><u>Download Latest NVIDIA Quadro RTX 8000 Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k-for-2024/"><u>From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/seamless-integration-transferring-your-bank-records-into-quickbooks-effortlessly/"><u>Seamless Integration: Transferring Your Bank Records Into QuickBooks Effortlessly</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/secure-your-windows-10-computer-with-an-easy-to-make-usb-safety-device/"><u>Secure Your Windows 10 Computer with an Easy-to-Make USB Safety Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-wont-see-my-controller-heres-the-quick-fix-for-windows-users/"><u>Steam Won't See My Controller? Here's the Quick Fix for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-for-when-visual-look-up-wont-work-on-your-iphone/"><u>The Ultimate Fix for When Visual Look Up Won't Work on Your iPhone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-11-ios-11-troubleshooting-guide-solutions-and-tips/"><u>Top 11 iOS 11 Troubleshooting Guide: Solutions & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011787866-twitch-audio-not-working-heres-how-to-fix-streaming-silence/"><u>Twitch Audio Not Working? Here's How to Fix Streaming Silence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-of-the-chkdsk-command-in-windows-operating-systems/"><u>Unlocking the Secrets of the Chkdsk Command in Windows Operating Systems</u></a></li>
 </ul></div>
 

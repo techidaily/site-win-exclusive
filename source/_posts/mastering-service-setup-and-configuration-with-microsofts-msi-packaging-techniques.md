@@ -1,7 +1,7 @@
 ---
 title: Mastering Service Setup & Configuration with Microsoft's MSI Packaging Techniques
-date: 2024-09-28T05:26:25.183Z
-updated: 2024-09-29T16:55:19.465Z
+date: 2024-09-30T19:57:40.538Z
+updated: 2024-10-05T18:43:31.579Z
 tags:
   - application-packaging-training
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
 ## Working with Services
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Introduction to Services
 
 Services play a critical role in the installation and management of software applications. They are independent background processes that provide specific functionality or perform system tasks. Services are components that can be installed, configured, and managed as part of an application installation in the context of Windows Installer (MSI).
@@ -33,6 +26,13 @@ Services play a critical role in the installation and management of software app
 ### Understanding Services in MSI
 
 Services are represented as components in MSI, which include files, registry entries, and configuration settings required for the service to function properly. The MSI package defines these components, which can be installed, started, stopped, and managed using the Windows Service Control Manager (SCM).
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Benefits of Using Services in MSI
 
@@ -70,19 +70,19 @@ In Advanced Installer, you have full control over the installation, configuratio
 
 ![ai services](https://cdn.advancedinstaller.com/img/create-and-configure-msi-services/ai-services.png "ai services")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Advanced Installer's service management interface includes a comprehensive set of features for managing services. The interface is split into four sections:
 
 * Services to Install: This branch contains a list of all the services that your package will install. You can specify the services that will be installed and their properties.
 * Control Operations: Control actions for services during installation or uninstallation can be defined here. This includes launching, stopping, and deleting services as needed.
 * Configure Operations: During installation or uninstallation, you can configure service-specific operations in this branch. You can specify custom actions or configurations that must be carried out for specific services..
 * Failure Operations: This branch allows you to configure service failure actions. When a service fails or encounters errors, you can specify what actions should be taken.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Service Installation
 
@@ -91,16 +91,10 @@ To add a new service for installation, you can use the "New Service" option. Thi
 ![ai services select](https://cdn.advancedinstaller.com/img/create-and-configure-msi-services/ai-services-select.png "ai services select")  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When configuring a service in Advanced Installer, you can fine-tune its behavior and characteristics using a range of properties. Here are the key properties you can set:
@@ -120,13 +114,6 @@ When configuring a service in Advanced Installer, you can fine-tune its behavior
 * Account: You can specify the user account under which the service will run. If left empty, the service will run under the LocalSystem account. Use the specified format (<Domain\_Name><User\_name>) for user accounts, and use a dot (.) as the domain name for local user accounts.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Services which interact with the desktop can use only the **LocalSystem** account.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Password: If applicable, you can provide the password for the service user account. Note that the LocalSystem account does not require a password.
 * Set "Log on as a service" policy: Enabling this option sets the "Log on as a service" policy for the specified user account.
@@ -152,6 +139,13 @@ After the service is installed, you have three available options:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If all three options are selected, the existing service will be stopped and removed, and the service in the package will be installed and started.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 During the uninstallation of your package, you can specify the behavior for the service:
 
 * Start: The service will be started.
@@ -159,13 +153,6 @@ During the uninstallation of your package, you can specify the behavior for the 
 * Delete: The service will be removed.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For uninstallation, you can only start a service that will still be present on the target machine after the uninstallation is complete.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In the service parameters section, you can provide a list of arguments separated by \[\~\] that will be executed when the service starts. These arguments can be localized, and the field accepts formatted types, allowing you to perform advanced editing with installer properties and smart edit control.
 
@@ -195,16 +182,10 @@ In the “Setting To Change” section, you can specify the changes to be made t
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)**"Time delay of an auto-start service"** is applied only on auto-start services or services installed by the package configured with Automatic Start Type from the "Parameters" field in the Service[Properties](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Failure Operations
@@ -214,10 +195,10 @@ Failure actions are an essential aspect of managing services, ensuring that they
 ![ai services failure operations](https://cdn.advancedinstaller.com/img/create-and-configure-msi-services/ai-services-failure-operations.png "ai services failure operations")  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Advanced Installer's service failure operation section includes the following properties:
@@ -243,13 +224,6 @@ You can specify a program to run in response to a "Run a program" action specifi
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Any changes made to the failure actions will take effect the next time the system is started.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Service Example
 
 Apache Tomcat is a popular open-source web server and servlet container for running Java-based web applications. Apache Tomcat is typically distributed as a set of executable files that must be manually installed and configured. However, you can repackage Apache Tomcat into an MSI installer using advanced packaging tools such as Advanced Installer, which simplifies the installation process and adds new features.
@@ -269,9 +243,29 @@ This is because, as previously stated, after installing a service, you must also
 
 ![ai services apache tomcat](https://cdn.advancedinstaller.com/img/create-and-configure-msi-services/ai-services-apache-tomcat.png "ai services apache tomcat")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Looking at how the service installation is configured, we can see that Advanced Installer has already implemented some best practices and detected the necessary configurations. This is a Win32 service that runs its own process; the start type is on demand; and we discovered some dependencies and arguments that were passed during the executable's installation.
 
 ![ai services control operations apache tomcat](https://cdn.advancedinstaller.com/img/create-and-configure-msi-services/ai-services-control-operations-apache-tomcat.png "ai services control operations apache tomcat")  
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When it comes to controlling what happens with the service after it is installed or removed, the Control Operations tab provides a graphical interface to define what you require. In this case, after installing the service, we must start it, and when uninstalling, it is best practice to first stop the service and then delete it. If the service is not stopped before deleting it, the operation may fail.
 
@@ -290,18 +284,22 @@ When it comes to controlling what happens with the service after it is installed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-easy-steps-for-perfect-screen-capture-with-mobizen/"><u>[New] Easy Steps for Perfect Screen Capture with Mobizen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfected-panels-expert-recommended-photo-editing-screens/"><u>[Updated] Perfected Panels Expert-Recommended Photo Editing Screens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-transform-your-farm-with-stardews-most-innovative-mods-7-best-for-2024/"><u>[Updated] Transform Your Farm with Stardew's Most Innovative Mods (7 Best) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-6-video-transcription-services/"><u>2024 Approved High-Quality 6 Video Transcription Services</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726027810416-flacmp3/"><u>FLAC形式へのMP3ファイル変換手順 - ステップバイステップガイド</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-gionee-f3-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Gionee F3 Pro</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726030474539-ituneswav/"><u>ITunesから直接WAVファイル:カンタンに変換方法解説</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-fades-in-adobe-audition-basics-for-2024/"><u>Mastering Fades in Adobe Audition Basics for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/most-esteemed-ios-tone-artisans-for-2024/"><u>Most Esteemed iOS Tone Artisans for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029811365-mpeg-4/"><u>MPEG-4変換手順ガイド - 動画に最適化</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/strategies-to-enhance-gopros-electric-efficiency/"><u>Strategies to Enhance GoPro's Electric Efficiency</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/youtubemp3/"><u>YouTubeからMP3プレーヤーに楽曲転送テクニック</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/44ot44oh44kq44o744of44ol44o844k444od44kv44ov44kh44kk44or55so6zplusz5aow44kz44o844oh44od44kv5asj5pu05oml6acg44ks44kk44oj/"><u>ビデオ・ミュージックファイル用音声コーデック変更手順ガイド</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-discord-live-broadcasts-for-2024/"><u>[New] The Ultimate Guide to Discord Live Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-livecam-rivals-meet/"><u>[Updated] 2024 Approved LiveCam Rivals Meet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/61521725-updated-2024-approved-your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads/"><u>[Updated] 2024 Approved Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-modern-methods-rapidly-turning-srt-into-txt-format/"><u>[Updated] Modern Methods Rapidly Turning SRT Into TXT Format</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-exclusion-dilemma-is-someone-hidden-on-snapchat/"><u>[Updated] The Exclusion Dilemma Is Someone Hidden On Snapchat?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-x9a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor X9a without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/chrome-alert-protect-your-smartphone-from-the-may-be-in-danger-security-warning-by-malwarefox/"><u>Chrome Alert: Protect Your Smartphone From the 'May Be in Danger' Security Warning by MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effortless-conversion-downloading-your-favorite-vevo-songs-as-mp3/"><u>Effortless Conversion: Downloading Your Favorite Vevo Songs as MP3</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ensuring-profit-tracking-on-your-channel-for-2024/"><u>Ensuring Profit Tracking on Your Channel for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/solving-video-capture-problems-in-windows-10-gaming-effective-fixes-and-guides/"><u>Solving Video Capture Problems in Windows 10 Gaming: Effective Fixes and Guides</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-capturing-gameplay-footage-of-gwent-across-pc-and-mobile-devices/"><u>Step-by-Step Guide: Capturing Gameplay Footage of Gwent Across PC & Mobile Devices</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-how-to-erase-shadows-from-images-successfully/"><u>Step-by-Step Guide: How To Erase Shadows From Images Successfully</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-mirroring-your-iphone-screen-on-apple-tv/"><u>Step-by-Step Guide: Mirroring Your iPhone Screen on Apple TV</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-moving-images-from-your-ipad-to-windows-or-mac-computer/"><u>Step-by-Step Guide: Moving Images From Your iPad to Windows or Mac Computer</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-syncing-your-iphone-screen-with-ipad/"><u>Step-by-Step Guide: Syncing Your iPhone Screen with iPad</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/tailor-your-application-with-useproperties-and-msi-repair-features-a-comprehensive-guide/"><u>Tailor Your Application with UseProperties & MSI Repair Features: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-startup-problems-solutions-for-helldivers-iis-first-time-black-screen-error/"><u>Troubleshooting Startup Problems: Solutions for Helldivers II's First-Time Black Screen Error</u></a></li>
 </ul></div>
 

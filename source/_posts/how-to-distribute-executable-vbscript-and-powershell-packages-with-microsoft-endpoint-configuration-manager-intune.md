@@ -1,7 +1,7 @@
 ---
 title: How to Distribute Executable, VBScript & PowerShell Packages with Microsoft Endpoint Configuration Manager (Intune)
-date: 2024-09-28T07:06:53.113Z
-updated: 2024-09-30T04:18:46.874Z
+date: 2024-09-29T19:05:29.931Z
+updated: 2024-10-05T18:29:10.333Z
 tags:
   - application-packaging-training
 categories:
@@ -70,16 +70,22 @@ Step 2: Upload the MSI to Intune
 
 ![intune mem admin center front page](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-front-page.png "intune mem admin center front page")  
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 \- Navigate to "Apps" > "All apps." Click on "Add" to add a new app.
 
 ![intune mem admin center add app](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-add-app.png "intune mem admin center add app")  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 \- Select "Line-of-business app" as the app type.
 
@@ -88,13 +94,6 @@ Step 2: Upload the MSI to Intune
 \- Select the App Package File
 
 ![intune mem admin center loba app package](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-loba-app-package.png "intune mem admin center loba app package")  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Configure the App Details
 
@@ -109,13 +108,6 @@ Step 4: Assign the App to Groups
 \- Click on "Assignments" to assign the app to specific user groups or device groups and choose the appropriate groups based on your deployment requirements.
 
 ![intune mem admin center loba app assign](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-loba-app-assign.png "intune mem admin center loba app assign")  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Review and Deploy the App
 
@@ -149,37 +141,31 @@ The.intunewin file will be generated from the specified source folder and setup 
 
 ![win32 content prep tool](https://cdn.advancedinstaller.com/img/intune-package-deployment/win32-content-prep-tool.png "win32 content prep tool")  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Microsoft Win32 Content Prep Tool does not have a GUI, but if you want one you can download the [IntuneWinAppUtil GUI utility for free](https://www.alexandrumarin.com/downloads/ "IntuneWinAppUtil GUI utility for free").
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once the conversion is successful, the output folder should contain the .intunewin file necessary to upload to Intune.
 
 ![win32 content prep tool output](https://cdn.advancedinstaller.com/img/intune-package-deployment/win32-content-prep-tool-output.png "win32 content prep tool output")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Create the Intune Win32 App Package
 
 \- Sign in to the[Microsoft Endpoint Manager admin center](https://endpoint.microsoft.com/ "Microsoft Endpoint Manager admin center") with your Intune administrator credentials.
 
 ![intune mem admin center front page](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-front-page.png "intune mem admin center front page")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 \- Navigate to "Apps" > "All apps." Click on "Add" to add a new app.
 
@@ -192,6 +178,19 @@ Step 3: Create the Intune Win32 App Package
 \- Select the App Package File, in our case the .intunewin file created earlier
 
 ![intune mem admin center win32 app package](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-win32-app-package.png "intune mem admin center win32 app package")  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Configure the App Details
 
@@ -212,10 +211,10 @@ Step 6: Define Application Requirements
 ![intune mem admin center win32 app requirements](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-win32-app-requirements.png "intune mem admin center win32 app requirements")  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 7: Define the Detection Method
@@ -225,10 +224,10 @@ Step 7: Define the Detection Method
 ![intune mem admin center win32 app detection](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-win32-app-detection.png "intune mem admin center win32 app detection")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 8: Configure Dependencies
@@ -236,6 +235,19 @@ Step 8: Configure Dependencies
 \- If required, add any dependencies to ensure the app is deployed correctly
 
 ![intune mem admin center win32 app dependencies](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-win32-app-dependencies.png "intune mem admin center win32 app dependencies")  
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 9: Configure Supersedence
 
@@ -251,18 +263,24 @@ Step 10: Assign the App to Groups
 
 ![intune mem admin center win32 app assign](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-win32-app-assign.png "intune mem admin center win32 app assign")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 8: Review and Deploy the App
 
 Review the app settings and ensure everything is configured correctly. If everything is correct click on Create.
 
 ![intune mem admin center win32 app create](https://cdn.advancedinstaller.com/img/intune-package-deployment/intune-mem-admin-center-win32-app-create.png "intune mem admin center win32 app create")  
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you can see, the Win32 deployments are more lengthy and require more steps, but if you look closely it gives you a more granular view and control of your application deployment, hence why this method has been widely adopted by the IT Professionals.
 
@@ -281,24 +299,18 @@ As you can see, the Win32 deployments are more lengthy and require more steps, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-shattering-synthetic-statistics-on-youtube/"><u>[New] 2024 Approved Shattering Synthetic Statistics on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sketch-serious-snickers/"><u>2024 Approved Sketch Serious Snickers</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726027560661-mkv/"><u>最適な非劣化編集ツール：MKVファイルの基本から上達までガイド</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/free-webm-conversion-software-ranked-top-10-choices-for-your-computer-or-online-platforms/"><u>Free WebM Conversion Software Ranked: Top 10 Choices for Your Computer or Online Platforms</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/imoviemp4moviphonemac/"><u>IMovieでMP4/MOV動画を正常読み込めない場合の解決策~iPhone/Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>In 2024, Creating an Auditory Ambiance Choosing Background Music for Trailers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-13-mini-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 13 mini Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-smoothly-add-apods-episodes-on-devices/"><u>In 2024, How to Smoothly Add APods Episodes on Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-poco-f5-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Poco F5 Pro 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/iosandroidvob/"><u>IOSおよびAndroid向けにVOB動画ファイルを再生する究極のチュートリアル</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/seamless-conversion-techniques-transforming-ape-files-into-high-quality-flac-format/"><u>Seamless Conversion Techniques: Transforming APE Files Into High-Quality FLAC Format</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/secrets-of-seamless-video-editing-using-windows-11-tools-for-2024/"><u>Secrets of Seamless Video Editing Using Windows 11 Tools for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-downloading-content-from-tiktok/"><u>Step-by-Step Guide: Downloading Content From TikTok</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-tutorial-on-quick-and-easy-gopro-video-editing/"><u>Step-by-Step Tutorial on Quick and Easy GoPro Video Editing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-tutorial-setting-up-and-using-the-functional-exodus-kodi-addon-with-leia/"><u>Step-by-Step Tutorial: Setting Up and Using the Functional Exodus Kodi Addon with Leia</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/streamline-your-viewing-experience-tips-for-recording-app-show-content/"><u>Streamline Your Viewing Experience: Tips for Recording App Show Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-5-free-pinterest-video-downloader-online-for-2024/"><u>Top 5 Free Pinterest Video Downloader Online for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-enhancement-the-art-of-background-blur/"><u>YouTube Enhancement The Art of Background Blur</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ew-buzzwords-for-vlogger-dialogues-for-2024/"><u>[New] New Buzzwords for Vlogger Dialogues for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>[Updated] Perfecting iPhone Photo Albums Seamless Integration with iCloud</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-latest-hit-a-guide-to-todays-top-8-online-videos-for-2024/"><u>[Updated] The Latest Hit A Guide to Today's Top 8 Online Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-impact-setting-techniques-for-live-media/"><u>2024 Approved High-Impact Setting Techniques for Live Media</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/excellent-zamzar-replacements-enhanced-features-and-convenience-compared-to-zamzar/"><u>Excellent Zamzar Replacements - Enhanced Features and Convenience Compared to Zamzar</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/get-rid-of-the-google-threat-notice-error-using-malwarefox-your-ultimate-removal-tutorial/"><u>Get Rid of the Google Threat Notice Error Using MalwareFox – Your Ultimate Removal Tutorial</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-to-mastering-marvel-super-war-a-step-by-step-tutorial-for-pc-gamers/"><u>Guide to Mastering Marvel Super War: A Step-by-Step Tutorial for PC Gamers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-transcode-avchd-footage-into-mov-movies-on-macos-el-capitan/"><u>How to Transcode AVCHD Footage Into MOV Movies on macOS El Capitan</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-premiere-pro-compatibility-what-you-need-to-know-about-system-requirements/"><u>New Premiere Pro Compatibility What You Need to Know About System Requirements</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/optimizing-installation-processes-mastering-dependency-management-in-msi-creations-using-advanced-installer/"><u>Optimizing Installation Processes: Mastering Dependency Management in MSI Creations Using Advanced Installer</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/unveiling-stalkerware-comprehensive-guide-for-detection-and-elimination-safenetadvisor/"><u>Unveiling Stalkerware: Comprehensive Guide for Detection & Elimination - SafeNetAdvisor</u></a></li>
 </ul></div>
 

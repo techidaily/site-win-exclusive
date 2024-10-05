@@ -1,7 +1,7 @@
 ---
 title: "Simplifying File Conversion: Mastering PowerShell & VBScript for Efficient De-Hardening"
-date: 2024-09-24T20:26:53.859Z
-updated: 2024-09-29T19:05:31.010Z
+date: 2024-10-04T19:15:46.979Z
+updated: 2024-10-05T17:07:26.564Z
 tags:
   - application-packaging-training
 categories:
@@ -25,19 +25,6 @@ Allowing users to modify the installation path of their application is a common 
 
 In this article, we'll see how we can replace hard coded paths or variables inside files using custom actions.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Discover Hard-coded Files?
 
 Before we actually replace the hard coded paths, we first need to find out which files contain hard-coded paths. There are various ways to get this information, but the most straightforward one is to use Notepad++.
@@ -56,6 +43,13 @@ To see which files contain the C:\\Program Files\\path, follow these steps:
 
 ![Find in files](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/findinfiles.png "Find in files")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. In the **Find What** field, input the INSTALLDIR of your application, in our case: C:\\Program Files\\.
 
 3\. In the **Directory** field, input the location of your captured files.
@@ -67,10 +61,10 @@ If there are any matches found, Notepad++ will show you at what **file and line*
 ![Find in files result](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/findinfilesresult.png "Find in files result")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Does Automatic INI De-hardcoding Work?
@@ -82,6 +76,19 @@ Additionally, when you add a new INI file while editing your project, Advanced I
 Want to see Advanced Installer in action? Check it out through our [30-day full featured free trial](https://tools.techidaily.com/advancedinstaller/products/) and elevate your installation process today!
 
 ![AI Ini](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/AIIni.png "AI Ini")  
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### De-hardcoding Files Using VBScript Custom Actions
 
@@ -154,20 +161,6 @@ After the package is installed, if we check the **hello.cfg** file in the INSTAL
 
 ![cfgdehard](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/cfgdehard.png "cfgdehard")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### De-hardcoding Files using PowerShell Custom Actions
 
 With **PowerShell**, the code is much cleaner, shorter, and easier to understand:
@@ -194,6 +187,13 @@ To add the PowerShell script in Advanced Installer:
 
 ![AIDehardPS](https://cdn.advancedinstaller.com/img/dehardcode-file-paths-with-custom-actions/AIDehardPS.png "AIDehardPS")  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The behavior is the same as with VBScript, and the **hello.cfg** file is correctly de-hardcoded.
 
 <ins class="adsbygoogle"
@@ -211,22 +211,20 @@ The behavior is the same as with VBScript, and the **hello.cfg** file is correct
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-guide-to-the-best-10-vector-images-online/"><u>[Updated] Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[Updated] From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook/"><u>[Updated] The Key to Earning on YouTube In-Depth Ad Revenue Guidebook</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726027560661-mkv/"><u>最適な非劣化編集ツール：MKVファイルの基本から上達までガイド</u></a></li>
-<li><a href="https://win-top.techidaily.com/aiffwav/"><u>AIFF音声をWAV形式に一元化して変換する包括的ガイドとツール</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-poco-x5-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Poco X5 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-f23-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo F23 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/imoviemp4moviphonemac/"><u>IMovieでMP4/MOV動画を正常読み込めない場合の解決策~iPhone/Mac</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-x-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone X? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/iosandroidvob/"><u>IOSおよびAndroid向けにVOB動画ファイルを再生する究極のチュートリアル</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/seamless-conversion-techniques-transforming-ape-files-into-high-quality-flac-format/"><u>Seamless Conversion Techniques: Transforming APE Files Into High-Quality FLAC Format</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-downloading-content-from-tiktok/"><u>Step-by-Step Guide: Downloading Content From TikTok</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-tutorial-on-quick-and-easy-gopro-video-editing/"><u>Step-by-Step Tutorial on Quick and Easy GoPro Video Editing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-tutorial-setting-up-and-using-the-functional-exodus-kodi-addon-with-leia/"><u>Step-by-Step Tutorial: Setting Up and Using the Functional Exodus Kodi Addon with Leia</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/streamline-your-viewing-experience-tips-for-recording-app-show-content/"><u>Streamline Your Viewing Experience: Tips for Recording App Show Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-secrets-unveiled-the-top-10-for-dominating-in-tiktok-marketing/"><u>[New] 2024 Approved Secrets Unveiled The Top 10 for Dominating in TikTok Marketing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expert-director-sound-and-picture-synthesis/"><u>[Updated] Expert Director Sound & Picture Synthesis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insiders-look-at-xvision-prodigy-studio-an-all-inclusive-guide/"><u>2024 Approved Insider's Look at XVision Prodigy Studio - An All-Inclusive Guide</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-13-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 13 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comparative-techniques-in-software-remastering-insights-into-msi-and-exe-conversion-strategies/"><u>Comparative Techniques in Software Remastering: Insights Into MSI and EXE Conversion Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-dll-files-how-to-address-msvcpr100dll-not-detected-problems/"><u>Dealing with DLL Files: How to Address Msvcpr100.dll Not Detected Problems</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/deciphering-taboola-strategies-for-detecting-and-removing-persistent-promotional-content/"><u>Deciphering Taboola: Strategies for Detecting and Removing Persistent Promotional Content</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/download-music-from-pandora-legally-and-convert-to-mp3-without-costs/"><u>Download Music From Pandora Legally and Convert to MP3 Without Costs</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-reliable-is-windows-defender-against-viruses-a-deep-dive-with-malwarefox-perspectives/"><u>How Reliable Is Windows Defender Against Viruses: A Deep Dive with MalwareFox Perspectives</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/master-the-art-of-a-clean-browsing-experience-with-these-4-techniques-to-block-and-remove-pop-ups-from-firefox/"><u>Master the Art of a Clean Browsing Experience with These 4 Techniques to Block & Remove Pop-Ups From Firefox</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/simplified-editing-for-clean-cut-canvas-photos/"><u>Simplified Editing for Clean-Cut Canvas Photos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-fixing-memory-error-12707-on-modern-warfare-3/"><u>Troubleshooting Steps for Fixing Memory Error 12707 on Modern Warfare 3</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-malware-mechanisms-of-operation-and-methods-of-spread/"><u>Understanding Malware: Mechanisms of Operation and Methods of Spread</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/unraveling-the-mystery-why-does-my-chrome-display-managed-by-an-organization-and-is-it-safe/"><u>Unraveling the Mystery: Why Does My Chrome Display 'Managed By an Organization,' And Is It Safe?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Google Pixel 8 | Dr.fone</u></a></li>
 </ul></div>
 

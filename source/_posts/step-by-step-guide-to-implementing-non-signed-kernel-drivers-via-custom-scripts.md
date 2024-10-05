@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Implementing Non-Signed Kernel Drivers via Custom Scripts
-date: 2024-09-25T02:40:04.501Z
-updated: 2024-09-30T09:06:53.344Z
+date: 2024-10-01T18:52:31.445Z
+updated: 2024-10-05T17:25:59.860Z
 tags:
   - application-packaging-training
 categories:
@@ -39,13 +39,6 @@ Tools that you need: (most are from the Windows Driver Kit – the latest versio
 
 Let's have a look at each step that you must take to get your unsigned certificates installed silently. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create a digital certificate by using the MakeCert tool
 
 Open an **x86/x64 Free Build Environment** command prompt with administrator permissions, by right-clicking **x86 Free Build Environment** on the **Start menu**, and then selecting **Run as administrator**.
@@ -79,6 +72,13 @@ Specifies the name of the certificate store in which the new certificate is plac
 Specifies that the certificate store created by the -ss option is in the per computer store, instead of the default per user store.
 
 ![Specifies that the certificate store](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/makecert.png "Specifies that the certificate store")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The command returns the message "Succeeded" when the store and certificate are created.
 
@@ -117,29 +117,10 @@ Identifies the 32-bit version of Windows 10 as the operating system. Run the com
 ![Identifies the 32-bit version of Windows 10](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/inf2cat.png "Identifies the 32-bit version of Windows 10")  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Sign the catalog file using SignTool
@@ -174,14 +155,14 @@ Signtool indicates completion with the following message:
 
 ![Successfully signed and timestamped](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/signtool.png "Successfully signed and timestamped")  
 
-Successfully signed and timestamped: C:\\toaster\\device\\example.cat
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Successfully signed and timestamped: C:\\toaster\\device\\example.cat
 
 ### Export the certificate from certstore manually
 
@@ -192,10 +173,10 @@ Export the certificate manually:
 ![Export the certificate manually](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/exportcert.png "Export the certificate manually")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install the certificate to Root and TrustedPublisher
@@ -209,13 +190,6 @@ Copy
 
 ![Install the certificate to Root and TrustedPublisher](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/addcertificate.png "Install the certificate to Root and TrustedPublisher")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 for remove :
 
 certutil.exe -delstore "Root" [PathToCertificatewithFile]
@@ -224,6 +198,13 @@ certutil.exe -delstore "TrustedPublisher" [PathToCertificatewithFile]
 Copy
 
 Now we can install the driver without the prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Build the MSI
 
@@ -263,6 +244,13 @@ Once the script is created, navigate to the Custom Actions Page and add the **La
 ![add certificate](https://cdn.advancedinstaller.com/img/install-unsigned-drivers-using-custom-actions/addcertAI.png "add certificate")  
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure that the script which installs the certificate is placed before the script which installs the driver under the “Install Execution Stage” section.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 With PowerShell it's even easier because we can use the [Import-Certificate cmdlet](https://learn.microsoft.com/en-us/powershell/module/pki/import-certificate?source=recommendations&amp;view=windowsserver2022-ps "Import-Certificate cmdlet"):
 
@@ -307,16 +295,24 @@ And that is it! Next, just build and install the package and you should have a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-exclusive.techidaily.com/dvd-ripping-mastery-immerse-in-the-timeless-magic-of-the-spectacular-now-your-must-have-movie-treasure/"><u>'DVD Ripping Mastery': Immerse in the Timeless Magic of The Spectacular Now – Your Must-Have Movie Treasure!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-secure-your-device-footage-with-mi-11-techniques/"><u>[New] 2024 Approved Secure Your Device Footage with Mi 11 Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-asus-mg28uq-elevating-your-visual-experience-to-new-heights/"><u>[Updated] ASUS MG28UQ Elevating Your Visual Experience to New Heights</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/access-family-friendly-movies-for-your-little-stars-at-no-cost-with-laughter-wrapping-them-up-in-love/"><u>Access Family-Friendly Movies for Your Little Stars at No Cost, with Laughter Wrapping Them Up in Love</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-the-screen-jaunt-vrs-spectacular-world-for-2024/"><u>Beyond the Screen Jaunt VR's Spectacular World for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/circlesmiths-arsenal-for-2024/"><u>Circlesmith's Arsenal for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/five-effective-methods-to-correct-memory-integrity-errors-on-windows-11-systems/"><u>Five Effective Methods to Correct Memory Integrity Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/free-webm-conversion-software-ranked-top-10-choices-for-your-computer-or-online-platforms/"><u>Free WebM Conversion Software Ranked: Top 10 Choices for Your Computer or Online Platforms</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/imoviemp4moviphonemac/"><u>IMovieでMP4/MOV動画を正常読み込めない場合の解決策~iPhone/Mac</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/iosandroidvob/"><u>IOSおよびAndroid向けにVOB動画ファイルを再生する究極のチュートリアル</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-sound-essential-tips-for-addressing-conexant-smartaudio-hd-audio-problems-on-windows-10/"><u>Reviving Your Sound: Essential Tips for Addressing Conexant SmartAudio HD Audio Problems on Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-strategic-approaches-to-youtube-short-glitches/"><u>[New] 2024 Approved Strategic Approaches to YouTube Short Glitches</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-effortlessly-post-tiktok-videos-on-twitter-for-2024/"><u>[New] Effortlessly Post TikTok Videos on Twitter for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-cutting-edge-screen-recorders-for-professionals/"><u>2024 Approved Cutting-Edge Screen Recorders for Professionals</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-permissions-shortfall-on-windows-1011-during-setup/"><u>Correcting Permissions Shortfall on Windows 10/11 During Setup</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exploring-shadows-online-a-beginners-guide-to-dark-and-deep-web-differences-tips-by-malwarefox/"><u>Exploring Shadows Online: A Beginner's Guide to Dark and Deep Web Differences, Tips by MalwareFox</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-capturing-the-globe-from-novice-to-experienced-travel-videographer/"><u>In 2024, Capturing the Globe From Novice to Experienced Travel Videographer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-effortless-playlist-pivot-the-top-5-spotify-to-youtube-tools/"><u>In 2024, Effortless Playlist Pivot The Top 5 Spotify-to-YouTube Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-service-setup-and-configuration-with-microsofts-msi-packaging-techniques/"><u>Mastering Service Setup & Configuration with Microsoft's MSI Packaging Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-revive-your-videos-as-live-photos-best-conversion-tools-and-tips/"><u>New In 2024, Revive Your Videos as Live Photos Best Conversion Tools and Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-display-a-tutorial-on-how-to-install-the-latest-ati-drivers-for-windows-pcs/"><u>Revamp Your Display: A Tutorial on How to Install the Latest ATI Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/say-goodbye-to-unwanted-locker-pops-ups-securely-clean-adware-off-your-android-using-malwarefox-tips/"><u>Say Goodbye to Unwanted Locker Pops-Ups: Securely Clean Adware Off Your Android Using MalwareFox Tips</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/solving-video-capture-problems-in-windows-10-gaming-effective-fixes-and-guides/"><u>Solving Video Capture Problems in Windows 10 Gaming: Effective Fixes and Guides</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-how-to-erase-shadows-from-images-successfully/"><u>Step-by-Step Guide: How To Erase Shadows From Images Successfully</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-mirroring-your-iphone-screen-on-apple-tv/"><u>Step-by-Step Guide: Mirroring Your iPhone Screen on Apple TV</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-moving-images-from-your-ipad-to-windows-or-mac-computer/"><u>Step-by-Step Guide: Moving Images From Your iPad to Windows or Mac Computer</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-syncing-your-iphone-screen-with-ipad/"><u>Step-by-Step Guide: Syncing Your iPhone Screen with iPad</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/tailor-your-application-with-useproperties-and-msi-repair-features-a-comprehensive-guide/"><u>Tailor Your Application with UseProperties & MSI Repair Features: A Comprehensive Guide</u></a></li>
 </ul></div>
 

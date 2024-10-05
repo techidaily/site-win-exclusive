@@ -1,7 +1,7 @@
 ---
 title: "Exposing Google's 5Th Billion Scheme: Understanding the Scam & Effective Elimination Techniques"
-date: 2024-09-28T06:07:25.043Z
-updated: 2024-09-30T01:29:53.047Z
+date: 2024-10-03T19:34:30.836Z
+updated: 2024-10-05T17:16:41.940Z
 tags:
   - product
   - antivirus
@@ -62,13 +62,6 @@ Its main intention is to make you believe that you are the lucky one to win a pr
 
 [10 Tools to Scan Website for Malware](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is a Phishing Scam?
 
 A phishing scam is a social engineering attack carried out by playing with the victim’s psychology. Usually, they are meant for stealing the victim’s personal data like credit card details, ATM PIN, or net banking [password](https://tools.techidaily.com/malwarefox/products/). 
@@ -90,28 +83,15 @@ If you are dealing with this message or pop-up repeatedly, you have to get rid o
 Here are the steps for that:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Step 1: Restart your PC in Safe Mode**
 
 Windows Safe Mode is the perfect environment to find out and solve the critical errors in the system. In safe mode, only system programs and some crucial programs run. Safe mode would most likely kill the applications and its files that try to run automatically on your system. [Follow this guide to boot your Windows 10 PC in the **Safe Mode**](https://www.windowschimp.com/how-to-boot-windows-10-into-safe-mode/)**.**
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 2: Uninstall Suspicious Applications**
 
@@ -120,17 +100,18 @@ If 5th Billion Search Scam still appears on your PC, try to find the culprit app
 1. Right-click on the taskbar and select the **Task Manager**.  
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Delete Temporary Files**
 
@@ -144,6 +125,13 @@ Here are the steps to eliminate thre temporary files:
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 4: Reset Web Browser Settings**
 
 If your browser is misbehaving because of 5th Billion Search Scam, then reset its settings to default.
@@ -151,16 +139,16 @@ If your browser is misbehaving because of 5th Billion Search Scam, then reset it
 1. Open Chrome and navigate to **Settings** by clicking on the three-dots at the top right.![Chrome Settings](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-1.png)
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 5. Relaunch your browser.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 5: Install an Antimalware and Perform a Scan**
 
@@ -172,10 +160,10 @@ MalwareFox is a reliable security software that promises to protect your system 
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Avoid such Threats?
@@ -218,11 +206,27 @@ I don’t use chrome. I use opera!
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/cfbedfbad2ee7a0e65b5fe3d407540f4?s=50&d=mm&r=g)  
 Baguette  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [March 27, 2021 at 9:51 pm](https://tools.techidaily.com/malwarefox/products/)  
 I’m running a scan of my device now.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 4. ![](https://secure.gravatar.com/avatar/9507d5035320fadf2e79cc82aaaf0cc8?s=50&d=mm&r=g)  
 Gina  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [September 20, 2022 at 10:22 pm](https://tools.techidaily.com/malwarefox/products/)  
 What do you do to get rid of it on an Android Motorola phone?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -230,10 +234,10 @@ What do you do to get rid of it on an Android Motorola phone?
 LÖL  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [April 27, 2023 at 3:59 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -254,19 +258,6 @@ I got the 5 billion popup on my iPhone and clicked on the first two links, then 
    [March 4, 2024 at 10:04 am](https://tools.techidaily.com/malwarefox/products/)  
    You should not worry if you have ended the session without downloading anything or providing any kind of permission.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -293,20 +284,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-navigating-the-maze-of-multi-service-playlist-transfer-for-2024/"><u>[New] Navigating the Maze of Multi-Service Playlist Transfer for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-ranking-apples-most-valuable-gif-tools/"><u>[Updated] Ranking Apple's Most Valuable GIF Tools</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/filemaker/"><u>「音楽・動画をFileMakerで正常にインポートするための対策ガイド」</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-gt-10-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix GT 10 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/come-configurare-una-semplice-sessione-videoconferenza-su-skype-con-movavi/"><u>Come Configurare Una Semplice Sessione Videoconferenza Su Skype Con Movavi</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-with-these-5-simple-cost-free-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format with These 5 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-enhance-your-sites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Site's Analytics & Personalization</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-change-trp-videos-to-ts-format-without-a-hitch/"><u>Easy Steps to Change TRP Videos to TS Format without a Hitch</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-guide-ultimate-hd-video-processing-toolkit-with-feature-rich-factory-pro-applications/"><u>Expert Guide: Ultimate HD Video Processing Toolkit with Feature-Rich Factory Pro Applications</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/factory-or-pro-key-advantages-of-the-two-versions-of-nokia-video-converter/"><u>Factory or Pro? Key Advantages of the Two Versions of Nokia Video Converter</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/get-your-free-windows-10-movie-file-support-by-downloading-and-installing-the-mov-codec/"><u>Get Your Free Windows 10 Movie File Support by Downloading and Installing the Mov Codec!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-strategies-to-outlast-your-competitors-in-snapping/"><u>In 2024, Strategies to Outlast Your Competitors in Snapping</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/in-depth-comparison-test-of-top-dvd-tools-wonderfox-vs-winx-which-wins/"><u>In-Depth Comparison Test of Top DVD Tools: WonderFox VS WinX - Which Wins?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-on-creating-a-homemade-projector-screen-setup/"><u>The Ultimate Walkthrough on Creating a Homemade Projector Screen Setup</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pioneering-virtual-voyages-with-jaunt-vr/"><u>[Updated] Pioneering Virtual Voyages with Jaunt VR</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/chrome-alert-protect-your-smartphone-from-the-may-be-in-danger-security-warning-by-malwarefox/"><u>Chrome Alert: Protect Your Smartphone From the 'May Be in Danger' Security Warning by MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effortless-conversion-downloading-your-favorite-vevo-songs-as-mp3/"><u>Effortless Conversion: Downloading Your Favorite Vevo Songs as MP3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experience-gaming-excellence-with-kinemaster-on-android/"><u>Experience Gaming Excellence with KineMaster on Android</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-graphics-in-win11-with-hp-drivers/"><u>Improve Graphics in Win11 with HP Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-spectacle-delving-into-vrs-negatives/"><u>In 2024, Beyond Spectacle Delving Into VR's Negatives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-choosing-prime-audio-editors-for-youtube-creators/"><u>In 2024, Choosing Prime Audio Editors for YouTube Creators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-corrective-measures-enable-successful-maplestory-game-boot-up/"><u>Resolved: Corrective Measures Enable Successful MapleStory Game Boot-Up</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/revel-in-these-14-enthralling-text-based-movements-for-2024/"><u>Revel in These 14 Enthralling Text-Based Movements for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/solving-video-capture-problems-in-windows-10-gaming-effective-fixes-and-guides/"><u>Solving Video Capture Problems in Windows 10 Gaming: Effective Fixes and Guides</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-moving-images-from-your-ipad-to-windows-or-mac-computer/"><u>Step-by-Step Guide: Moving Images From Your iPad to Windows or Mac Computer</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-syncing-your-iphone-screen-with-ipad/"><u>Step-by-Step Guide: Syncing Your iPhone Screen with iPad</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/tailor-your-application-with-useproperties-and-msi-repair-features-a-comprehensive-guide/"><u>Tailor Your Application with UseProperties & MSI Repair Features: A Comprehensive Guide</u></a></li>
 </ul></div>
 
