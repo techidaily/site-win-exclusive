@@ -1,7 +1,7 @@
 ---
 title: "Comparative Techniques in Software Remastering: Insights Into MSI and EXE Conversion Strategies"
-date: 2024-10-04T17:07:29.798Z
-updated: 2024-10-05T19:16:27.211Z
+date: 2024-10-06T18:56:20.556Z
+updated: 2024-10-10T20:09:38.855Z
 tags:
   - application-packaging-training
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 ## Way forward for your installer
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Strategies for Repackaging Applications: MSI and EXE Approaches
@@ -42,10 +42,10 @@ The first step is to determine whether the EXE requires repackaging or if it con
 * Use [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon "Process Monitor")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Process Monitor to Detect embedded MSI in EXE
@@ -63,10 +63,16 @@ To detect if an EXE contains an embedded MSI with Process Monitor, follow these 
 ![process monitor filters window](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-filters-window.png "process monitor filters window")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- Configure filter rules: In the Filter dialog box, specify the conditions to filter the events. To detect if an EXE installer contains an embedded MSI, you can set up the following filters: In the "Display entries matching these conditions" select "Operation", “is”, “Process Create” and then “include’. Click on Add.
@@ -74,10 +80,10 @@ To detect if an EXE contains an embedded MSI with Process Monitor, follow these 
 ![process monitor operation is process create](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-operation-is-process-create.png "process monitor operation is process create")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- These filters will record events related to the EXE installer and any MSI files used during its execution.
@@ -113,19 +119,17 @@ This is an example where you will need to create a transform file (MST) to furth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-traditional-markets-with-virtual-engineering/"><u>[Updated] Transforming Traditional Markets with Virtual Engineering</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/best-free-pdf-editing-software-optimal-choice-for-windows-11-users/"><u>Best Free PDF Editing Software: Optimal Choice for Windows 11 Users</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/best-tools-and-websites-to-download-mp3-from-youtube-videos/"><u>Best Tools and Websites to Download MP3 From YouTube Videos</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/building-a-safe-digital-environment-incorporating-anti-money-laundering-measures-in-banking-software/"><u>Building a Safe Digital Environment: Incorporating Anti-Money Laundering Measures in Banking Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-1087/"><u>Download Latest NVIDIA Quadro RTX 8000 Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k-for-2024/"><u>From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/seamless-integration-transferring-your-bank-records-into-quickbooks-effortlessly/"><u>Seamless Integration: Transferring Your Bank Records Into QuickBooks Effortlessly</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/secure-your-windows-10-computer-with-an-easy-to-make-usb-safety-device/"><u>Secure Your Windows 10 Computer with an Easy-to-Make USB Safety Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-wont-see-my-controller-heres-the-quick-fix-for-windows-users/"><u>Steam Won't See My Controller? Here's the Quick Fix for Windows Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-for-when-visual-look-up-wont-work-on-your-iphone/"><u>The Ultimate Fix for When Visual Look Up Won't Work on Your iPhone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-11-ios-11-troubleshooting-guide-solutions-and-tips/"><u>Top 11 iOS 11 Troubleshooting Guide: Solutions & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011787866-twitch-audio-not-working-heres-how-to-fix-streaming-silence/"><u>Twitch Audio Not Working? Here's How to Fix Streaming Silence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-of-the-chkdsk-command-in-windows-operating-systems/"><u>Unlocking the Secrets of the Chkdsk Command in Windows Operating Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-iphone-images-in-dim-light/"><u>[New] Perfecting iPhone Images in Dim Light</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-plex-media-player-centralized-home-entertainment/"><u>[Updated] Plex Media Player Centralized Home Entertainment</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-precision-polling-on-instagram-crafting-survey-content/"><u>[Updated] Precision Polling on Instagram Crafting Survey Content</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-simplify-your-channel-top-strategies-for-free-youtube-video-compression/"><u>1. Simplify Your Channel: Top Strategies for Free YouTube Video Compression</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-green-screen-mastery-on-youtube-ideas-unleashed/"><u>2024 Approved Green Screen Mastery on YouTube - Ideas Unleashed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-virtual-enterprise-integrating-vr-tech-in-commerce/"><u>2024 Approved Virtual Enterprise Integrating VR Tech in Commerce</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-adding-and-deleting-assemblies-with-custom-actions-for-enhanced-functionality/"><u>Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-dvd-playback-on-windows-10-our-top-10-recommendations/"><u>Free DVD Playback on Windows 10 Our Top 10 Recommendations</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-to-delivering-software-through-sccm-msi-exe-vbscript-and-powershell-techniques/"><u>Guide to Delivering Software Through SCCM: MSI, EXE, VBScript & PowerShell Techniques</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/successful-strategies-for-broadcasting-yourself-live-a-comprehensive-guide/"><u>Successful Strategies for Broadcasting Yourself Live: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-5-tips-for-effortless-recording-of-your-telegram-video-meetings/"><u>Top 5 Tips for Effortless Recording of Your Telegram Video Meetings</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-tame-six-ways-to-minimize-zooms-cpu-demands/"><u>Troubleshoot and Tame: Six Ways to Minimize Zoom's CPU Demands</u></a></li>
 </ul></div>
 

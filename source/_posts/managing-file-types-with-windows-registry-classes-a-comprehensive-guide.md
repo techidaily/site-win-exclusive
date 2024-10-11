@@ -1,7 +1,7 @@
 ---
 title: "Managing File Types with Windows Registry Classes: A Comprehensive Guide"
-date: 2024-09-28T18:13:46.981Z
-updated: 2024-10-05T19:09:37.833Z
+date: 2024-10-04T03:01:43.588Z
+updated: 2024-10-10T17:02:42.830Z
 tags:
   - application-packaging-training
 categories:
@@ -36,10 +36,10 @@ Before we have a look on how to [manipulate the file extensions that VLC](https:
 * COM+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### COM
@@ -96,10 +96,10 @@ Copy
 The IDispatch interface, defined in the preceding registry entry, is used to provide automation support for COM components. It specifies the interface's default name and GUID.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type Libraries
@@ -124,13 +124,6 @@ HKEY_CLASSES_ROOT\TypeLib\{1F2D0E65-8DFE-4BAF-A07E-4A4D4C4B1E9D}\1.0
 Copy
 
 The registry entry above defines the Microsoft Excel 2010 Object Library type library, which contains Excel's interfaces and data types. It specifies the type library's default name and GUID.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### File Type Associations
 
@@ -157,10 +150,17 @@ If we take the .txt file extension as an example, HKEY\_CLASSES\_ROOT\\.txt key 
 ![txt file association](https://cdn.advancedinstaller.com/img/registry-classes/txt-file-association.png "txt file association")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### COM+
@@ -224,18 +224,21 @@ COM+ enhances COM's capabilities by providing additional services and features. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nderstanding-the-impact-of-youtube-money-changes/"><u>[New] Understanding the Impact of YouTube Money Changes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-scholarly-streams-10-best-ed-tutorials-yt/"><u>[Updated] 2024 Approved Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[Updated] Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-your-blueprint-to-youtube-success-top-tips-for-outstanding-shorts/"><u>2024 Approved Your Blueprint to Youtube Success Top Tips for Outstanding Shorts</u></a></li>
-<li><a href="https://facebook.techidaily.com/big-tech-under-scrutiny-new-anti-monopoly-laws-explained/"><u>Big Tech Under Scrutiny: New Anti-Monopoly Laws Explained</u></a></li>
-<li><a href="https://win-hot.techidaily.com/enhanced-usability-on-windows-11-strategies-to-refine-and-streamline-your-taskbar/"><u>Enhanced Usability on Windows 11: Strategies to Refine and Streamline Your Taskbar</u></a></li>
-<li><a href="https://win-dash.techidaily.com/iphone-8/"><u>IPhoneスクリーン録画のベストアプリ トップ8ピック！: 長持ち、ハイビジョン品質</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-using-a-home-vpn-necessary-for-online-security/"><u>Is Using a Home VPN Necessary for Online Security?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-instagrams-unexpected-video-timings/"><u>Navigating Instagram's Unexpected Video Timings</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/schedule-your-applications-mastering-automatic-startup-on-a-timed-basis/"><u>Schedule Your Applications: Mastering Automatic Startup on a Timed Basis</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/seamless-screen-casting-with-crystal-clear-audio-in-three-steps-master-the-art-of-synchronized-recording/"><u>Seamless Screen Casting with Crystal Clear Audio in Three Steps: Master the Art of Synchronized Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/soundscapes-for-phones-how-to-curate-tamil-ringtone-tracks/"><u>Soundscapes for Phones How to Curate Tamil Ringtone Tracks</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-5-weakest-passwords-used-by-over-half-of-internet-users/"><u>Top 5 Weakest Passwords Used by Over Half of Internet Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-the-closure-a-practical-guide-to-vimeos-end-credits/"><u>[New] Perfecting the Closure A Practical Guide to Vimeo's End Credits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-comprehensive-guide-to-top-hashtag-analysis-tools-fbtwitterinsta/"><u>[Updated] Comprehensive Guide to Top Hashtag Analysis Tools (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-simply-your-way-of-capturing-igtv-on-devices/"><u>[Updated] In 2024, Simply Your Way of Capturing IGTV on Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-best-live-streaming-software-discover-manycam-and-virtual-camera-solutions/"><u>1. Best Live Streaming Software: Discover ManyCam and Virtual Camera Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-key-adjustments-for-a-mac-look-in-windows-environment/"><u>5 Key Adjustments for a Mac Look in Windows Environment</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-to-over-12-malware-varieties-definitions-and-real-world-instances/"><u>Comprehensive Guide to Over 12 Malware Varieties: Definitions & Real-World Instances</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/expert-tips-and-tricks-for-effortless-screenshotting-on-macos-high-sierra/"><u>Expert Tips and Tricks for Effortless Screenshotting on macOS High Sierra</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/explore-best-substitutes-of-xsplit-for-both-pcs-and-apple-computers/"><u>Explore Best Substitutes of Xsplit for Both PCs and Apple Computers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exploring-security-measures-the-reasons-behind-antivirus-software-choosing-to-quarantine-instead-of-deleting-potentially-dangerous-files/"><u>Exploring Security Measures: The Reasons Behind Antivirus Software Choosing to Quarantine Instead of Deleting Potentially Dangerous Files</u></a></li>
+<li><a href="https://win11.techidaily.com/future-on-display-the-premium-laptops-at-ifa-2023/"><u>Future on Display: The Premium Laptops at IFA 2023</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-zepto-usage-a-comprehensive-guide-for-desktop-enthusiasts/"><u>Mastering Zepto Usage: A Comprehensive Guide for Desktop Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-creating-stunning-edits-with-iphones-latest-cutout-tool-ios-16-edition/"><u>Step-by-Step Tutorial for Creating Stunning Edits with iPhone's Latest Cutout Tool, iOS 16 Edition</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/title-navigating-utorrents-legitimacy-unveiling-its-safety-and-protecting-againnst-malware-in-depth-review/"><u>Title: Navigating uTorrent's Legitimacy - Unveiling Its Safety & Protecting Againnst Malware [In-Depth Review]</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-rated-voice-separation-ai-tool-simplify-and-enhance-your-audio-editing/"><u>Top-Rated Voice Separation AI Tool: Simplify and Enhance Your Audio Editing</u></a></li>
 </ul></div>
 

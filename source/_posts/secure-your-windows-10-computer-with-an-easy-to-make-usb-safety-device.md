@@ -1,7 +1,7 @@
 ---
 title: Secure Your Windows 10 Computer with an Easy-to-Make USB Safety Device
-date: 2024-09-30T19:16:13.277Z
-updated: 2024-10-05T16:03:31.676Z
+date: 2024-10-08T21:24:01.283Z
+updated: 2024-10-10T19:52:58.309Z
 tags:
   - product
   - antivirus
@@ -69,10 +69,10 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 So, these are the Pros and Cons of the Physical Security key. Weigh them keeping your preference in mind and then choose whether to go for it or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create a USB Security Key on Windows 10?
@@ -104,6 +104,13 @@ In Windows search bar, type “group policy editor” and click on the relatable
 ![Open Group Policy Editor](https://www.malwarefox.com/wp-content/uploads/2020/06/Group-Policy-Editor.png)
 2. **Navigate to Operating System Drives**  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Follow this path **Computer Configuration -> Administrative Templates -> Windows Components -> BitLocker Drive Encryption -> Operating System Drives**
 3. **Open Require Additional Authentication at startup**  
 Look for “**Require Additional Authentication at startup**” and open it.  
@@ -112,6 +119,14 @@ Look for “**Require Additional Authentication at startup**” and open it.
 A new window would open, click on **Enable** bullet option. There’s a drop-down menu labeled “**Configure TPM startup key**.” Change this to “**Require Startup Key With TPM.**“  
 ![Enable additional authentication](https://www.malwarefox.com/wp-content/uploads/2020/06/Enable-additional-authentication.png)
 5. **Run Command Prompt**  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the final step, run Command Prompt as admin and type this command:  
 **manage-bde -protectors -add c: -TPMAndStartupKey j:**  
 Where ‘c:’ is the drive where Windows is installed and ‘j:’ is assigned to the USB drive.  
@@ -121,27 +136,20 @@ Where ‘c:’ is the drive where Windows is installed and ‘j:’ is assigned 
 
 That’s it. The security key is created, and you would be asked to insert it whenever you start the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to create a USB Security Key Using Third-party App?
 
 If you are a Windows 10 home user or you didn’t want to use the complicated method of Windows Bitlocker to create your USB security key, then some third-party applications could help you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **USB Raptor**
 
 ![USB Raptor security key](https://www.malwarefox.com/wp-content/uploads/2020/06/usb-raptor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 USB Raptor is one of the popular tools for turning a USB drive into a USB security key. The best part is that it is open-source software, and that is why it is entirely free to use for personal and non-commercial use. It is compatible with all the versions of Windows from Windows XP and above. 
 
@@ -151,22 +159,15 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Predator**
 
 ![Predator USB security key](https://www.malwarefox.com/wp-content/uploads/2020/06/predator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Predator is another popular program to turn a USB into a physical security key. After the USB drive is converted into a security key, your system would only be accessible when the USB is plugged in. As soon as the drive would be plugged out, the computer will be locked automatically.
@@ -179,23 +180,9 @@ Installation of the Predator is easy. Download the installation file and open it
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Rohos Logon Key**
 
 ![Rohos Logon USB security Key](https://www.malwarefox.com/wp-content/uploads/2020/06/rohos-logon-key.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Rohos Logon Key is a multi-platform security key maker software that provides two-factor authentication to unlock both Windows and macOS devices. It comes with both a free and paid version. Though the free version offers a lot of features, it is only available for Windows users. 
 
@@ -206,6 +193,13 @@ Rohos store your login credential into the USB drive, and during startup, when y
 [Get Rohos Logon Key](http://www.rohos.com/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -223,6 +217,13 @@ While creating a key, you would always be prompted to create a recovery method i
 
 [According to YubiKey](https://support.yubico.com/support/solutions/articles/15000010242-can-i-duplicate-or-back-up-a-yubikey-), due to security reasons, the firmware of YubiKey does not allow the system to read the drive after it is written. Therefore, it is impossible to create a backup of YubiKey.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 thoughts on “How to Make a USB Security Key to Protect Windows 10 PC”
 
 1. ![](https://secure.gravatar.com/avatar/1f15aeebf604b14368e5d572c11913a9?s=50&d=mm&r=g)  
@@ -238,10 +239,10 @@ what about windows 11 this is now outdated information I been looking up informa
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -269,24 +270,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>[New] Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-gastronomes-guidebook-culinary-videos/"><u>[New] The Gastronome's Guidebook Culinary Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-most-popular-snapchat-filters-and-lenses-that-you-want-to-try/"><u>[Updated] In 2024, Most Popular Snapchat Filters and Lenses That You Want to Try</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-premier-nintendo-switch-fighting-apps-list-max-156/"><u>[Updated] Premier Nintendo Switch Fighting Apps List (Max 156)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-prime-video-editors-for-windows-10-must-have-tools-list-for-2024/"><u>[Updated] Prime Video Editors for Windows 10 Must-Have Tools List for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-to-mastering-free-msi-packaging-courses-advanced-strategies-and-methods/"><u>Comprehensive Guide to Mastering Free MSI Packaging Courses: Advanced Strategies and Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/digiarty-ametadata/"><u>Digiartyソフトウェアの人気話題集 - 最新動向についametadata</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/fast-and-free-upload-and-switch-from-png-to-pdf-in-just-a-few-clicks/"><u>Fast and Free: Upload & Switch From PNG to PDF in Just a Few Clicks</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-edit-the-hosts-file-using-vbscript-or-powershell-a-step-by-step-guide/"><u>How to Edit the Hosts File Using VBScript or PowerShell: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-recordings-going-wrong-expert-tips-for-microphone-repair/"><u>IPhone Recordings Going Wrong? Expert Tips for Microphone Repair</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-graphic-output-post-latest-purchase/"><u>No Graphic Output Post Latest Purchase</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/safeguarding-against-the-geek-squad-phishing-scheme-tips-and-strategies/"><u>Safeguarding Against the Geek Squad Phishing Scheme: Tips & Strategies</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/secure-your-digital-space-preventing-hidden-malware-in-photographs-and-cybersecurity-tips-protect-with-malwarefox/"><u>Secure Your Digital Space: Preventing Hidden Malware in Photographs and Cybersecurity Tips - Protect With MalwareFox</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-a-pleasant-digital-landscape-on-facebook/"><u>Securing a Pleasant Digital Landscape on Facebook</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/simple-methods-seamless-m4a-to-wav-file-transformation/"><u>Simple Methods: Seamless M4A to WAV File Transformation</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-to-implementing-non-signed-kernel-drivers-via-custom-scripts/"><u>Step-by-Step Guide to Implementing Non-Signed Kernel Drivers via Custom Scripts</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-5-free-mac-screen-capture-tools-the-ultimate-guide/"><u>Top 5 Free Mac Screen Capture Tools: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-limitations-of-using-chatgpt-for-analyzing-the-cryptocurrency-market/"><u>Top 5 Limitations of Using ChatGPT for Analyzing the Cryptocurrency Market</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-fortnite-starter-pack-mastering-the-basics/"><u>Ultimate Fortnite Starter Pack: Mastering the Basics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-tips-and-tricks-voice-overseas-that-elevate-your-film-projects/"><u>[New] 2024 Approved Tips & Tricks Voice Overseas That Elevate Your Film Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-vivocuts-impact-on-the-video-editor-writes-of-2024/"><u>[Updated] Examining VivoCut's Impact on the Video Editor' Writes of 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-top-10-non-vimeo-editors-for-user-generated-content/"><u>2024 Approved Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/brightness-and-hd-in-harmony-a-fit-for-hdr-for-2024/"><u>Brightness and HD in Harmony A Fit for HDR for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-package-design-courses-elite-skills-development-and-accreditation-at-no-cost/"><u>Comprehensive MSI Package Design Courses: Elite Skills Development and Accreditation at No Cost</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/detect-and-eliminate-comprehensive-tips-for-finding-and-cleaning-your-phone-of-malicious-software/"><u>Detect & Eliminate: Comprehensive Tips for Finding and Cleaning Your Phone of Malicious Software</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-create-an-alarm-reminder-on-your-android-device/"><u>Easy Steps to Create an Alarm Reminder on Your Android Device</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-repackaging-strategies-guaranteeing-seamless-results/"><u>Effective Repackaging Strategies Guaranteeing Seamless Results</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exposing-googles-5th-billion-scheme-understanding-the-scam-and-effective-elimination-techniques/"><u>Exposing Google's 5Th Billion Scheme: Understanding the Scam & Effective Elimination Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-disk-read-error-issue-in-windows-11-a-step-by-step-guide/"><u>Fixing the 'Disk Read Error' Issue in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973431047-get-your-windows-pc-optimized-with-amds-newest-chip-drivers/"><u>Get Your Windows PC Optimized with AMD's Newest Chip Drivers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-to-broadcasting-your-gameplay-mastering-lcs-style-livestreams-with-wild-rift/"><u>Guide to Broadcasting Your Gameplay: Mastering LCS-Style Livestreams with Wild Rift</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-adjusting-video-playback-velocity-a-comprehensive-guide/"><u>Mastering the Art of Adjusting Video Playback Velocity: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-discover-the-best-5-iphone-gps-applications/"><u>Navigate with Ease: Discover the Best 5 iPhone GPS Applications</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simple-steps-to-record-conversations-on-yahoo-messenger-without-any-cost-or-time-restrictions/"><u>Simple Steps to Record Conversations on Yahoo Messenger Without Any Cost or Time Restrictions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trim-wmis-firm-grip-on-cores/"><u>Trim WMI's Firm Grip on Cores</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ultimate-issues-essential-fixes-for-dev-errors-in-call-of-duty-modern-warfare-and-warzone-titles/"><u>Troubleshooting Ultimate Issues: Essential Fixes for Dev Errors in Call of Duty Modern Warfare & Warzone Titles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-your-way-through-youtube-mastering-rotation-techniques/"><u>Twist Your Way Through YouTube Mastering Rotation Techniques</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-email-impersonation-techniques-and-defense-strategies/"><u>Understanding Email Impersonation: Techniques & Defense Strategies</u></a></li>
 </ul></div>
 

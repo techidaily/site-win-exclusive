@@ -1,7 +1,7 @@
 ---
 title: Top 5 Weakest Passwords Used by Over Half of Internet Users
-date: 2024-09-28T16:36:17.991Z
-updated: 2024-10-05T16:33:17.040Z
+date: 2024-10-09T00:29:48.349Z
+updated: 2024-10-10T18:36:19.688Z
 tags:
   - product
   - antivirus
@@ -89,22 +89,16 @@ As you can compare, the list of 2020 and 2019 is exact. And comparing it with th
 
 So, what mistakes are people doing while choosing a password? Let us find out.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Most Common Password Mistakes
 
 Most of the people have poor password hygiene and are ignorant about the security risk a weak password can possess. Here are the most common mistakes people make while building a password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **1\. Using Personal Information in Passwords**
 
@@ -113,13 +107,6 @@ While preparing a password, what most people do is they simply use their persona
 While it may be a great way to show your love and respect towards your close ones, it is also a great way to make your online presence vulnerable. 
 
 It makes it easy for hackers to crack your password by just knowing a few basic details about you.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Using the Same Password Everywhere**
 
@@ -132,6 +119,13 @@ People remember this. Passwords are meant just for your eyes. They are not for s
 ## Password Management DO’s and DON’Ts
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips to Improve your Password Security
 
@@ -147,15 +141,22 @@ A [password manager](https://tools.techidaily.com/malwarefox/products/) would no
 
 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor%5Fauthentication) is a security measure in which users required to authenticate themselves using more than one credentials. For example, the first step of login could be entering your username and password; the second step could be verification by mobile OTP: and the third step could be verification by fingerprint.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Don’t Create Passwords with Dictionary Words**
 
 Creating a password using dictionary words is a silly practice. While creating a password, always use alphanumeric combinations and also append special characters. Also, try to make it more complicated by the combination of upper and lower case letters.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion: Most Common Passwords
@@ -175,13 +176,6 @@ A unique password is the one that you only use for one account and do not repeat
 **What are the most common 4 digits passwords?** 
 
 The most common 4 digit passwords are **1234, 1111, and 0000\.** Another popular 4 digit is the combination of birth date and birth month. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -208,24 +202,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-enhancing-your-cover-videos-pull/"><u>[New] 2024 Approved Enhancing Your Cover Video's Pull</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-quick-vlog-content-ideas/"><u>[New] Step-by-Step Guide Quick Vlog Content Ideas</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb-for-2024/"><u>[New] What Actions Can I Take if My Content Is Swiftly Stripped by FB for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-video-streamers-essentials-ultimate-hd-camera-guide/"><u>[Updated] In 2024, Video Streamers' Essentials – Ultimate HD Camera Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/capture-a-specific-area-of-your-windows-desktop-step-by-step-guide/"><u>Capture a Specific Area of Your Windows Desktop: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/discover-the-finest-beemp3-replacements-and-why-they-matter-for-your-needs/"><u>Discover the Finest BeeMP3 Replacements and Why They Matter for Your Needs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-x-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone X When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-safely-obtain-a-genuine-malwarefox-registration-key-verified-functionality/"><u>How to Safely Obtain a Genuine MalwareFox Registration Key – Verified Functionality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-meizu-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Meizu</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/innovative-methods-for-reflecting-your-ipad-display-onto-a-pc/"><u>Innovative Methods for Reflecting Your iPad Display Onto a PC</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-safe-communication-a-step-by-step-guide-on-protected-email-dispatch-in-gmail-and-outlook/"><u>Mastering Safe Communication: A Step-by-Step Guide on Protected Email Dispatch in Gmail and Outlook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ating-the-process-of-verifying-your-youtube-id/"><u>Navigating the Process of Verifying Your YouTube ID</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-error-flagged-swift-resolution-by-nvidia/"><u>OpenGL Error Flagged — Swift Resolution by NVIDIA</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/outdoor-gadgets-for-making-road-trip-videos/"><u>Outdoor Gadgets for Making Road-Trip Videos</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/password-pitfalls-the-top-choices-of-4-out-of-every-5-people-online/"><u>Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/the-https-illusion-separating-online-safety-realities-from-common-misconceptions/"><u>The HTTPS Illusion: Separating Online Safety Realities From Common Misconceptions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/trimming-the-bends-correcting-gopro-fish-eye-effect-for-2024/"><u>Trimming the Bends Correcting GoPro Fish Eye Effect for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-rat-malware-prevention-strategies-against-remote-access-trojans/"><u>Understanding RAT Malware: Prevention Strategies Against Remote Access Trojans</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-taboola-a-comprehensive-guide-on-identifying-and-eliminating-intrusive-ads/"><u>Understanding Taboola: A Comprehensive Guide on Identifying & Eliminating Intrusive Ads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-15-youtube-intro-templates-for-your-youtube-video/"><u>[New] 2024 Approved Top 15 YouTube Intro Templates for Your YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>[Updated] 2024 Approved From Idea to Impact Advanced Editing Techniques for YouTube Creators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-pathway-to-accessing-fb-videos-via-windowsmacos/"><u>[Updated] In 2024, Pathway to Accessing FB Videos via Windows/macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-choosing-and-utilizing-cc-license-types/"><u>[Updated] The Art of Choosing and Utilizing CC License Types</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-top-ranking-video-introduction-creators-for-your-blog-or-channel/"><u>1. Top-Ranking Video Introduction Creators for Your Blog or Channel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-hashtags-boosting-your-instagram-presence-now/"><u>2024 Approved Essential #Hashtags Boosting Your Instagram Presence Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/battle-of-the-titans-gopro-hero5-black-vs-session/"><u>Battle of the Titans GoPro Hero5 Black VS Session</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/beginners-tutorial-adding-and-modifying-pictures-within-a-pdf-file/"><u>Beginner's Tutorial: Adding and Modifying Pictures Within a PDF File</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-smartphones-for-enhanced-security-and-privacy-protection-around-the-globe/"><u>Best Smartphones for Enhanced Security and Privacy Protection Around The Globe</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/bridging-windows-11-with-your-tv-screen-the-ultimate-how-to-guide/"><u>Bridging Windows 11 with Your TV Screen: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-efficiently-convert-wmv-videos-into-high-quality-mp4-players/"><u>How to Efficiently Convert WMV Videos Into High-Quality MP4 Players</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simplifying-file-conversion-mastering-powershell-and-vbscript-for-efficient-de-hardening/"><u>Simplifying File Conversion: Mastering PowerShell & VBScript for Efficient De-Hardening</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-to-shifting-images-from-an-iphone-onto-a-samsung-galaxy-s10-smartphone/"><u>Step-by-Step Guide to Shifting Images From an iPhone Onto a Samsung Galaxy S10 Smartphone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-ai-10-techniques-for-job-hunting-success-with-chatgpt-on-linkedin/"><u>Unlocking the Power of AI: 10 Techniques for Job Hunting Success with ChatGPT on LinkedIn</u></a></li>
+<li><a href="https://video-capture.techidaily.com/vcs-vision-recorder-check-detailed-scrutiny/"><u>VCS Vision Recorder Check Detailed Scrutiny</u></a></li>
 </ul></div>
 

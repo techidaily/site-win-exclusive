@@ -1,7 +1,7 @@
 ---
 title: Master the Art of a Clean Browsing Experience with These 4 Techniques to Block & Remove Pop-Ups From Firefox
-date: 2024-10-02T19:58:39.007Z
-updated: 2024-10-05T19:51:43.711Z
+date: 2024-10-05T19:22:42.851Z
+updated: 2024-10-11T00:58:53.401Z
 tags:
   - product
   - antivirus
@@ -61,10 +61,10 @@ Choose your content blocking settings from the below one
 3. **Custom –** Choose what to block from Trackers, Cookies, Cryptominers, Fingerprinters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Check Exceptions for Blocker
@@ -78,31 +78,17 @@ When Firefox is blocking content on a website, a Shield icon will appear in your
 ![Block Pop-ups in Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the Shield icon located between the security padlock icon and site information icon. It provides more information about the content Firefox is blocking, such as trackers or third-party tracking cookies.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 2  – Uninstall Suspicious Add-ons
 
 The Internet is full of applications/browser extensions that modify web browser settings without consent. These potentially unwanted programs (PUPs) and add-ons are categorized as browser hijackers. In most cases, these so-called browser hijackers infiltrate systems without users’ consent – developers proliferate them using intrusive advertising and “bundling” methods.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Disable Suspicious Add-ons
 
@@ -113,10 +99,10 @@ Click the **Menu** button, click on **Add-ons**.
 ![Block Pop-ups in Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the **Disable** button of the add-on that you want to disable.
@@ -135,9 +121,29 @@ Click the **Menu** button, click Add-ons.
 
 ![Block Pop-ups in Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the **Remove** button of the add-on that you want to remove.
 
 ![Block Pop-ups in Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Click **Restart** now if it asks you so. Your tabs will be saved and restored after the restart.
 
@@ -167,16 +173,16 @@ Click on the **Whitelisted websites** in the left sidebar, then enter the URL in
 
 ![Adblock Plus Addon 4](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Alternatively, you can enable the ads on a particular website you are currently browsing. To do that click on the Adblock Plus add-on then use the **toggle** button to stop blocking the ads on the current website.
 
 ![Adblock Plus Addon 5](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 4  – Scan Computer using MalwareFox
 
@@ -221,20 +227,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-drone-picks-available-now-for-2024/"><u>[Updated] Top Drone Picks Available Now for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-remove-black-bars-from-existing-youtube-videos/"><u>2024 Approved How to Remove Black Bars From Existing YouTube Videos?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>2024 Approved Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bilingual-bliss-embrace-germanys-idioms-in-25-words/"><u>Bilingual Bliss: Embrace Germany's Idioms in 25 Words</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/detecting-covert-phone-tracking-key-indicators-and-protection-strategies-against-unwanted-spying/"><u>Detecting Covert Phone Tracking: Key Indicators and Protection Strategies Against Unwanted Spying</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-techniques-for-eliminating-unwanted-audio-disturbances-in-videos/"><u>Effective Techniques for Eliminating Unwanted Audio Disturbances in Videos</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/enhancing-it-efficiency-the-critical-impact-of-repackaging-on-software-life-cycle-stewardship/"><u>Enhancing IT Efficiency: The Critical Impact of Repackaging on Software Life Cycle Stewardship</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-redmi-note-12-pro-4g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-12-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 12 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-se-2022-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone SE (2022) Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12r-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12R Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 4G Users</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-your-wifi-safe-from-ransomware-attacks-unexpected-insights-revealed/"><u>Is Your WiFi Safe From Ransomware Attacks? Unexpected Insights Revealed</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/quick-steps-to-uninstall-the-facebook-app-on-iphones-and-ipads/"><u>Quick Steps to Uninstall the Facebook App on iPhones and iPads</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-mastering-the-art-of-video-editing-and-trimming/"><u>Step-by-Step Guide: Mastering the Art of Video Editing and Trimming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>[Updated] Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-most-effective-ways-to-log-youtube-live-events/"><u>[Updated] In 2024, Most Effective Ways to Log YouTube Live Events</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-setting-up-windows-11-for-automatic-hdr-activation/"><u>[Updated] Setting Up Windows 11 for Automatic HDR Activation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-more-traffic-the-ultimate-list-of-keyword-tools/"><u>[Updated] Unlocking More Traffic The Ultimate List of Keyword Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-track-and-validate-channels-earnings/"><u>2024 Approved Track and Validate Channels' Earnings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-zte-nubia-z60-ultra-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/fast-and-free-upload-and-switch-from-png-to-pdf-in-just-a-few-clicks/"><u>Fast and Free: Upload & Switch From PNG to PDF in Just a Few Clicks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-can-you-get-a-full-reimbursement-for-games-not-meeting-expectations-on-steam/"><u>How Can You Get a Full Reimbursement For Games Not Meeting Expectations on Steam?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-edit-the-hosts-file-using-vbscript-or-powershell-a-step-by-step-guide/"><u>How to Edit the Hosts File Using VBScript or PowerShell: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/safeguarding-against-the-geek-squad-phishing-scheme-tips-and-strategies/"><u>Safeguarding Against the Geek Squad Phishing Scheme: Tips & Strategies</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/secure-your-digital-space-preventing-hidden-malware-in-photographs-and-cybersecurity-tips-protect-with-malwarefox/"><u>Secure Your Digital Space: Preventing Hidden Malware in Photographs and Cybersecurity Tips - Protect With MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-to-implementing-non-signed-kernel-drivers-via-custom-scripts/"><u>Step-by-Step Guide to Implementing Non-Signed Kernel Drivers via Custom Scripts</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-youtube-branding-designers-expert-logo-creators/"><u>Top YouTube Branding Designers: Expert Logo Creators</u></a></li>
 </ul></div>
 

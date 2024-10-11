@@ -1,7 +1,7 @@
 ---
 title: "Best Security Question Practices: A Comprehensive Guide to Enhancing Your Online Safety"
-date: 2024-09-30T18:58:51.831Z
-updated: 2024-10-05T18:51:43.426Z
+date: 2024-10-09T01:46:58.391Z
+updated: 2024-10-11T01:51:37.786Z
 tags:
   - product
   - antivirus
@@ -57,10 +57,10 @@ Safe questions make it extremely difficult for attackers to search over the inte
 A question such as _“what high school did you attend?” ,_ may not be as unfamiliar. This information is not only common knowledge to family, friends, and acquaintances; it can also be available on our social media accounts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Consistent Questions – Don’t Change
@@ -85,16 +85,16 @@ Asking questions with memorable answers is also a stable way to keep security ov
 
 It gets even better if you have a memorable, safe and very simple security question. Simple questions require a straight and easy answer and normally, they do not confuse the account owner. Direct questions such as “what month and year was your mother born on?” are very straight forward and come pre-formatted for the answer. Thus, the answer is simple – for example, July 1950.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Social Engineering
 
 [![social engineering](https://www.malwarefox.com/wp-content/uploads/2019/08/social-engineering.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/08/social-engineering.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As much as you want a simple and memorable password, always go for security questions with potentially several answers on your attacker’s perspective. A good example is your first pet’s name – there just isn’t any possible way that the attacker can know and the guessing game eventually becomes vague.
 
@@ -133,23 +133,16 @@ Some sites even go as far as requiring a real-time authentication by sending a c
 21. What is the name of a college you applied to but didn’t attend?
 22. Where were you when you first heard about 9/11?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 thought on “How To Choose Good Security Questions”
 
 1. ![](https://secure.gravatar.com/avatar/671fddc32c848d5f020243ac70c01185?s=50&d=mm&r=g)  
 Karolin  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [October 7, 2020 at 2:00 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -160,6 +153,13 @@ Anybody who knows the answer will you kindly respond?
 Thanks!!  
 My homepage [먹튀폴리스검증업체](http://www.filedropper.com/covid19impactsonitalyrealestatebcjpu)  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -186,17 +186,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-imovie-with-youtube-audio-streams/"><u>[New] 2024 Approved Amplify Your iMovie with YouTube Audio Streams</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-ez-grabber-a-comprehensive-guide/"><u>[New] 2024 Approved Mastering EZ Grabber A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-breaking-down-zoom-session-division-for-2024/"><u>[Updated] Breaking Down Zoom Session Division for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engage-audiences-writing-magical-youtube-description-templates-for-higher-views/"><u>[Updated] In 2024, Engage Audiences Writing Magical YouTube Description Templates for Higher Views</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-quantifying-the-fortune-of-mr-beast/"><u>[Updated] Quantifying the Fortune of Mr. Beast</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-seamless-video-transfer-professional-samsung-tablet-video-converter-tool/"><u>1. Seamless Video Transfer: Professional Samsung Tablet Video Converter Tool</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-simple-steps-to-fortify-your-home-wi-fi-security-insights-from-malwarefox/"><u>1. Simple Steps to Fortify Your Home Wi-Fi Security: Insights From MalwareFox</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/best-9-removal-techniques-for-white-background-email-signatures-2023-edition/"><u>Best 9 Removal Techniques for White Background Email Signatures: 2023 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-moonlight-software-crashes-on-your-computer-system/"><u>Effective Solutions to Prevent Moonlight Software Crashes on Your Computer System</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-magic-v2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic V2 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-13-mini-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 13 mini to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-converting-mkv-files-into-wmv-format/"><u>Step-by-Step Guide: Converting MKV Files Into WMV Format</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-evaluating-live-stream-giants-twitch-and-youtube/"><u>[Updated] 2024 Approved Evaluating Live Stream Giants Twitch & YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-blogging-to-broadcasting-scaling-up-your-youtube-presence/"><u>[Updated] From Blogging to Broadcasting Scaling Up Your YouTube Presence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-creating-engaging-visual-narratives-from-photographs-using-pixiz-written/"><u>[Updated] In 2024, Creating Engaging Visual Narratives From Photographs Using Pixiz' Written</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-macs-top-tier-gif-recorder-tools-reviewed-for-2024/"><u>[Updated] Mac's Top-Tier GIF Recorder Tools Reviewed for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/a-comprehensive-guide-finding-and-recovering-files-following-an-iphones-factory-wipe/"><u>A Comprehensive Guide: Finding and Recovering Files Following an iPhone's Factory Wipe</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-tutorial-for-adding-people-to-your-photographs/"><u>Comprehensive Tutorial for Adding People to Your Photographs</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/experience-revolutionary-capabilities-the-new-apowermirror-arrives/"><u>Experience Revolutionary Capabilities: The New ApowerMirror Arrives</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/expert-tips-for-successfully-retrieving-lost-information-on-lg-optimus-g-pro-with-premier-recovery-applications/"><u>Expert Tips for Successfully Retrieving Lost Information on LG Optimus G Pro with Premier Recovery Applications</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-rotate-a-video-on-vlc-media-player/"><u>How to Rotate A Video on VLC Media Player</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2022-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2022) to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adding-emotion-and-context-narration-for-videos/"><u>In 2024, Adding Emotion and Context Narration for Videos</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/modify-your-hosts-file-efficiently-with-visual-basic-scripting-or-powershell-techniques/"><u>Modify Your Hosts File Efficiently with Visual Basic Scripting or PowerShell Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-dev-error-6034-a-comprehensive-guide-for-call-of-duty-modern-warfare-players/"><u>Resolving Dev Error 6034: A Comprehensive Guide for Call of Duty Modern Warfare Players</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-retrieving-files-from-your-external-hdd/"><u>Step-by-Step Guide: Retrieving Files From Your External HDD</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/the-mechanics-behind-malicious-software-distribution-via-spam-emails-explained/"><u>The Mechanics Behind Malicious Software Distribution via Spam Emails Explained</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-top-photo-viewers-compatible-with-windows-11/"><u>Ultimate Guide: Top Photo Viewers Compatible with Windows 11</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-tutorial-on-eradicating-cryptomalware-with-malwarefox/"><u>Ultimate Tutorial on Eradicating Cryptomalware with MalwareFox</u></a></li>
 </ul></div>
 

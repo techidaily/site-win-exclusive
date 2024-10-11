@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality"
-date: 2024-10-01T19:58:46.552Z
-updated: 2024-10-05T18:39:46.504Z
+date: 2024-10-06T18:28:25.528Z
+updated: 2024-10-11T02:28:04.996Z
 tags:
   - application-packaging-training
 categories:
@@ -47,10 +47,16 @@ Regsvr32 \[/u\] \[/n\] \[/i\[:cmdline\]\] <dllname>
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Regsvr32 must always be used from an elevated command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For example, to register a DLL/OCX, you can use:
@@ -66,6 +72,13 @@ Regsvr32.exe /U PATHTODLL\name.DLL
 Copy
 
 ![Regsvr32 command-line utility](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/regsvr32.png "Regsvr32 command-line utility")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with VBscript?
 
@@ -112,25 +125,11 @@ Copy
 
 ![register the DLL](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLRegisterVB.png "register the DLL")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We also want to unregister the DLL during uninstallation, so let's create another custom action the same way as we did previously. Except this time, select the unregister script and configure the Custom Action as seen below:
 
 ![unregister the DLL during uninstallation](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLUnregisterVB.png "unregister the DLL during uninstallation")  
 
 And that is it, all you need to do is **Build the MSI and install it.** The DLL will be registered.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with PowerShell?
 
@@ -159,18 +158,25 @@ Copy
 
 ![DLL Register PowerShell script](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLRegisterPS.png "DLL Register PowerShell script")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For the unregister action, we follow the same steps as above and configure the Custom Actions:
 
 ![DLL Unregister PowerShell script](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLUnregisterPS.png "DLL Unregister PowerShell script")  
 
-And you're done, now you can Build the MSI and install it. The DLL will be registered.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+And you're done, now you can Build the MSI and install it. The DLL will be registered.
 
 ### How to Register DLL/OCX with Advanced Installer?
 
@@ -214,20 +220,16 @@ It creates the required registry entries so that your assembly is operable throu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-activating-or-deactivating-user-feedback-on-videos/"><u>[Updated] Activating or Deactivating User Feedback on Videos</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-captivating-audiences-on-tiktok-by-blending-sound-and-sight/"><u>[Updated] In 2024, Captivating Audiences on TikTok by Blending Sound and Sight</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-video-sims-4-mastery-guide-for-2024/"><u>[Updated] Video Sims 4 Mastery Guide for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-securing-your-android-top-strategies-to-shield-against-malware-and-ensure-device-safety/"><u>1. Securing Your Android: Top Strategies to Shield Against Malware & Ensure Device Safety</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-13c-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi 13C Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/best-3-cost-free-alternatives-to-itunes-on-your-iphone/"><u>Best 3 Cost-Free Alternatives to iTunes on Your iPhone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/defending-against-wannacry-comprehensive-guide-by-malwarefox/"><u>Defending Against WannaCry: Comprehensive Guide by MalwareFox</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/evaluating-your-antivirus-ensuring-effective-cybersecurity-protection/"><u>Evaluating Your Antivirus: Ensuring Effective Cybersecurity Protection</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/evasion-experts-how-effective-is-malware-at-outsmarting-windows-defender-protections/"><u>Evasion Experts: How Effective Is Malware at Outsmarting Windows Defender Protections?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-picks-the-11-leading-ransomware-protection-tools-of-the-year/"><u>Expert Picks: The 11 Leading Ransomware Protection Tools of the Year</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-dolby-digital-issues-for-optimal-home-cinema-experience-on-windows-11/"><u>How To Fix Dolby Digital Issues for Optimal Home Cinema Experience on Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-easy-to-use-free-youtube-downloader-with-mp3-support/"><u>In 2024, Easy-to-Use Free YouTube Downloader with MP3 Support</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/making-the-leap-to-digital-readers/"><u>Making the Leap to Digital Readers</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-win32pup-gene-threat-identification-and-removal-guide/"><u>Understanding Win32/PUP-Gene Threat: Identification & Removal Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elite-zero-cost-fb-picturemovie-composer/"><u>[New] In 2024, Elite Zero-Cost FB Picture/Movie Composer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-posting-vimeo-perfecting-your-instagram-content/"><u>[New] In 2024, Posting Vimeo Perfecting Your Instagram Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-easy-guide-to-enhancing-images-via-iphone-cropping-for-2024/"><u>[New] The Easy Guide to Enhancing Images via iPhone Cropping for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt-for-2024/"><u>[Updated] Essential Tips and Tricks for Creating Killer Short Videos on YT for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exploring-shadows-online-a-beginners-guide-to-dark-and-deep-web-differences-tips-by-malwarefox/"><u>Exploring Shadows Online: A Beginner's Guide to Dark and Deep Web Differences, Tips by MalwareFox</u></a></li>
+<li><a href="https://common-error.techidaily.com/feature-update-to-windows-10-version-1607-failed-to-install/"><u>Feature Update to Windows 10 Version 1607 Failed to Install</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hidef-audio-resolved-successful-fix/"><u>HiDef Audio Resolved: Successful Fix</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-dichotomy-of-digital-immersion-in-vr/"><u>In 2024, The Dichotomy of Digital Immersion in VR</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/solving-video-capture-problems-in-windows-10-gaming-effective-fixes-and-guides/"><u>Solving Video Capture Problems in Windows 10 Gaming: Effective Fixes and Guides</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-how-to-erase-shadows-from-images-successfully/"><u>Step-by-Step Guide: How To Erase Shadows From Images Successfully</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-mirroring-your-iphone-screen-on-apple-tv/"><u>Step-by-Step Guide: Mirroring Your iPhone Screen on Apple TV</u></a></li>
 </ul></div>
 

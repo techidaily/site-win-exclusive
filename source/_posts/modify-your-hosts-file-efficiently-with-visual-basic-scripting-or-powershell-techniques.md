@@ -1,7 +1,7 @@
 ---
 title: Modify Your Hosts File Efficiently with Visual Basic Scripting or PowerShell Techniques
-date: 2024-10-02T19:38:03.868Z
-updated: 2024-10-05T18:53:06.386Z
+date: 2024-10-06T00:33:21.358Z
+updated: 2024-10-10T16:18:06.379Z
 tags:
   - application-packaging-training
 categories:
@@ -36,13 +36,6 @@ To add custom mappings between hostnames and IP addresses, manually edit the hos
 Please keep in mind that editing the hosts file usually necessitates administrative privileges. As a result, you may need to use an administrator account to run a text editor or any program that modifies the hosts file.
 
 There might be cases where the modification of the hosts file is required directly from the MSI package, and the only way to do this is only via Custom Actions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Write in hosts file with VBScript
 
@@ -89,6 +82,13 @@ The above VBScript performs the following actions:
 * If the entry is not found, the file is closed and reopened in appending mode to write the new entry using the WriteLine method.
 * Once the new entry is written, the file is closed again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Write in hosts file with PowerShell
 
 If you want to use PowerShell to write in the hosts file, this is also quite easy to accomplish.
@@ -96,10 +96,10 @@ If you want to use PowerShell to write in the hosts file, this is also quite eas
 $hostsFilePath = "$env:SystemRoot\System32\drivers\etc\hosts"
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specify the hostname and IP address
@@ -107,10 +107,10 @@ $hostname = "example.com"
 $ipAddress = "127.0.0.1"
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check if the hosts file exists
@@ -149,10 +149,10 @@ The script checks if the hosts file exists and if the entry already exists in th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)I have compiled a list of the most used scripts in Software Packaging that you can download from [here](https://www.alexandrumarin.com/downloads/#packaging-script-collection "here").  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -170,24 +170,19 @@ The script checks if the hosts file exists and if the entry already exists in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplify-lenovo-screen-casting-today/"><u>[New] 2024 Approved Simplify Lenovo Screen Casting Today</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-adding-soundtracks-to-your-inshot-projects-for-2024/"><u>[New] Adding Soundtracks to Your InShot Projects for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-best-8-online-photo-montage-maker/"><u>[New] Best 8 Online Photo Montage Maker</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-smart-tv-meets-social-networks-televising-fb-content/"><u>[Updated] 2024 Approved Smart TV Meets Social Networks Televising FB Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-for-enhanced-job-hunting/"><u>6 Effective Strategies: Leveraging ChatGPT for Enhanced Job Hunting</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/a-comprehensive-guide-streaming-moba-fun-from-mobile-legends-to-your-pc/"><u>A Comprehensive Guide: Streaming MOBA Fun From Mobile Legends to Your PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/background-noise-begone-mastering-audio-editing-in-final-cut-pro-x/"><u>Background Noise Begone! Mastering Audio Editing in Final Cut Pro X</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/best-security-question-practices-a-comprehensive-guide-to-enhancing-your-online-safety/"><u>Best Security Question Practices: A Comprehensive Guide to Enhancing Your Online Safety</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-evaluation-of-screencast-o-matic-features-and-performance/"><u>Comprehensive Evaluation of Screencast-O-Matic: Features and Performance</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-academy-online-tutorials/"><u>Comprehensive MSI Academy Online Tutorials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-budget-friendly-study-apps-for-students-preparing-for-school/"><u>Discover the Latest Budget-Friendly Study Apps for Students Preparing for School</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-moving-your-contacts-and-files-from-an-old-iphone-to-a-new-iphone-xs/"><u>Easy Steps: Moving Your Contacts and Files From an Old iPhone to a New iPhone XS</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/imovie-compatible-video-format-transformer-how-to-optimize-videos-for-seamless-editing/"><u>IMovie Compatible Video Format Transformer: How to Optimize Videos for Seamless Editing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>In 2024, ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-13-pro-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 13 Pro</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-opera-screen-captures-a-comprehensive-guide/"><u>Mastering the Art of Opera Screen Captures: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/navigating-cyber-threats-understanding-the-dangers-of-suspicious-pdfs-on-mobile-devices-with-malwarefox-insights/"><u>Navigating Cyber Threats: Understanding the Dangers of Suspicious PDFs on Mobile Devices with MalwareFox Insights</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-free-software-for-converting-flv-videos-into-3gp-format/"><u>Top Free Software for Converting FLV Videos Into 3GP Format</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-avatar-online-for-2024/"><u>Updated Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-playthroughs-on-windows-10-easy-way/"><u>[Updated] Capturing Playthroughs on Windows 10 Easy Way</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-tv-screen-scenes-with-ease-your-ultimate-guide/"><u>[Updated] Capturing TV Screen Scenes with Ease - Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-avoid-hassle-effortless-addition-of-video-content-in-youtube-plays/"><u>2024 Approved Avoid Hassle Effortless Addition of Video Content in YouTube Plays</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-perfecting-live-steam-playback-a-step-by-step-approach/"><u>2024 Approved Perfecting Live Steam Playback A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-streamline-your-youtube-experience-shareable-playlists/"><u>2024 Approved Streamline Your YouTube Experience Shareable Playlists</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-android-security-manual-eradicating-and-fortifying-your-mobile-device-against-malware/"><u>Comprehensive Android Security Manual: Eradicating & Fortifying Your Mobile Device Against Malware</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-tutorials-creating-interactive-pdf-forms-step-by-step/"><u>Comprehensive Tutorials: Creating Interactive PDF Forms Step-by-Step</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effortless-ways-to-cast-your-huawei-p50-on-the-big-screen/"><u>Effortless Ways to Cast Your Huawei P50 on the Big Screen</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/innovative-methods-for-reflecting-your-ipad-display-onto-a-pc/"><u>Innovative Methods for Reflecting Your iPad Display Onto a PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-iphone-photo-blurring-4-techniques-explored/"><u>Mastering iPhone Photo Blurring 4 Techniques Explored</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-safe-communication-a-step-by-step-guide-on-protected-email-dispatch-in-gmail-and-outlook/"><u>Mastering Safe Communication: A Step-by-Step Guide on Protected Email Dispatch in Gmail and Outlook</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-rat-malware-prevention-strategies-against-remote-access-trojans/"><u>Understanding RAT Malware: Prevention Strategies Against Remote Access Trojans</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-hdr-potential-the-comprehensive-sdr-to-hdr-conversion-guide/"><u>Unleash HDR Potential The Comprehensive SDR-to-HDR Conversion Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-your-creativity-top-video-animation-apps-for-smartphone-and-tablet-users/"><u>Updated Unleash Your Creativity Top Video Animation Apps for Smartphone and Tablet Users</u></a></li>
 </ul></div>
 

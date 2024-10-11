@@ -1,7 +1,7 @@
 ---
 title: "How to Edit the Hosts File Using VBScript or PowerShell: A Step-by-Step Guide"
-date: 2024-09-29T20:04:06.630Z
-updated: 2024-10-05T19:59:57.710Z
+date: 2024-10-07T03:11:14.639Z
+updated: 2024-10-10T20:03:39.749Z
 tags:
   - application-packaging-training
 categories:
@@ -38,10 +38,10 @@ Please keep in mind that editing the hosts file usually necessitates administrat
 There might be cases where the modification of the hosts file is required directly from the MSI package, and the only way to do this is only via Custom Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Write in hosts file with VBScript
@@ -89,27 +89,34 @@ The above VBScript performs the following actions:
 * If the entry is not found, the file is closed and reopened in appending mode to write the new entry using the WriteLine method.
 * Once the new entry is written, the file is closed again.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Write in hosts file with PowerShell
 
 If you want to use PowerShell to write in the hosts file, this is also quite easy to accomplish.
 
 $hostsFilePath = "$env:SystemRoot\System32\drivers\etc\hosts"
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specify the hostname and IP address
 $hostname = "example.com"
 $ipAddress = "127.0.0.1"
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check if the hosts file exists
@@ -148,10 +155,10 @@ The script checks if the hosts file exists and if the entry already exists in th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)I have compiled a list of the most used scripts in Software Packaging that you can download from [here](https://www.alexandrumarin.com/downloads/#packaging-script-collection "here").  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -169,19 +176,18 @@ The script checks if the hosts file exists and if the entry already exists in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-aspect-ratio-for-video-content-on-social-platforms/"><u>[New] 2024 Approved Aspect Ratio for Video Content on Social Platforms</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comparative-techniques-in-software-remastering-insights-into-msi-and-exe-conversion-strategies/"><u>Comparative Techniques in Software Remastering: Insights Into MSI and EXE Conversion Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/datasafe-experts-assessment-for-2024/"><u>DataSafe Experts Assessment for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-503-error-code-causes-impacts-and-remedies/"><u>Decoding the 503 Error Code: Causes, Impacts, and Remedies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gmail-hack-proof-effective-ways-to-manage-and-add-multiple-emails-securely/"><u>Gmail Hack-Proof: Effective Ways to Manage and Add Multiple Emails Securely</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/id3-tagger-quickly-assign-metadata-to-your-audio-library-for-enhanced-discoverability/"><u>ID3 Tagger: Quickly Assign Metadata to Your Audio Library for Enhanced Discoverability</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/kostenlose-dvd-decodierungssoftware-fur-windows-10-and-macos-herunterladen/"><u>Kostenlose DVD-Decodierungssoftware Für Windows 10 & macOS - Herunterladen</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/master-the-art-of-a-clean-browsing-experience-with-these-4-techniques-to-block-and-remove-pop-ups-from-firefox/"><u>Master the Art of a Clean Browsing Experience with These 4 Techniques to Block & Remove Pop-Ups From Firefox</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-asana-setbacks-a-guide-for-windows-users/"><u>Navigating Asana Setbacks: A Guide for Windows Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-gamers-blueprint-techniques-to-record-virtual-realms-for-2024/"><u>The Gamer's Blueprint Techniques to Record Virtual Realms for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-5-multifaceted-antivirus-scanners-expert-reviews-and-comparisons/"><u>Top 5 Multifaceted Antivirus Scanners: Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/unraveling-the-mystery-why-does-my-chrome-display-managed-by-an-organization-and-is-it-safe/"><u>Unraveling the Mystery: Why Does My Chrome Display 'Managed By an Organization,' And Is It Safe?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-started-with-mp4-video-editing-a-friendly-tutorial-for-mac-and-windows-beginners/"><u>Updated 2024 Approved Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-comprehensive-list-of-excellent-fb-cover-photo-creators-for-2024/"><u>[New] A Comprehensive List of Excellent FB Cover Photo Creators for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-review-of-the-latest-facetune-features-and-fixes/"><u>[Updated] Full Review of the Latest Facetune Features and Fixes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-crafting-perfect-thumbnails-for-higher-clickthrough-rates/"><u>2024 Approved Crafting Perfect Thumbnails for Higher Clickthrough Rates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pushing-creative-boundaries-utilizing-advanced-techniques-for-luts-in-after-effects/"><u>2024 Approved Pushing Creative Boundaries Utilizing Advanced Techniques for LUTs in After Effects</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-to-over-12-malware-varieties-definitions-and-real-world-instances/"><u>Comprehensive Guide to Over 12 Malware Varieties: Definitions & Real-World Instances</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/explore-best-substitutes-of-xsplit-for-both-pcs-and-apple-computers/"><u>Explore Best Substitutes of Xsplit for Both PCs and Apple Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-types-and-methods-of-touchless-technology-for-2024/"><u>Exploring Types and Methods of Touchless Technology for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/implementing-windows-management-scripts-through-intunes-msix-technology/"><u>Implementing Windows Management Scripts Through Intune's MSIX Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-11-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme 11 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-transform-your-chronicles-free-extensions-and-mobile-apps-galore/"><u>In 2024, Transform Your Chronicles FREE Extensions & Mobile Apps Galore</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unlock-superior-mac-gif-capture-with-these-apps/"><u>In 2024, Unlock Superior Mac GIF Capture with These Apps</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-zepto-usage-a-comprehensive-guide-for-desktop-enthusiasts/"><u>Mastering Zepto Usage: A Comprehensive Guide for Desktop Enthusiasts</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/the-mechanics-behind-malicious-software-distribution-via-spam-emails-explained/"><u>The Mechanics Behind Malicious Software Distribution via Spam Emails Explained</u></a></li>
 </ul></div>
 

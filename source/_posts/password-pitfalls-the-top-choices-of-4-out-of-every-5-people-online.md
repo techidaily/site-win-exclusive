@@ -1,7 +1,7 @@
 ---
 title: "Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online"
-date: 2024-10-01T18:59:39.293Z
-updated: 2024-10-05T17:14:13.642Z
+date: 2024-10-09T21:23:03.280Z
+updated: 2024-10-10T22:42:43.584Z
 tags:
   - product
   - antivirus
@@ -90,10 +90,10 @@ As you can compare, the list of 2020 and 2019 is exact. And comparing it with th
 So, what mistakes are people doing while choosing a password? Let us find out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Most Common Password Mistakes
@@ -116,6 +116,13 @@ Another common mistake made by most people is using the same password everywhere
 
 People remember this. Passwords are meant just for your eyes. They are not for sharing even with your closest person. Besides, it is not always about faith. If the person with whom you have shared your password, have stored it in a system that got hacked, then your password will also get into the hands of the hacker. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Password Management DO’s and DON’Ts
 
 ![Most common passwords: DO's and DON'Ts](https://www.malwarefox.com/wp-content/uploads/2020/06/Password-Manement-Dos-and-Donts.png)
@@ -124,33 +131,39 @@ People remember this. Passwords are meant just for your eyes. They are not for s
 
 Here are some tips for creating a secured password
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Use a Robust Password Manager**
 
 A [password manager](https://tools.techidaily.com/malwarefox/products/) would not only store the passwords for you but would also create unique and strong passwords. Usually, they do not cost much and would reduce the risk of getting hacked because of weak passwords. Password Managers are more beneficial for an organization as they are vulnerable to much greater loss if got hacked.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Use Multi-Factor Authentication**
 
 [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor%5Fauthentication) is a security measure in which users required to authenticate themselves using more than one credentials. For example, the first step of login could be entering your username and password; the second step could be verification by mobile OTP: and the third step could be verification by fingerprint.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Don’t Create Passwords with Dictionary Words**
 
 Creating a password using dictionary words is a silly practice. While creating a password, always use alphanumeric combinations and also append special characters. Also, try to make it more complicated by the combination of upper and lower case letters.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion: Most Common Passwords
 
@@ -169,13 +182,6 @@ A unique password is the one that you only use for one account and do not repeat
 **What are the most common 4 digits passwords?** 
 
 The most common 4 digit passwords are **1234, 1111, and 0000\.** Another popular 4 digit is the combination of birth date and birth month. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -202,21 +208,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-adding-music-to-your-instagram-snapshots-stickers-and-more/"><u>[New] Adding Music to Your Instagram Snapshots Stickers and More</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-beyond-the-surface-10-under-the-radar-facts-about-reels-for-2024/"><u>[New] Beyond the Surface 10 Under-the-Radar Facts About Reels for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-transforming-video-tutorials-into-playable-animated-gifs-online/"><u>[Updated] 2024 Approved Transforming Video Tutorials Into Playable Animated GIFs Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-image-merging-techniques/"><u>[Updated] Mastering Image Merging Techniques</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-academy-online-tutorials/"><u>Comprehensive MSI Academy Online Tutorials</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/exploring-the-world-of-advanced-msi-box-design-download-our-comprehensive-guide/"><u>Exploring the World of Advanced MSI Box Design: Download Our Comprehensive Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/guide-on-halting-notification-pop-ups-and-adblock-implementation-in-google-chrome/"><u>Guide on Halting Notification Pop-Ups & Adblock Implementation in Google Chrome</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/interactive-learning-landscapes-with-vr-for-2024/"><u>Interactive Learning Landscapes with VR for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-opera-screen-captures-a-comprehensive-guide/"><u>Mastering the Art of Opera Screen Captures: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigate-through-harsh-trade-battles-with-our-in-depth-review-of-offworld-trading-companys-empire-tactics/"><u>Navigate Through Harsh Trade Battles with Our In-Depth Review of Offworld Trading Company's Empire Tactics</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/premier-websites-to-amplify-your-musical-experience-with-the-latest-beats/"><u>Premier Websites to Amplify Your Musical Experience with the Latest Beats</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/protect-your-privacy-expert-tips-for-finding-and-deleting-spyware-on-android-phones-using-malwarefox/"><u>Protect Your Privacy: Expert Tips for Finding and Deleting Spyware on Android Phones Using MalwareFox</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-free-software-for-converting-flv-videos-into-3gp-format/"><u>Top Free Software for Converting FLV Videos Into 3GP Format</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-profitable-pathways-8-steps-for-youtube-earning/"><u>[New] In 2024, Profitable Pathways 8 Steps for YouTube Earning</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-sustainable-traffic-growth-ethical-video-marketing-tips/"><u>[New] In 2024, Sustainable Traffic Growth Ethical Video Marketing Tips</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-securing-your-android-top-strategies-to-shield-against-malware-and-ensure-device-safety/"><u>1. Securing Your Android: Top Strategies to Shield Against Malware & Ensure Device Safety</u></a></li>
+<li><a href="https://video-capture.techidaily.com/5zwg5zob6lplusu5zob44gk44ki44gz6lplusu6yer5pa55rovic0g6yen6kab44gq5p2h5lu244ks55plusl44gj44gm44ge44gplus44gz44glpw/"><u>商品返品および返金方法 - 重要な条件を知っていますか?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-3-cost-free-alternatives-to-itunes-on-your-iphone/"><u>Best 3 Cost-Free Alternatives to iTunes on Your iPhone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-strategies-for-extracting-audio-tracks-in-video-files/"><u>Effective Strategies for Extracting Audio Tracks in Video Files</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/evaluating-your-antivirus-ensuring-effective-cybersecurity-protection/"><u>Evaluating Your Antivirus: Ensuring Effective Cybersecurity Protection</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/evasion-experts-how-effective-is-malware-at-outsmarting-windows-defender-protections/"><u>Evasion Experts: How Effective Is Malware at Outsmarting Windows Defender Protections?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/everything-you-need-to-know-about-apple-watch-series-8-launch-date-insights-technical-details-cost-analysis-and-recent-developments/"><u>Everything You Need to Know About Apple Watch Series 8: Launch Date Insights, Technical Details, Cost Analysis & Recent Developments</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/expert-picks-the-11-leading-ransomware-protection-tools-of-the-year/"><u>Expert Picks: The 11 Leading Ransomware Protection Tools of the Year</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-14-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 14 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ig-boomerangs-crafting-compelling-circular-content/"><u>IG Boomerangs Crafting Compelling Circular Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-motion-clearer-captures/"><u>Mastering Motion Clearer Captures</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-apowerrec-in-depth-user-instruction-booklet-explained/"><u>Mastering the ApowerREC: In-Depth User Instruction Booklet Explained</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-reposting-on-instagram-stories/"><u>Mastering the Art of Reposting on Instagram Stories</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-using-likee-a-comprehensive-guide-for-windows-users/"><u>Mastering the Art of Using Likee: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-gaming-ready-mini-pcs-of-the-year/"><u>Top Gaming-Ready Mini PCs of the Year</u></a></li>
+<li><a href="https://facebook.techidaily.com/tracing-outages-in-tech-giants-platforms/"><u>Tracing Outages in Tech Giants' Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-f34-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy F34 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

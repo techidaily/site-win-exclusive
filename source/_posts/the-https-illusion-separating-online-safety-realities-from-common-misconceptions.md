@@ -1,7 +1,7 @@
 ---
 title: "The HTTPS Illusion: Separating Online Safety Realities From Common Misconceptions"
-date: 2024-09-30T19:29:38.038Z
-updated: 2024-10-05T16:28:23.351Z
+date: 2024-10-06T16:44:32.559Z
+updated: 2024-10-10T20:00:04.778Z
 tags:
   - product
   - antivirus
@@ -55,19 +55,19 @@ Probably that’s why Google removes the secure word from the URL field.
 ![New Chrome Secure Padlock](https://www.malwarefox.com/wp-content/uploads/2019/01/New-Chrome-Secure-Padlock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Malicious websites can easily get the SSL certificates and get the HTTPS to make them look like a genuine website. If you are accessing such a site, then you are just accessing it over a secured connection. That doesn’t mean the content on the website is safe.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should we Stop looking for HTTPS?
@@ -75,10 +75,10 @@ Malicious websites can easily get the SSL certificates and get the HTTPS to make
 ![](https://www.malwarefox.com/wp-content/uploads/2019/01/https-1.png)If HTTPS doesn’t guarantee the safe website, then should we stop bothering about it? NO, HTTPS is still great. It does what it is meant to do. It protects your confidential information like login credentials, banking details, and credit card information. If you are entering such information on an official website, then HTTPS is useful. It encrypts your details so that no one can read your information in the middle. So, you still need HTTPS.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Just looking on HTTPS is not effective, you should make sure the whole URL is accurate. It will keep your information safe from the phishing websites. Cybercriminals could easily create a lookalike website that you access and steal your information.
@@ -88,10 +88,10 @@ Just looking on HTTPS is not effective, you should make sure the whole URL is ac
 For example, they could create a fake website like amajon.com and copy everything from the original amazon.com. They can also get the SSL certificate and make the URL https://amajon.com. You will see a secure padlock and then trust on this website. When you enter the login credentials and enter your credit card details, it reaches to the criminals. The HTTPS will work, it will encrypt the information and no one in the middle can access it, but the owner of the website can read it without any effort.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -123,21 +123,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-discover-the-best-in-igtv-every-week/"><u>[New] 2024 Approved Discover the Best in IGTV Every Week</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/chuckle-and-cry-the-top-instagram-memes-that-make-you-giggle/"><u>Chuckle & Cry The Top Instagram Memes that Make You Giggle</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effortless-methods-to-capture-skygames-in-action-for-windows-and-mac-users/"><u>Effortless Methods to Capture Skygames in Action for Windows & Mac Users</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/expert-tips-on-retrieving-lost-images-a-step-by-step-guide-for-iphones/"><u>Expert Tips on Retrieving Lost Images - A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Pro Max Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/imovie-compatible-video-format-transformer-how-to-optimize-videos-for-seamless-editing/"><u>IMovie Compatible Video Format Transformer: How to Optimize Videos for Seamless Editing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cinemac/"><u>In 2024, CineMac</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/master-new-industry-standards-through-advanced-msi-academys-free-online-credentialing-course/"><u>Master New Industry Standards Through Advanced MSI Academy's FREE Online Credentialing Course</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-adding-emojis-in-video-content-for-engagement/"><u>Mastering the Art of Adding Emojis in Video Content for Engagement</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigating-the-social-sea-comprehensive-30-tips-for-success-for-2024/"><u>Navigating the Social Sea Comprehensive 30 Tips for Success for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-turbulence-in-microsoft-flight-simulator-2020-overcoming-frequent-pc-crashes/"><u>Navigating Turbulence in Microsoft Flight Simulator 2020 – Overcoming Frequent PC Crashes</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/simple-tips-for-converting-dvd-audio-tracks-to-mp3-format/"><u>Simple Tips for Converting DVD Audio Tracks to MP3 Format</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/softening-audio-fl-basics-for-2024/"><u>Softening Audio FL Basics for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-how-to-permanently-remove-contacts-from-your-iphone/"><u>Ultimate Guide: How to Permanently Remove Contacts From Your iPhone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effortless-tiktok-age-verification-process/"><u>[New] Effortless TikTok Age Verification Process</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-essential-steps-smoothly-uploading-videos-via-pc-iosandroid/"><u>[Updated] In 2024, Facebook's Essential Steps Smoothly Uploading Videos via PC, iOS/Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quintessential-vr-enhancements-for-players/"><u>[Updated] Quintessential VR Enhancements for Players</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-savvy-soccer-snatching-how-to-record-and-cut-cheap/"><u>2024 Approved Savvy Soccer Snatching How to Record and Cut Cheap</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/capture-a-specific-area-of-your-windows-desktop-step-by-step-guide/"><u>Capture a Specific Area of Your Windows Desktop: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/discover-the-finest-beemp3-replacements-and-why-they-matter-for-your-needs/"><u>Discover the Finest BeeMP3 Replacements and Why They Matter for Your Needs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-upgrade-how-to-update-drivers-for-microsofts-sculpt-ergonomic-keyboard/"><u>Effortless Upgrade: How to Update Drivers for Microsoft's Sculpt Ergonomic Keyboard</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-safely-obtain-a-genuine-malwarefox-registration-key-verified-functionality/"><u>How to Safely Obtain a Genuine MalwareFox Registration Key – Verified Functionality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-itel-p40-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Itel P40</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-introduction-to-effective-analysis-facebook-insights/"><u>In 2024, Introduction to Effective Analysis Facebook Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leveraging-hashtags-and-mentions/"><u>In 2024, Leveraging Hashtags and Mentions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-safe-communication-a-step-by-step-guide-on-protected-email-dispatch-in-gmail-and-outlook/"><u>Mastering Safe Communication: A Step-by-Step Guide on Protected Email Dispatch in Gmail and Outlook</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/password-pitfalls-the-top-choices-of-4-out-of-every-5-people-online/"><u>Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-role-and-risks-involved-with-deleting-pagefilesys-files/"><u>The Role & Risks Involved with Deleting Pagefile.sys Files</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-rat-malware-prevention-strategies-against-remote-access-trojans/"><u>Understanding RAT Malware: Prevention Strategies Against Remote Access Trojans</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-taboola-a-comprehensive-guide-on-identifying-and-eliminating-intrusive-ads/"><u>Understanding Taboola: A Comprehensive Guide on Identifying & Eliminating Intrusive Ads</u></a></li>
 </ul></div>
 

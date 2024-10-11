@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Installation Processes: Mastering Dependency Management in MSI Creations Using Advanced Installer"
-date: 2024-09-29T19:04:26.073Z
-updated: 2024-10-05T17:18:15.259Z
+date: 2024-10-03T18:23:40.109Z
+updated: 2024-10-10T16:05:32.798Z
 tags:
   - application-packaging-training
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 While conditional statements give you the possibility to clearly define the needed environment for your installer, it doesn’t let you modify the system in order to make the proper changes for your application to be installed. As seen in the chapter above, conditional statements for software applications can be easily added into the MSI by using Advanced Installer, but what if you want to check if that particular dependency is installed and if not, install it yourself?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Prerequisites
 
 This is where the Prerequisites feature comes in handy and lets you quickly create a bundle which contains your application and the desired dependencies.
@@ -30,13 +37,6 @@ Prerequisites are software components that must be installed before the installa
 Adding prerequisites to MSI packages is important for several reasons. Firstly, it ensures that the application will run correctly on target systems, reducing the risk of compatibility issues and user frustration. Secondly, it simplifies the deployment process by automating the installation of required software components. Finally, it can improve the performance of the application by ensuring that it has access to the latest software components.
 
 Adding prerequisites with Advanced Installer is a straightforward process that can be done in just a few steps. Here's how to do it:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Advanced Installer Prerequisites page
 
@@ -83,14 +83,20 @@ When you select a predefined prerequisite, Advanced Installer asks you if you wa
 
 ![ai prerequisites download](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites-download.png "ai prerequisites download")  
 
-You can also select the extract folder for each selected prerequisite, keep the prerequisite files after installation, hide installed prerequisites and check the launch conditions before searching for the prerequisites.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+You can also select the extract folder for each selected prerequisite, keep the prerequisite files after installation, hide installed prerequisites and check the launch conditions before searching for the prerequisites.
 
 ### How to Enable Windows Features with Advanced Installer
 
@@ -101,10 +107,10 @@ Use the \[Windows Feature bundle\] toolbar button or the "New Windows Feature bu
 ![ai prerequisites windows features](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites-windows-features.png "ai prerequisites windows features")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Advanced Installer also offers multiple Windows Server roles from which you can choose to include in your package. Roles selected in this view only apply when running the package on a Windows Server. They will be ignored on any other OS type.
@@ -114,10 +120,10 @@ To include a server role in your package, select the Windows Server Roles tree i
 ![ai prerequisites windows server roles](https://cdn.advancedinstaller.com/img/adding-prerequisites-to-packages/ai-prerequisites-windows-server-roles.png "ai prerequisites windows server roles")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Of course, you can add your own packages and create a suite installation, [a chapter we have already covered in the first MSI Packaging fundamentals ebook](https://tools.techidaily.com/advancedinstaller/products/).
@@ -137,22 +143,20 @@ Of course, you can add your own packages and create a suite installation, [a cha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-document-your-days-with-xiaomis-state-of-the-art-screenshot-tool/"><u>[New] In 2024, Document Your Days with Xiaomi's State-of-the-Art Screenshot Tool</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-superior-webcams-for-professional-podcasting/"><u>[New] Superior Webcams for Professional Podcasting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essentials-of-firefoxs-pip-functionality/"><u>2024 Approved The Essentials of Firefox's PIP Functionality</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comparing-iphone-6-and-6-plus-with-the-previous-model-iphone-5s/"><u>Comparing IPhone 6 & 6 Plus with the Previous Model: IPhone 5S</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/cutting-edge-advances-in-msi-branding-with-high-quality-packaging-options/"><u>Cutting-Edge Advances in MSI Branding with High-Quality Packaging Options</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/eradicate-the-chromium-threat-comprehensive-guide-to-cleaning-your-pc-with-malwarefox/"><u>Eradicate the Chromium Threat: Comprehensive Guide to Cleaning Your PC with MalwareFox</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-restore-lost-videos-on-your-ipad/"><u>How To Restore Lost Videos On Your iPad</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-beyond-obs-streamer-friendly-broadcast-software/"><u>In 2024, Beyond OBS Streamer-Friendly Broadcast Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-sd-compatibility-with-sony-a7s-ii/"><u>In 2024, Ultimate SD Compatibility with Sony A7S II</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unleashing-potential-a-deep-dive-into-the-ion-air-pro-3-review/"><u>In 2024, Unleashing Potential A Deep Dive Into the ION Air Pro 3 Review</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-using-likee-a-comprehensive-guide-for-windows-users/"><u>Mastering the Art of Using Likee: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/secure-your-computer-a-step-by-step-guide-to-using-malwarefox-for-safe-email-attachment-checks/"><u>Secure Your Computer: A Step-by-Step Guide to Using MalwareFox for Safe Email Attachment Checks</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-rated-iphone-passwords-apps-secure-your-data-easily/"><u>Top Rated iPhone Passwords Apps: Secure Your Data Easily</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-how-to-safely-download-songs-from-saavn/"><u>Ultimate Guide: How to Safely Download Songs From Saavn</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/uniting-viewers-facebook-live-on-the-big-screen/"><u>Uniting Viewers Facebook Live on the Big Screen</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>Updated 2024 Approved Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ideal-images-scenery-for-engaging-online-audiences/"><u>[Updated] In 2024, Ideal Images Scenery for Engaging Online Audiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-your-youtube-experience-stop-previews/"><u>[Updated] Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-top-ranking-video-introduction-creators-for-your-blog-or-channel/"><u>1. Top-Ranking Video Introduction Creators for Your Blog or Channel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-decoding-the-process-of-capturing-facebooks-gifs-on-mobilepc/"><u>2024 Approved Decoding the Process of Capturing Facebook's GIFs on Mobile/PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-interpreting-differences-360-and-virtual-reality-cinematography/"><u>2024 Approved Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-screener-tech-perfect-for-youtube-videos/"><u>2024 Approved Premium Screener Tech Perfect for YouTube Videos</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/beginners-tutorial-adding-and-modifying-pictures-within-a-pdf-file/"><u>Beginner's Tutorial: Adding and Modifying Pictures Within a PDF File</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/bridging-windows-11-with-your-tv-screen-the-ultimate-how-to-guide/"><u>Bridging Windows 11 with Your TV Screen: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/captureit-all-revisiting-recordmax-users-for-2024/"><u>CaptureIt All! Revisiting 'RecordMax' Users for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fives-finest-time-lapse-capture-apps-reviewed-for-2024/"><u>Five's Finest Time-Lapse Capture Apps Reviewed for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-efficiently-convert-wmv-videos-into-high-quality-mp4-players/"><u>How to Efficiently Convert WMV Videos Into High-Quality MP4 Players</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simplifying-file-conversion-mastering-powershell-and-vbscript-for-efficient-de-hardening/"><u>Simplifying File Conversion: Mastering PowerShell & VBScript for Efficient De-Hardening</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-to-shifting-images-from-an-iphone-onto-a-samsung-galaxy-s10-smartphone/"><u>Step-by-Step Guide to Shifting Images From an iPhone Onto a Samsung Galaxy S10 Smartphone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-11-ios-11-troubleshooting-guide-solutions-and-tips/"><u>Top 11 iOS 11 Troubleshooting Guide: Solutions & Tips</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unmasking-the-invisible-effective-strategies-for-identifying-espionage-software-on-android-phones/"><u>Unmasking the Invisible: Effective Strategies for Identifying Espionage Software on Android Phones</u></a></li>
 </ul></div>
 

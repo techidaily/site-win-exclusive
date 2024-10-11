@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Handling Customer Information with Microsoft Windows Installation Framework
-date: 2024-10-03T20:12:16.890Z
-updated: 2024-10-05T16:31:18.569Z
+date: 2024-10-09T16:49:47.246Z
+updated: 2024-10-10T17:25:03.403Z
 tags:
   - application-packaging-training
 categories:
@@ -50,13 +50,6 @@ We already have the advertised shortcut option on all of the shortcuts, so we'll
 
 ![ai vlc hkcu](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-hkcu.png "ai vlc hkcu")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We need user registry keys so that the self-healing mechanism detects their absence when a user launches the shortcuts and initiates the actions. When the self-healing mechanism kicks in, it also considers the custom actions in the sequence.
 
 The user data files are then moved to a per-machine location. To do so, go to the Files and Folders page and create a new folder called UserData under the Application Folder, then drag the previously created vlc folder under the Application Data and drop it under the newly created UserData. At the end, it should look like this:
@@ -94,12 +87,26 @@ Then, launch Advanced Installer and go to the Custom Actions Page. Look for the 
 
 ![ai vlc user data per machine vbscript](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-vbscript.png "ai vlc user data per machine vbscript")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The code for the PowerShell script:
 
 $programfiles = $env:ProgramW6432
 $appdata = $env:APPDATA
 $sourcePath = $programfiles + "\VideoLAN\VLC\UserData"
 $destinationPath = $appdata + "\VLC"
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Copy the folder and its contents recursively
 Copy-Item -Path $sourcePath -Destination $destinationPath -Recurse -Force
@@ -119,10 +126,10 @@ Then, launch Advanced Installer and go to the Custom Actions Page. Search for th
 ![ai vlc user data per machine powershell](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-powershell.png "ai vlc user data per machine powershell")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scenario two - Active Setup
@@ -132,22 +139,15 @@ The only difference between scenarios 1 and 2 is that in the active setup case, 
 ![ai vlc user data per machine active setup page](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-active-setup-page.png "ai vlc user data per machine active setup page")  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In here, click on New and you can leave everything as default in the new window that appears.
 
 ![ai vlc user data per machine active setup config](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-active-setup-config.png "ai vlc user data per machine active setup config")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We have discussed more in-depth about the [Active Setup mechanism in our first book](https://tools.techidaily.com/advancedinstaller/products/), but if we check what the above settings mean we end up with the following:
 
@@ -179,17 +179,24 @@ And that is it, in both cases after the application is installed we have ensured
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-optimal-solutions-for-webp-to-jpg-image-transformation/"><u>[New] 2024 Approved Optimal Solutions for WebP-to-JPG Image Transformation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-clearing-the-fuzziness-tips-to-improve-chrome-videography/"><u>[New] Clearing the Fuzziness Tips to Improve Chrome Videography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-hands-on-approaches-to-archive-vimeo-video-for-2024/"><u>[Updated] Hands-On Approaches to Archive Vimeo Video for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-into-the-digital-frontier-vr-today-and-tomorrow-for-2024/"><u>[Updated] Into the Digital Frontier VR Today & Tomorrow for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-frame-fastness-mastering-time-lapse-shots-with-samsung/"><u>2024 Approved Frame Fastness Mastering Time-Lapse Shots with Samsung</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>2024 Approved How to Minimize Stress in iPad Screen Recordings? Here's a Way</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/decoding-cyber-threats-how-malware-differs-from-spyware-with-insights-from-malwarefox/"><u>Decoding Cyber Threats: How Malware Differs From Spyware with Insights From MalwareFox</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ensuring-flawless-transitions-through-optimized-repackaging-methods/"><u>Ensuring Flawless Transitions Through Optimized Repackaging Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/simple-methods-seamless-m4a-to-wav-file-transformation/"><u>Simple Methods: Seamless M4A to WAV File Transformation</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-5-free-mac-screen-capture-tools-the-ultimate-guide/"><u>Top 5 Free Mac Screen Capture Tools: The Ultimate Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-fortnite-starter-pack-mastering-the-basics/"><u>Ultimate Fortnite Starter Pack: Mastering the Basics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-10-superior-tools-for-fbx-file-recording/"><u>[New] 10 Superior Tools for FBX File Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-aquatic-cinematography-with-these-7-essential-strategies-for-2024/"><u>[Updated] Mastering Aquatic Cinematography with These 7 Essential Strategies for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-seamless-transfer-of-iphone-contacts-to-your-new-samsung-galaxy-s6/"><u>1. Seamless Transfer of iPhone Contacts to Your New Samsung Galaxy S6</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-analysis-of-wechats-in-built-video-chatting-feature-a-detailed-review/"><u>Comprehensive Analysis of WeChat's In-Built Video Chatting Feature: A Detailed Review</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/convert-mov-files-to-mp4-free-of-charge-a-simple-guide/"><u>Convert MOV Files to MP4 Free of Charge: A Simple Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-create-an-alarm-reminder-on-your-android-device/"><u>Easy Steps to Create an Alarm Reminder on Your Android Device</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/experience-revolutionary-capabilities-the-new-apowermirror-arrives/"><u>Experience Revolutionary Capabilities: The New ApowerMirror Arrives</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exposing-googles-5th-billion-scheme-understanding-the-scam-and-effective-elimination-techniques/"><u>Exposing Google's 5Th Billion Scheme: Understanding the Scam & Effective Elimination Techniques</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-to-broadcasting-your-gameplay-mastering-lcs-style-livestreams-with-wild-rift/"><u>Guide to Broadcasting Your Gameplay: Mastering LCS-Style Livestreams with Wild Rift</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-constant-freezing-issues-in-wwe-2k22-for-pc-players/"><u>How To Resolve Constant Freezing Issues in WWE 2K22 for PC Players</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-ace-2v-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus Ace 2V? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-unpacking-the-powerful-samsung-gear-s3-frontier-with-multifaceted-capabilities/"><u>In-Depth Analysis: Unpacking the Powerful Samsung Gear S3 Frontier with Multifaceted Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-amazon-prime-captions-solutions-for-non-functioning-subtitles/"><u>Reviving Your Amazon Prime Captions: Solutions for Non-Functioning Subtitles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-subtitles-when-creating-a-dvd/"><u>Step-by-Step Guide: Adding Subtitles when Creating a DVD</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-intels-nvme-drivers-for-optimal-performance/"><u>Step-by-Step Tutorial on Downloading Intel's NVMe Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-creating-your-ideal-clubhouse-image-with-ease/"><u>Ultimate Guide: Creating Your Ideal Clubhouse Image with Ease</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-email-impersonation-techniques-and-defense-strategies/"><u>Understanding Email Impersonation: Techniques & Defense Strategies</u></a></li>
 </ul></div>
 

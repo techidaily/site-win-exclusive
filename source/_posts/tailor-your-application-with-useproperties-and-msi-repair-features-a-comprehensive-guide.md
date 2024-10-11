@@ -1,7 +1,7 @@
 ---
 title: "Tailor Your Application with UseProperties & MSI Repair Features: A Comprehensive Guide"
-date: 2024-09-30T20:15:30.969Z
-updated: 2024-10-05T16:34:18.371Z
+date: 2024-10-04T22:22:54.909Z
+updated: 2024-10-10T21:56:06.776Z
 tags:
   - application-packaging-training
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 ## Application Customization
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Significance of Advertised Shortcuts
@@ -40,10 +40,10 @@ What is to take is that if your application contains multiple features, but the 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more information regarding shortcuts, check out our first [MSI Packaging Essentials ebook](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is Self-Healing
@@ -108,6 +108,13 @@ It is important to understand these base concepts as we will dive deeper into th
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more details about Properties, check out our first [MSI Packaging Essentials ebook](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Custom vlc settings
 
 Now that we've captured and repackaged VLC Media Player as an MSI, we need to figure out how to detect and implement any custom settings that may be required for this application.
@@ -130,13 +137,6 @@ We already looked at how to use Process Monitor to detect if an EXE contains an 
 
 ![process monitor detect vlc settings](https://cdn.advancedinstaller.com/img/application-customization/process-monitor-detect-vlc-settings.png "process monitor detect vlc settings")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Click OK and start the capture process
 * Open VLC Media Player and go to Tools > Preferences and implement the desired configurations. Close the preferences and close VLC Media Player
 
@@ -153,10 +153,10 @@ Now that we know which file needs to be added into the package, we can simplify 
 ![vlc media player settings ai](https://cdn.advancedinstaller.com/img/application-customization/vlc-media-player-settings-ai.png "vlc media player settings ai")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When it comes to installers, however, working with user files or the registry is more difficult. When an application is deployed in an infrastructure using any infrastructure management tools, the NT System\\Administrator account is used. This is the most privileged account available.
@@ -204,21 +204,18 @@ However, while this solution may work, it does not represent industry best pract
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>[New] Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unpacking-newscreenx-pros-recording-innovations/"><u>[Updated] 2024 Approved Unpacking NewScreenX Pro’s Recording Innovations</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/best-9-removal-techniques-for-white-background-email-signatures-2023-edition/"><u>Best 9 Removal Techniques for White Background Email Signatures: 2023 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-unresponsive-space-bar-keys-in-your-new-windows-11-pc/"><u>Dealing with Unresponsive Space Bar Keys in Your New Windows 11 PC</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/decoding-cyber-threats-how-malware-differs-from-spyware-with-insights-from-malwarefox/"><u>Decoding Cyber Threats: How Malware Differs From Spyware with Insights From MalwareFox</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ensuring-flawless-transitions-through-optimized-repackaging-methods/"><u>Ensuring Flawless Transitions Through Optimized Repackaging Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-smart-7-hd-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Smart 7 HD Phone?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-grove-memetic-magic-for-all-ages/"><u>In 2024, Giggle Grove Memetic Magic for All Ages</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>In 2024, Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premiere-pros-finest-tools-free-and-exceptional-quality/"><u>Premiere Pro's Finest Tools - Free & Exceptional Quality</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/quick-guide-deleting-whatsapp-conversations-efficiently-on-ios-devices/"><u>Quick Guide: Deleting WhatsApp Conversations Efficiently on iOS Devices</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/simple-methods-seamless-m4a-to-wav-file-transformation/"><u>Simple Methods: Seamless M4A to WAV File Transformation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-essential-guide-to-youtube-video-lighting-tips-for-2024/"><u>The Essential Guide to YouTube Video Lighting Tips for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-5-free-mac-screen-capture-tools-the-ultimate-guide/"><u>Top 5 Free Mac Screen Capture Tools: The Ultimate Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-fortnite-starter-pack-mastering-the-basics/"><u>Ultimate Fortnite Starter Pack: Mastering the Basics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-veiled-realities-an-insight-into-story-viewers-world/"><u>[Updated] Veiled Realities An Insight Into Story Viewers' World</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-seamless-transfer-of-iphone-contacts-to-your-new-samsung-galaxy-s6/"><u>1. Seamless Transfer of iPhone Contacts to Your New Samsung Galaxy S6</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisan-editor-refining-video-transitions-with-inshot/"><u>2024 Approved The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/convert-mov-files-to-mp4-free-of-charge-a-simple-guide/"><u>Convert MOV Files to MP4 Free of Charge: A Simple Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-create-an-alarm-reminder-on-your-android-device/"><u>Easy Steps to Create an Alarm Reminder on Your Android Device</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exposing-googles-5th-billion-scheme-understanding-the-scam-and-effective-elimination-techniques/"><u>Exposing Google's 5Th Billion Scheme: Understanding the Scam & Effective Elimination Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/future-gaming-top-5-psvr-releases-on-the-horizon/"><u>Future Gaming Top 5 PSVR Releases on the Horizon</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-a24-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy A24 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shoot-in-slow-motion-essential-gopro-hero-10-techniques/"><u>In 2024, Shoot in Slow Motion Essential GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-players-secret-ultimate-techniques-for-taking-pictures-on-your-ps4/"><u>The Player's Secret: Ultimate Techniques for Taking Pictures on Your PS4</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-creating-your-ideal-clubhouse-image-with-ease/"><u>Ultimate Guide: Creating Your Ideal Clubhouse Image with Ease</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-email-impersonation-techniques-and-defense-strategies/"><u>Understanding Email Impersonation: Techniques & Defense Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/understanding-split-screen-techniques-in-facebook-lives/"><u>Understanding Split Screen Techniques in Facebook Lives</u></a></li>
 </ul></div>
 
