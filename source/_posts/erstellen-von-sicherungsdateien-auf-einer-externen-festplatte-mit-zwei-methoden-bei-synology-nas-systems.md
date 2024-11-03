@@ -1,7 +1,7 @@
 ---
 title: Erstellen Von Sicherungsdateien Auf Einer Externen Festplatte Mit Zwei Methoden Bei Synology NAS Systems
-date: 2024-10-25T18:13:06.502Z
-updated: 2024-10-28T16:41:36.305Z
+date: 2024-11-02T16:29:22.563Z
+updated: 2024-11-03T16:17:22.985Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ceab2f51cc25530b47d90892e.jpg
@@ -50,17 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -101,6 +94,19 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -137,6 +143,13 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -152,10 +165,10 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -226,13 +239,6 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusione
 
 In conclusione, risolvere la sfida di non poter digitare nella barra di ricerca di Windows 10 richiede un approccio sistematico. Seguendo le soluzioni fornite e integrando misure di protezione dei dati con AOMEI Backupper, puoi affrontare potenziali problemi con fiducia. Mantieni ottimizzato il tuo sistema, sii proattivo nella risoluzione dei problemi ed emancipati per trarre il massimo dalla tua esperienza con Windows 10.
@@ -245,6 +251,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -256,10 +269,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -269,13 +282,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -294,17 +300,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-focus-on-the-essentials-mastering-close-up-in-videoleap-videos/"><u>[New] Focus on the Essentials Mastering Close-Up in Videoleap Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-youtube-presence-with-custom-images-for-2024/"><u>[Updated] Enhancing YouTube Presence with Custom Images for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>[Updated] In 2024, SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-peerless-dialogue-creator-zone/"><u>2024 Approved Peerless Dialogue Creator Zone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/beheben-von-datentragerproblemen-unter-windows-10-erfolgreiches-zurucksetzen-mit-funf-strategien/"><u>Beheben Von Datenträgerproblemen Unter Windows 10 - Erfolgreiches Zurücksetzen Mit Fünf Strategien</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comment-puis-je-transferer-des-donnees-de-mon-iphone-a-un-autre-avec-fonebackup/"><u>Comment Puis-Je Transférer Des Données De Mon iPhone À Un Autre Avec FoneBackup ?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convert-your-media-top-8-free-methods-from-mts-to-mp4-for-both-pc-and-mac-users/"><u>Convert Your Media: Top 8 Free Methods From MTS to MP4 for Both PC & Mac Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-to-acquiring-free-picture-frame-videos-for-2024/"><u>Guide to Acquiring Free Picture Frame Videos for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-11-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme 11 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-techniques-for-quick-and-easy-ssd-partition-data-retrieval/"><u>Top Techniques for Quick and Easy SSD Partition Data Retrieval</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/usb-visibility-problems-solved-retrieving-hidden-files-made-easy/"><u>USB Visibility Problems Solved: Retrieving Hidden Files Made Easy</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/windows-server-2008-r2-mastering-bare-metal-restoration-through-two-methods/"><u>Windows Server 2008 R2: Mastering Bare Metal Restoration Through Two Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-channel-growth-strategy-going-with-studio-or-beta-progression/"><u>[New] 2024 Approved Channel Growth Strategy Going with Studio or Beta Progression</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-tackling-photo-mismatch-on-fb-conversation-screen/"><u>[Updated] 2024 Approved Tackling Photo Mismatch on FB Conversation Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-viewership-with-animated-subscribe-buttons-in-filmora-easy-guide-for-2024/"><u>[Updated] Boosting Viewership with Animated Subscribe Buttons in Filmora (Easy Guide) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mobile-mastery-in-thumbnail-creation-for-engaging-youtube-videos-for-2024/"><u>[Updated] Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-video-monitors-face-off/"><u>[Updated] Ultimate Video Monitors Face-Off</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/iphonewindows-114/"><u>将iPhone数据转移到Windows 11平台——顶级4技巧🔥🔥</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-activer-et-reinitialiser-votre-ordinateur-avec-aomei-backup-sans-douleur/"><u>Comment Activer Et Réinitialiser Votre Ordinateur Avec AOMEI Backup Sans Douleur</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-download-the-ultimate-behringer-usb-audio-controller-drivers/"><u>Direct Download – The Ultimate Behringer USB Audio Controller Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728476683047-iphone/"><u>IPhone上选定图片传输方法：全面指南</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/scambiare-il-profilo-di-windows-10-su-windows-11-in-due-modi-facili-e-veloci/"><u>Scambiare Il Profilo Di Windows 10 Su Windows 11 in Due Modi Facili E Veloci</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-your-viewing-experience-with-accelerated-or-slowed-videos/"><u>Streamline Your Viewing Experience with Accelerated or Slowed Videos</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/three-proven-methods-to-securely-back-up-your-iphone-data-before-upgrading/"><u>Three Proven Methods to Securely Back Up Your iPhone Data Before Upgrading</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/unlocking-file-recovery-secrets-4-effective-strategies-to-retrieve-lost-data-on-windows-1-(abbr)10(abbr)-without-cost/"><u>Unlocking File Recovery Secrets: 4 Effective Strategies to Retrieve Lost Data on Windows 1 <Abbr>10</Abbr> Without Cost</u></a></li>
 </ul></div>
 
