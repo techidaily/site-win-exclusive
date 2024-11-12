@@ -1,7 +1,7 @@
 ---
 title: Tutorial on Crafting Dual Techniques for Windows Server 2016
-date: 2024-10-30T16:13:08.437Z
-updated: 2024-11-03T16:09:00.143Z
+date: 2024-11-11T17:59:51.009Z
+updated: 2024-11-12T16:46:13.214Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53726cd5cc186abc1510baddd.jpg
@@ -36,10 +36,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -92,13 +92,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -111,13 +104,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -127,10 +113,17 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -149,15 +142,22 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -181,10 +181,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -212,17 +212,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ssessing-the-best-platform-for-individual-use-tiktok-vs-shorts-for-2024/"><u>[New] Assessing the Best Platform for Individual Use TikTok vs Shorts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-creating-effective-fb-fundraising-posts-for-2024/"><u>[New] Creating Effective FB Fundraising Posts for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoiding-files-enjoying-animated-gifs-youtube-video-mastery/"><u>[Updated] In 2024, Avoiding Files, Enjoying Animated GIFs YouTube Video Mastery</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-create-meme-with-imgflip/"><u>[Updated] In 2024, Create Meme with Imgflip</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-strategic-trailer-planning-for-increased-channels-profitability/"><u>2024 Approved Strategic Trailer Planning for Increased Channels' Profitability</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/3-ways-to-recover-deleted-photos-on-your-iphone-13-a-step-by-step-guide/"><u>3 Ways to Recover Deleted Photos on Your iPhone 13: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/achat-dune-sauvegarde-reliable-grace-a-aomei-backupper-guide-pratique/"><u>Achat D'une Sauvegarde Reliable Grâce À AOMEI Backupper : Guide Pratique</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/einfacher-tutorial-zum-cloning-einer-kleineren-m2-ssd-auf-eine-grossere-in-windows-11-10-8-oder/"><u>Einfacher Tutorial Zum Cloning Einer Kleineren M.2 SSD Auf Eine Größere in Windows 11, 10, 8 Oder</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/guida-passo-passo-come-perfezionare-la-copia-di-windows-nella-tua-unita-ssd-nvme/"><u>Guida Passo-Passo: Come Perfezionare La Copia Di Windows Nella Tua Unità SSD NVMe</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-amorous-filmmaking-top-3-strategies-for-enchanting-love-scenes/"><u>Mastering the Art of Amorous Filmmaking: Top 3 Strategies for Enchanting Love Scenes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/obs-studio-basics-full-guide-to-ps4-game-recording/"><u>Obs Studio Basics - Full Guide to PS4 Game Recording</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/sobreviviendo-al-apagon-visual-mejores-estrategias-y-recomendaciones-para-mantener-activo-su-pc/"><u>Sobreviviendo Al Apagón Visual: Mejores Estrategias Y Recomendaciones Para Mantener Activo Su PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[New] Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/iuabouwkjewqjuwfiplusmahuehroebmoawsoayvuekujog5pyq5yig6ywn56m66ze055wz5zyo5y6f5pys5pu05asn55qe56gs55uy5yafig/"><u>恢复后克隆硬盘新显示: 未分配空间留在原本更大的硬盘内</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/como-hacer-que-su-almacenamiento-de-windows-server-2008-se-vincule-con-google-drive-un-tutorial-completo/"><u>Cómo Hacer Que Su Almacenamiento De Windows Server 2008 Se Vincule Con Google Drive: Un Tutorial Completo</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-step-by-step-strategy-for-preserving-your-iphoto-photos/"><u>Comprehensive Step-by-Step Strategy for Preserving Your iPhoto Photos</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guia-facil-para-realizar-copias-de-seguridad-en-multiples-dispositivos-con-windows-11/"><u>Guía Fácil Para Realizar Copias De Seguridad en Múltiples Dispositivos Con Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-nokia-105-classic-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Nokia 105 Classic Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-c55-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme C55 Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-online-connections-with-major-sites-like-facebook-twitter-instagram-youtube/"><u>Mastering Online Connections with Major Sites Like Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rotate-videos-online-best-web-based-solutions/"><u>New Rotate Videos Online Best Web-Based Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-start-guide-to-updating-and-installing-hp-laserjet-m402n-driver-in-windows/"><u>Quick Start Guide to Updating and Installing HP Laserjet M402N Driver in Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-guide-for-transferring-data-from-hard-drive-to-ssd-msata-on-windows-operating-systems/"><u>Simple Guide for Transferring Data From Hard Drive to SSD mSATA on Windows Operating Systems</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/transferir-rapidamente-tu-disco-duro-a-un-ssd-menor-con-la-tecnica-gpt-mas-sencilla/"><u>Transferir Rápidamente Tu Disco Duro a Un SSD Menor Con La Técnica GPT Más Sencilla</u></a></li>
 </ul></div>
 
