@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX 3.6.1 RC - Free Download
-date: 2024-11-23T17:47:19.656Z
-updated: 2024-11-30T17:02:09.896Z
+date: 2024-12-05T22:04:45.536Z
+updated: 2024-12-08T21:27:13.201Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ We invite all DEX 3 DJs and potential users to download and try the DEX 3.6.1 re
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes Included With The DEX 3.6.1 Release Candidate
@@ -49,7 +49,7 @@ We invite all DEX 3 DJs and potential users to download and try the DEX 3.6.1 re
 _Have questions about DEX 3.6.1 DJ, **music video mixing** and **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,18 +71,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex361rc-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-microsoft-audio-driver-in-windows/"><u>[Download] Microsoft Audio Driver In Windows</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-facebooks-most-impressive-new-additions-decoded/"><u>[New] Facebook's Most Impressive New Additions Decoded</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-with-animated-gifs/"><u>[New] Unleash Creativity with Animated GIFS</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-top-ranking-video-introduction-creators-for-your-blog-or-channel/"><u>1. Top-Ranking Video Introduction Creators for Your Blog or Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>2024 Approved From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-quick-start-to-establishing-an-online-platform-for-tech-analysis/"><u>2024 Approved Quick Start to Establishing an Online Platform for Tech Analysis</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/beginners-tutorial-adding-and-modifying-pictures-within-a-pdf-file/"><u>Beginner's Tutorial: Adding and Modifying Pictures Within a PDF File</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/best-smartphones-for-enhanced-security-and-privacy-protection-around-the-globe/"><u>Best Smartphones for Enhanced Security and Privacy Protection Around The Globe</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/jumping-into-group-video-calls-the-zoom-way-on-android-for-2024/"><u>Jumping Into Group Video Calls The Zoom Way on Android for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/kindle3/"><u>Kindle書籍を削除後に取り戻す3つの方法</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-here-are-the-best-gif-loop-maker-tools-for-you-to-give-expression-to-your-creativity/"><u>New 2024 Approved Here Are the Best GIF Loop Maker Tools for You to Give Expression to Your Creativity</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-to-shifting-images-from-an-iphone-onto-a-samsung-galaxy-s10-smartphone/"><u>Step-by-Step Guide to Shifting Images From an iPhone Onto a Samsung Galaxy S10 Smartphone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-leading-list-of-2024s-high-fidelity-earbuds/"><u>The Leading List of 2024'S High-Fidelity Earbuds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rowth-strategies-for-youtube-videos-6-effortless-approaches/"><u>[New] Growth Strategies for YouTube Videos 6 Effortless Approaches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-palette-prestige-highlighting-10-free-mac-compatible-art-tools/"><u>[New] Palette Prestige Highlighting 10 Free, Mac-Compatible Art Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-views-with-optimal-thumbnail-design/"><u>[New] Unlocking Views with Optimal Thumbnail Design</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725287670817-dvdpc/"><u>「DVDビデオ全容量ダウンロード：PCへ完全移行手順指南」</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/enhance-your-digital-space-with-camilo-madrigals-visuals-from-yl-software-solutions/"><u>Enhance Your Digital Space with Camilo Madrigal's Visuals From YL Software Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-dying-light-2s-optimization-problems-boost-your-fps/"><u>Fixes for Dying Light 2'S Optimization Problems – Boost Your FPS</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-fix-screen-issues-following-the-installation-of-a-new-graphics-card-expert-advice-from-yl-computing/"><u>How to Fix Screen Issues Following the Installation of a New Graphics Card - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-spark-20-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Spark 20 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/identifying-motherboard-issues-quickly-techniques-by-yl-computing-experts/"><u>Identifying Motherboard Issues Quickly - Techniques by YL Computing Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-parting-pleasantries-free-and-paid-outro-snippets/"><u>In 2024, Parting Pleasantries Free & Paid Outro Snippets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-live-broadcasting-demystified/"><u>In 2024, YouTube Live Broadcasting Demystified</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/secure-your-data-on-windows-10-a-step-by-step-guide-to-file-encryption-yl-computings-expert-tutorial/"><u>Secure Your Data on Windows 10: A Step-by-Step Guide to File Encryption - YL Computing's Expert Tutorial</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/setting-up-localized-windows-10-configuration-regions-and-languages-made-easy-with-yl-software-tips/"><u>Setting Up Localized Windows 10 Configuration: Regions & Languages Made Easy with YL Software Tips</u></a></li>
 </ul></div>
 

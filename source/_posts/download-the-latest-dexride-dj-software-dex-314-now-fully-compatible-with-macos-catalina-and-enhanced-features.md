@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2024-11-27T18:23:48.801Z
-updated: 2024-11-30T18:09:44.035Z
+date: 2024-12-03T20:07:32.232Z
+updated: 2024-12-09T00:34:05.963Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-experts-choice-selecting-car-friendly-dvd-gadgets/"><u>[New] Expert's Choice Selecting Car-Friendly DVD Gadgets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-conquer-podcast-production-with-garageband-skills-for-2024/"><u>[Updated] Conquer Podcast Production with GarageBand Skills for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-beyond-the-reach-of-openai/"><u>ChatGPT: Beyond the Reach of OpenAI?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/complete-guide-to-shifting-your-mobile-contacts-onto-your-macbook-or-imac-effortlessly/"><u>Complete Guide to Shifting Your Mobile Contacts Onto Your MacBook or iMac Effortlessly</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/detecting-covert-phone-tracking-key-indicators-and-protection-strategies-against-unwanted-spying/"><u>Detecting Covert Phone Tracking: Key Indicators and Protection Strategies Against Unwanted Spying</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-v2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Magic V2</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-your-wifi-safe-from-ransomware-attacks-unexpected-insights-revealed/"><u>Is Your WiFi Safe From Ransomware Attacks? Unexpected Insights Revealed</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/preserve-your-content-while-refreshing-your-android-device/"><u>Preserve Your Content While Refreshing Your Android Device</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/quick-steps-to-uninstall-the-facebook-app-on-iphones-and-ipads/"><u>Quick Steps to Uninstall the Facebook App on iPhones and iPads</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-mastering-the-art-of-video-editing-and-trimming/"><u>Step-by-Step Guide: Mastering the Art of Video Editing and Trimming</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-transferring-contacts-seamlessly-from-windows-operating-system-to-android-smartphone/"><u>Step-by-Step Guide: Transferring Contacts Seamlessly From Windows Operating System to Android Smartphone</u></a></li>
-<li><a href="https://win11.techidaily.com/surface-laptop-go-3-review-improved-performance-vs-stagnant-features/"><u>Surface Laptop Go 3 Review: Improved Performance Vs. Stagnant Features</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-realme-11-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Realme 11 5G</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-reasons-why-adding-a-controller-is-essential-for-any-serious-pc-gamer/"><u>Top Reasons Why Adding a Controller Is Essential for Any Serious PC Gamer</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-list-of-5-pdf-to-ppt-converter-apps-for-ipad-best-choices-for-easy-file-transformation/"><u>Ultimate List of 5 PDF-to-PPT Converter Apps for iPad: Best Choices for Easy File Transformation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/uncomplicated-narrative-guide/"><u>Uncomplicated Narrative Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unleashing-creativity-in-education-making-amazing-videography-a-reality-on-youtube/"><u>Unleashing Creativity in Education Making Amazing Videography a Reality on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-content-creators-optimal-stabilizer-companies/"><u>[New] 2024 Approved YouTube Content Creators Optimal Stabilizer Companies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-roadmap-to-unearthing-elusive-discord-servers/"><u>[New] In 2024, The Ultimate Roadmap to Unearthing Elusive Discord Servers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-harmonizing-your-footage-with-optimal-aspect-ratios-for-2024/"><u>[Updated] Harmonizing Your Footage With Optimal Aspect Ratios for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quickguide-optimizingyoucamrecord-for-2024/"><u>[Updated] QuickGuide OptimizingYouCamRecord for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-managing-your-installed-programs-on-windows-11-a-step-by-step-guide-yl-computing/"><u>1. 'Managing Your Installed Programs on Windows 11: A Step-by-Step Guide' - YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-on-windows-10-effective-fixes-and-workarounds/"><u>Continuous Sound Problems on Windows 10: Effective Fixes & Workarounds</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/essential-cybersecurity-strategies-for-safeguarding-your-digital-assets-learn-with-yl-computing/"><u>Essential Cybersecurity Strategies for Safeguarding Your Digital Assets - Learn with YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y100-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y100 5G online without jailbreak</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-modern-warfare-3-a-comprehensive-guide-to-rectifying-memory-error-12707/"><u>Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/maximize-hard-drive-capacity-with-yls-file-cleanup-tool-for-pc-effective-junk-removal-solutions-from-yl-computing/"><u>Maximize Hard Drive Capacity with YL's File Cleanup Tool for PC - Effective Junk Removal Solutions From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/rev-up-your-pc-expert-tips-on-accelerating-your-computers-speed-insights-by-yl-computing/"><u>Rev Up Your PC: Expert Tips on Accelerating Your Computer's Speed - Insights by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/singapores-vision-for-attracting-talent-and-adapting-skills-for-tomorrows-economy-insights-from-trade-minister-gan-kim-yong/"><u>Singapore's Vision for Attracting Talent & Adapting Skills for Tomorrow's Economy: Insights From Trade Minister Gan Kim Yong</u></a></li>
 </ul></div>
 

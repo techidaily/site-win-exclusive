@@ -1,7 +1,7 @@
 ---
 title: New KaraokeCloudPro Feature on DEX3 & Lyrix – Perfect for DJs!
-date: 2024-11-26T17:49:22.839Z
-updated: 2024-11-30T18:17:06.471Z
+date: 2024-12-05T01:40:54.287Z
+updated: 2024-12-08T18:20:50.213Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,21 +81,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-secrets-to-crafting-perfect-slug-lines-for-2024/"><u>[Updated] Unveiling the Secrets to Crafting Perfect Slug Lines for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-windows-10-gamers-guide-to-effective-video-capture/"><u>[Updated] Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-leveraging-tags-boost-engagement-and-traffic-for-videos/"><u>2024 Approved Leveraging Tags Boost Engagement and Traffic for Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/compatibility-issue-on-windows-11-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 11 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-package-design-courses-elite-skills-development-and-accreditation-at-no-cost/"><u>Comprehensive MSI Package Design Courses: Elite Skills Development and Accreditation at No Cost</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/detect-and-eliminate-comprehensive-tips-for-finding-and-cleaning-your-phone-of-malicious-software/"><u>Detect & Eliminate: Comprehensive Tips for Finding and Cleaning Your Phone of Malicious Software</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-repackaging-strategies-guaranteeing-seamless-results/"><u>Effective Repackaging Strategies Guaranteeing Seamless Results</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-printer-compatibility-check-and-download-for-p3015-drivers-what-you-need-to-know/"><u>HP Printer Compatibility Check & Download for P3015 Drivers: What You Need To Know</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-staying-within-aspect-ratio-guidelines-for-youtube-style-tweeted-content/"><u>In 2024, Staying Within Aspect Ratio Guidelines for YouTube-Style Tweeted Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-engaging-elite-videography-talent/"><u>In 2024, Strategies for Engaging Elite Videography Talent</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209915084-9781794825390-kisah-hikayat-perjalanan-ruh-umat-manusia-di-alam-barzah-edisi-bahasa-inggris-standar-version/"><u>Kisah Hikayat Perjalanan Ruh Umat Manusia Di Alam Barzah Edisi Bahasa Inggris Standar Version | Free Book</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-remote-commands-controlling-your-xiaomi-devices-from-a-computer/"><u>Mastering Remote Commands: Controlling Your Xiaomi Devices From a Computer</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-adjusting-video-playback-velocity-a-comprehensive-guide/"><u>Mastering the Art of Adjusting Video Playback Velocity: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/simple-steps-to-record-conversations-on-yahoo-messenger-without-any-cost-or-time-restrictions/"><u>Simple Steps to Record Conversations on Yahoo Messenger Without Any Cost or Time Restrictions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/stop-unsolicited-texts-on-android-effective-techniques-using-the-malwarefox-app/"><u>Stop Unsolicited Texts on Android: Effective Techniques Using the MalwareFox App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-bing-ai-chat-in-android-keyboard-technology/"><u>Unveiling the Power of Bing AI Chat in Android Keyboard Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos/"><u>[New] In 2024, Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-budget-no-more-top-5-free-visual-effect-sites-for-2024/"><u>[Updated] Budget No More! Top 5 FREE Visual Effect Sites for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-eyeonfox-screenshots-and-recordings-for-2024/"><u>[Updated] EyeOnFox Screenshots & Recordings for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-upload-guide-twitter-video-aspect-ratio-mandated/"><u>2024 Approved Upload Guide Twitter Video Aspect Ratio Mandated</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/detecting-and-eliminating-sluggish-applications-on-your-pc-a-guide-by-yl-software-experts/"><u>Detecting and Eliminating Sluggish Applications on Your PC: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/everything-you-should-know-about-the-new-apple-studio-display-full-specs-and-key-attributes/"><u>Everything You Should Know About the New Apple Studio Display - Full Specs & Key Attributes</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/identifying-defective-graphics-card-parts-a-step-by-step-guide-yl-computing/"><u>Identifying Defective Graphics Card Parts: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/identifying-emerging-markets-insights-from-yl-computings-expertise/"><u>Identifying Emerging Markets: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-the-art-of-editing-in-garageband/"><u>In 2024, Mastering the Art of Editing in GarageBand</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-accessibility-on-ig-a-comprehensive-tutorial-for-instagram-story-closed-captioning/"><u>Mastering Accessibility on IG: A Comprehensive Tutorial for Instagram Story Closed Captioning</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/streamlining-your-storage-a-professional-approach-to-deleting-redundant-data-with-yl-software-solutions/"><u>Streamlining Your Storage: A Professional Approach to Deleting Redundant Data with YL Software Solutions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/uncover-the-reasons-behind-your-shrinking-storage-a-guide-to-managing-disk-space-by-yl-computing/"><u>Uncover the Reasons Behind Your Shrinking Storage: A Guide to Managing Disk Space by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/why-does-my-graphic-card-keep-freezing-on-windows-11-uncover-the-reasons-with-yl-computings-guide/"><u>Why Does My Graphic Card Keep Freezing on Windows 11? Uncover the Reasons with YL Computing's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-extend-your-pcs-hard-drive-at-no-expense-in-windows/"><u>Winning Strategies: Extend Your PC's Hard Drive at No Expense in Windows</u></a></li>
 </ul></div>
 
