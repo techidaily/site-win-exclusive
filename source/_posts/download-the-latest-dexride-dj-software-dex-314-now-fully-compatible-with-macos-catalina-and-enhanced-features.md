@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2024-12-03T20:07:32.232Z
-updated: 2024-12-09T00:34:05.963Z
+date: 2024-12-13T23:13:24.709Z
+updated: 2024-12-14T18:44:45.307Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-content-creators-optimal-stabilizer-companies/"><u>[New] 2024 Approved YouTube Content Creators Optimal Stabilizer Companies</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-roadmap-to-unearthing-elusive-discord-servers/"><u>[New] In 2024, The Ultimate Roadmap to Unearthing Elusive Discord Servers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-harmonizing-your-footage-with-optimal-aspect-ratios-for-2024/"><u>[Updated] Harmonizing Your Footage With Optimal Aspect Ratios for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quickguide-optimizingyoucamrecord-for-2024/"><u>[Updated] QuickGuide OptimizingYouCamRecord for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-managing-your-installed-programs-on-windows-11-a-step-by-step-guide-yl-computing/"><u>1. 'Managing Your Installed Programs on Windows 11: A Step-by-Step Guide' - YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-on-windows-10-effective-fixes-and-workarounds/"><u>Continuous Sound Problems on Windows 10: Effective Fixes & Workarounds</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/essential-cybersecurity-strategies-for-safeguarding-your-digital-assets-learn-with-yl-computing/"><u>Essential Cybersecurity Strategies for Safeguarding Your Digital Assets - Learn with YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y100-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y100 5G online without jailbreak</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-modern-warfare-3-a-comprehensive-guide-to-rectifying-memory-error-12707/"><u>Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/maximize-hard-drive-capacity-with-yls-file-cleanup-tool-for-pc-effective-junk-removal-solutions-from-yl-computing/"><u>Maximize Hard Drive Capacity with YL's File Cleanup Tool for PC - Effective Junk Removal Solutions From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/rev-up-your-pc-expert-tips-on-accelerating-your-computers-speed-insights-by-yl-computing/"><u>Rev Up Your PC: Expert Tips on Accelerating Your Computer's Speed - Insights by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/singapores-vision-for-attracting-talent-and-adapting-skills-for-tomorrows-economy-insights-from-trade-minister-gan-kim-yong/"><u>Singapore's Vision for Attracting Talent & Adapting Skills for Tomorrow's Economy: Insights From Trade Minister Gan Kim Yong</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-essential-guide-to-cost-free-art-and-graphic-resources/"><u>[New] Essential Guide to Cost-Free Art & Graphic Resources</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-essential-tips-for-instagrams-query-tagging-for-2024/"><u>[New] Essential Tips for Instagram's Query Tagging for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/captivating-hd-wallpaper-collection-for-your-device-featuring-the-elegant-bmw-x2-by-yl-computings-digital-artistry/"><u>Captivating HD Wallpaper Collection for Your Device: Featuring the Elegant BMW X2 by YL Computing's Digital Artistry</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-solutions-for-fixing-malfunctioning-hardware-drivers-expert-advice-from-yl-computing/"><u>Effective Solutions for Fixing Malfunctioning Hardware Drivers - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-salvage-your-unzipping-troubles-with-ease-win-11-style/"><u>How To Salvage Your Unzipping Troubles with Ease, Win 11 Style</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-instant-inspiration-the-easy-guide-to-building-custom-youtube-music-mixes-webapp/"><u>In 2024, Instant Inspiration The Easy Guide to Building Custom YouTube Music Mixes (Web/App)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>In 2024, Setting the Scene A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/is-it-time-for-an-upgrade-evaluating-your-gpu-with-expert-advice-from-yl-software/"><u>Is It Time for an Upgrade? Evaluating Your GPU with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/solving-common-printer-connection-problems-a-step-by-step-guide-from-yl-software/"><u>Solving Common Printer Connection Problems: A Step-by-Step Guide From YL Software</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/troubleshooting-silent-speakers-understanding-the-common-causes-insights-by-yl-computing/"><u>Troubleshooting Silent Speakers: Understanding the Common Causes - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-and-save-your-kindle-books-as-secure-pdf-files-a-comprehensive-how-to-tutorial/"><u>Unlock and Save Your Kindle Books as Secure PDF Files – A Comprehensive How-To Tutorial</u></a></li>
+<li><a href="https://win-web.techidaily.com/unlocking-advanced-pc-settings-the-ultimate-how-to-for-using-the-registry-editor-digital-solutions/"><u>Unlocking Advanced PC Settings: The Ultimate How-To for Using the Registry Editor - Digital Solutions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/why-is-your-hard-drive-failing-and-how-can-you-prevent-it-expert-advice-from-yl-computing/"><u>Why Is Your Hard Drive Failing & How Can You Prevent It? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/yl-software-premium-clear-apple-design-visuals-for-screensavers-and-desktop-decoration/"><u>YL Software: Premium Clear Apple Design Visuals for Screensavers & Desktop Decoration</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New KaraokeCloudPro Feature on DEX3 & Lyrix – Perfect for DJs!
-date: 2024-12-05T01:40:54.287Z
-updated: 2024-12-08T18:20:50.213Z
+date: 2024-12-08T21:43:32.502Z
+updated: 2024-12-14T20:49:33.417Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,19 +81,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos/"><u>[New] In 2024, Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-budget-no-more-top-5-free-visual-effect-sites-for-2024/"><u>[Updated] Budget No More! Top 5 FREE Visual Effect Sites for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-eyeonfox-screenshots-and-recordings-for-2024/"><u>[Updated] EyeOnFox Screenshots & Recordings for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-upload-guide-twitter-video-aspect-ratio-mandated/"><u>2024 Approved Upload Guide Twitter Video Aspect Ratio Mandated</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/detecting-and-eliminating-sluggish-applications-on-your-pc-a-guide-by-yl-software-experts/"><u>Detecting and Eliminating Sluggish Applications on Your PC: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/everything-you-should-know-about-the-new-apple-studio-display-full-specs-and-key-attributes/"><u>Everything You Should Know About the New Apple Studio Display - Full Specs & Key Attributes</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/identifying-defective-graphics-card-parts-a-step-by-step-guide-yl-computing/"><u>Identifying Defective Graphics Card Parts: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/identifying-emerging-markets-insights-from-yl-computings-expertise/"><u>Identifying Emerging Markets: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-mastering-the-art-of-editing-in-garageband/"><u>In 2024, Mastering the Art of Editing in GarageBand</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-accessibility-on-ig-a-comprehensive-tutorial-for-instagram-story-closed-captioning/"><u>Mastering Accessibility on IG: A Comprehensive Tutorial for Instagram Story Closed Captioning</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/streamlining-your-storage-a-professional-approach-to-deleting-redundant-data-with-yl-software-solutions/"><u>Streamlining Your Storage: A Professional Approach to Deleting Redundant Data with YL Software Solutions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/uncover-the-reasons-behind-your-shrinking-storage-a-guide-to-managing-disk-space-by-yl-computing/"><u>Uncover the Reasons Behind Your Shrinking Storage: A Guide to Managing Disk Space by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/why-does-my-graphic-card-keep-freezing-on-windows-11-uncover-the-reasons-with-yl-computings-guide/"><u>Why Does My Graphic Card Keep Freezing on Windows 11? Uncover the Reasons with YL Computing's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-extend-your-pcs-hard-drive-at-no-expense-in-windows/"><u>Winning Strategies: Extend Your PC's Hard Drive at No Expense in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-review-transform-your-images-with-facetune/"><u>[Updated] Comprehensive Review Transform Your Images with Facetune</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/adjusting-computer-sound-configuration-through-windows-control-panel-expert-advice-from-yl-computing/"><u>Adjusting Computer Sound Configuration Through Windows Control Panel - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-crypto-asset-allocation-tactics-insights-from-yl-computings-expertise/"><u>Effective Crypto Asset Allocation Tactics: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/enabling-windows-defender-a-step-by-step-guide-when-its-not-active-tech-insights-with-yl/"><u>Enabling Windows Defender: A Step-by-Step Guide When It's Not Active - Tech Insights with YL</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-amateur-to-pro-excelling-at-instagram-editing/"><u>From Amateur to Pro Excelling at Instagram Editing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>In 2024, A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/siriusxm-all-access-bring-back-memories-from-old-school-fm-radio-days/"><u>SiriusXM All Access: Bring Back Memories From Old-School FM Radio Days!</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/stunning-santorini-landscapes-premium-backgrounds-and-wallpapers-by-yl-computing/"><u>Stunning Santorini Landscapes: Premium Backgrounds & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/troubleshooting-paper-jams-in-scanners-expert-tips-from-yl-computing/"><u>Troubleshooting Paper Jams in Scanners: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862737449-ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed!</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-tutorial-on-desktop-cleanup-how-to-delete-folders-effortlessly-yl-software-tech-solutions/"><u>Ultimate Tutorial on Desktop Cleanup: How to Delete Folders Effortlessly – YL Software Tech Solutions</u></a></li>
 </ul></div>
 
