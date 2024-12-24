@@ -1,7 +1,7 @@
 ---
 title: "Boost DEX3 Mixing Power: Tips to Optimize Your Dedicated Graphics Card Integration with PCDJ Software"
-date: 2024-12-13T18:59:26.098Z
-updated: 2024-12-14T16:28:07.339Z
+date: 2024-12-16T16:47:11.066Z
+updated: 2024-12-23T17:20:44.828Z
 tags:
   - product
 categories:
@@ -36,21 +36,17 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 
 [![Intel Graphics Media Control Panel](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129_article_big.png?fit=520%2C389&ssl=1 "Intel Graphics Media Control Panel")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129%5Farticle%5Fbig.png?fit=520%2C389&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. When the ‘Advanced Mode’ window opens click on the ‘3D tab’ and set your 3D preference to ‘Performance’.
 
 [![Intel Graphics 3D preferences](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17133_article_big.png?fit=426%2C394&ssl=1 "Intel Graphics 3D preferences")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17133%5Farticle%5Fbig.png?fit=426%2C394&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Now click on the ‘Power’ tab and set the ‘Power Plans’ to ‘Maximum Performance’.
 
 [![Power Plan Maximize Performance](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137_article_big.png?fit=428%2C398&ssl=1 "Power Plan Maximize Performance")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137%5Farticle%5Fbig.png?fit=428%2C398&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Now close the ‘Intel Graphics Control Panel’. Once again right click on your desktop and select the control panel for your dedicated GPU. These will typically be NVIDIA or ATI/AMD Radeon – providing you are indeed using a computer equipped with a dedicated graphics card in addition to your build in card.
 
@@ -61,12 +57,16 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 [![Adjust Image Settings With Preview](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17145_article_big.png?fit=520%2C408&ssl=1 "Adjust Image Settings With Preview")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17145%5Farticle%5Fbig.png?fit=520%2C408&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. Next click on ‘Manage 3D Settings’ and select the drop down menu for ‘Global Settings’. Select the High-performance NVIDIA processor as your preferred graphics processor there and click ‘Apply’.
 
 [![Manage 3D settings selecting high-performance](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/17149_article_big.png?fit=520%2C407&ssl=1 "Manage 3D settings selecting high-performance")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/17149%5Farticle%5Fbig.png?fit=520%2C407&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7\. Now open the drop down menu for ‘Program Settings’ and click the ‘Add’ button. Search for the ‘PCDJ Mixing Sotware’ application (While it may already show up automatically in the list of installed applications, if you have to manually add it you can locate and add the DEX 3 EXE from: C:/Program Files(x86) / PCDJ / DEX3 and double-click the ‘dex3.exe’ file in that directory to select it. Next using the “step 2” drop down menu select ‘High-performance NVIDIA processor’ as the ‘preferred graphics processor for this program’ and click ‘Apply’.
 
@@ -88,6 +88,10 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 
 [![AMD Performance slider settings for DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.23.15-pm.png?fit=915%2C871&ssl=1 "AMD Performance slider settings for DEX 3")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.23.15-pm.png?fit=915%2C871&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11\. If your ATI/AMD Catalyst Control Center has a ‘Switchable Graphics’ tab click on it and browse to locate ‘dex3.exe’ and set it for ‘High Performance’ and click ‘Apply’.
 
 The location of the ‘dex3.exe’ is C:/Program Files(x86) / PCDJ / DEX3 /dex3.exe
@@ -95,7 +99,7 @@ The location of the ‘dex3.exe’ is C:/Program Files(x86) / PCDJ / DEX3 /dex3.
 [![Switchable Graphics Application Settings for DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.07.52-pm.png?fit=1030%2C924&ssl=1 "Switchable Graphics Application Settings for DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.07.52-pm.png?fit=1030%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 12\. Re-boot your DJ computer launch DEX 3 and mix music videos. If you experiance issues or other graphics related problems please visit www.amd.com and download the latest drivers for your specific ATI/AMD Graphics Card.
@@ -103,10 +107,6 @@ The location of the ‘dex3.exe’ is C:/Program Files(x86) / PCDJ / DEX3 /dex3.
 Now you are optimized for mixing music videos with your discrete (dedicated) graphics card and DEX 3!
 
 _Have questions about using a **dedicated graphics card** or **video mixing** with our [**DEX 3 VDJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -127,18 +127,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/dex3-dedicatedgraphics-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-infusing-personality-into-instagram-stories-with-unique-icons/"><u>[New] 2024 Approved Infusing Personality Into Instagram Stories with Unique Icons</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-pillow-talk-with-prodigies-asmr-voices-for-slumber-for-2024/"><u>[Updated] Pillow Talk with Prodigies ASMR Voices for Slumber for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[Updated] Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-conversion-made-simple-xml-ssa-ttml-and-more/"><u>2024 Approved SRT Conversion Made Simple XML, SSA, TTML, and More</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/find-and-install-software-updates-using-control-panel-expert-advice-by-yl-software/"><u>Find & Install Software Updates Using Control Panel - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-mp3-converter-by-movavi-download-edit-and-share-music-effortlessly/"><u>Free Online MP3 Converter by Movavi: Download, Edit and Share Music Effortlessly</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 12 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-v2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Magic V2</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/rising-global-aversion-and-optimistic-ignorance-how-china-faces-the-once-in-a-century-change-in-international-ties-after-pandemic-ends/"><u>Rising Global Aversion and Optimistic Ignorance: How China Faces the 'Once-in-a-Century Change' In International Ties After Pandemic Ends</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-repairing-defective-memory-modules-insights-from-yl-computing/"><u>Step-by-Step Guide: Repairing Defective Memory Modules - Insights From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/troubleshooting-guide-identifying-the-root-cause-of-a-malfunctioning-network-adapter-insights-from-yl-computing/"><u>Troubleshooting Guide: Identifying the Root Cause of a Malfunctioning Network Adapter - Insights From YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-se-2020-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone SE (2020) Before the Plan Expires</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-preserving-profile-prestige-from-pretend-popularity-pitfalls/"><u>[New] In 2024, Preserving Profile Prestige From Pretend Popularity Pitfalls</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/student-section-prise-of-the-state-the-first-such-meeting-was-held-on-july-4-1776-in-philadelphia-with-delegates-from-each-of-the-13-colonies-except-new-yor102/"><u>[Student ## Section Prise of the State. The First Such Meeting Was Held on July 4, 1776 in Philadelphia with Delegates From Each of the 13 Colonies Except New York and South Carolina. This Day Is Now Celebrated as Independence Day in America.</u></a></li>
+<li><a href="https://games-able.techidaily.com/assist-controller-on-ps5-a-compre-points-of-entry-for-cannabinoids-into-the-brain-and-body/"><u>Assist Controller on PS5 - A Compre Points of Entry for Cannabinoids Into the Brain and Body</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/becoming-proficient-in-video-editing-a-beginners-guide/"><u>Becoming Proficient in Video Editing: A Beginner's Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/download-the-new-dex-31002-update-for-your-digital-dj-equipment-on-pcdj-platform/"><u>Download the New DEX 3.10.0.2 Update for Your Digital DJ Equipment on PCDJ Platform</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-zipping-files-and-folders-on-windows-using-built-in-tools-tips-from-yl-computing/"><u>Easy Steps: Zipping Files and Folders on Windows Using Built-In Tools - Tips From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-troubleshooting-with-a-quick-restart-on-any-version-of-ipad/"><u>Easy Troubleshooting with a Quick Restart on Any Version of iPad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-classroom-engagement-with-five-chatgpt-strategies/"><u>Elevating Classroom Engagement with Five ChatGPT Strategies</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ensuring-safety-how-secure-is-yl-computings-latest-software-offering-insights-from-yl-software-experts/"><u>Ensuring Safety: How Secure Is YL Computing's Latest Software Offering? Insights From YL Software Experts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/flacmp3-6/"><u>FLACからMP3への無料変換 - シェアウェイト6つ紹介</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-fast-and-reliable-wifi-intuitive-steps-to-install-updated-intel-ac-3160-driver/"><u>Get Fast & Reliable WiFi: Intuitive Steps to Install Updated Intel AC 3160 Driver</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/high-definition-jesuss-crucifixion-artwork-as-desktop-background-yl-technologies/"><u>High Definition Jesus's Crucifixion Artwork as Desktop Background - YL Technologies</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/high-definition-animal-wallpaper-collections-premium-nature-scenes-and-wildlife-photography-by-yl-computing/"><u>High-Definition Animal Wallpaper Collections: Premium Nature Scenes & Wildlife Photography by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-select-and-install-a-perfect-graphics-card-driver-for-your-windows-pc-tips-by-yl-software-experts/"><u>How to Select & Install a Perfect Graphics Card Driver for Your Windows PC - Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/identifying-signs-of-a-malfunctioning-power-supply-tips-from-yl-computing/"><u>Identifying Signs of a Malfunctioning Power Supply: Tips From YL Computing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-mini-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 mini to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-visual-storytelling-captioning-for-tiktok-videos/"><u>Mastering Visual Storytelling Captioning for TikTok Videos</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/revamp-your-wifi-connection-in-windows-n-master-the-art-of-resetting-network-settings-with-yl-software-expertise/"><u>Revamp Your WiFi Connection in Windows N: Master the Art of Resetting Network Settings with YL Software Expertise</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers in Windows 10 & 7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX 3.6.1 RC - Free Download
-date: 2024-12-13T00:26:43.574Z
-updated: 2024-12-14T18:35:33.294Z
+date: 2024-12-18T00:22:45.023Z
+updated: 2024-12-23T17:38:55.318Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ We invite all DEX 3 DJs and potential users to download and try the DEX 3.6.1 re
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes Included With The DEX 3.6.1 Release Candidate
@@ -49,7 +49,7 @@ We invite all DEX 3 DJs and potential users to download and try the DEX 3.6.1 re
 _Have questions about DEX 3.6.1 DJ, **music video mixing** and **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,22 +71,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex361rc-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-why-cant-i-see-videos-on-sony-a6400-in-2024/"><u>[New] Why Can’t I See Videos on Sony A6400, In 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-8-web-destinations-for-3d-text-psd-sharing/"><u>[Updated] 2024 Approved Essential 8 Web Destinations for 3D Text PSD Sharing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-pro-tips-for-iphone-burst-photo-sequences/"><u>[Updated] In 2024, Pro Tips for iPhone Burst Photo Sequences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-leading-10-live-streaming-services/"><u>[Updated] Unveiling the Leading 10 Live-Streaming Services</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-windows-hd-color-find-out-how-to-watch-and-edit-hdr-videos-on-your-pc/"><u>[Updated] Windows HD Color Find Out How to Watch and Edit HDR Videos on Your PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>2024 Approved Chorus Climaxes Ultimate Hits to Accompany Your Promise</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-top-10-4k-monitors-list/"><u>Elite Top 10 4K Monitors List</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/exploring-potential-lags-in-windows-defender-a-comprehensive-analysis-by-yl-computing/"><u>Exploring Potential Lags in Windows Defender: A Comprehensive Analysis by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/exploring-the-effectiveness-of-windows-defender-in-identifying-diverse-malware-threats-a-guide-by-yl-software/"><u>Exploring the Effectiveness of Windows Defender in Identifying Diverse Malware Threats: A Guide by YL Software</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/get-grooving-with-affordable-karaoke-fun-save-big-on-party-tyme-subscription-at-only-4999month/"><u>Get Grooving with Affordable Karaoke Fun - Save Big on Party Tyme Subscription at Only $49.99/Month!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-it-time-to-upgrade-your-graphic-card-identifying-common-symptoms-of-malfunction-insights-from-yl-computing-solutions/"><u>Is It Time to Upgrade Your Graphic Card? Identifying Common Symptoms of Malfunction - Insights From YL Computing Solutions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-windows-defender-effective-against-viruses-and-threats-learn-how-it-works-insights-by-yl-computing/"><u>Is Windows Defender Effective Against Viruses and Threats? Learn How It Works - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-your-device-the-complete-list-of-15-common-iphone-problems-and-how-to-resolve-them/"><u>Master Your Device: The Complete List of 15 Common iPhone Problems and How to Resolve Them</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/navigating-cryptocurrency-investments-with-expert-advice-from-yl-software/"><u>Navigating Cryptocurrency Investments with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/navigating-through-your-pcs-connection-configurations-with-expertise-from-yl-software/"><u>Navigating Through Your PC's Connection Configurations with Expertise From YL Software</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/personalizing-your-pc-a-step-by-step-guide-to-changing-taskbar-settings-via-windows-control-panel/"><u>Personalizing Your PC: A Step-by-Step Guide to Changing Taskbar Settings via Windows Control Panel</u></a></li>
-<li><a href="https://solve-news.techidaily.com/step-by-step-expert-guide-to-seamlessly-cutting-and-merging-music-tracks-both-online-platforms-and-desktop-tools/"><u>Step-By-Step Expert Guide to Seamlessly Cutting and Merging Music Tracks, Both Online Platforms and Desktop Tools!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transform-your-igtv-backgrounds-with-style/"><u>[Updated] 2024 Approved Transform Your IGTV Backgrounds with Style</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-perfecting-stability-a-no-tripod-guide/"><u>[Updated] In 2024, Perfecting Stability A No-Tripod Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-5-best-ps3-emulator-for-pc-2023/"><u>[Updated] In 2024, Top 5 Best Ps3 Emulator For PC 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimizing-video-capture-with-mov-on-windows-10/"><u>[Updated] Optimizing Video Capture with MOV on Windows 10</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/activating-incognito-mode-a-step-by-step-guide-yl-computing-solutions/"><u>Activating Incognito Mode: A Step-by-Step Guide - YL Computing Solutions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/diverse-nakano-quintuplet-wallpaper-collection-by-yl-computing-inspiring-home-decor-ideas/"><u>Diverse Nakano Quintuplet Wallpaper Collection by YL Computing - Inspiring Home Decor Ideas</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exploring-frequent-factors-leading-to-graphics-card-breakdowns-with-yl-software-guidance/"><u>Exploring Frequent Factors Leading to Graphics Card Breakdowns with YL Software Guidance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-with-non-loading-textures-in-call-of-duty-warzone/"><u>Fixing Issues with Non-Loading Textures in Call of Duty Warzone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-3-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 3 Lock Screen Password?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-ready-to-play-top-10-free-game-download-sites-for-pc-and-android/"><u>New 2024 Approved Get Ready to Play Top 10 Free Game Download Sites for PC and Android</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/resolucion-eficaz-de-problemas-con-la-copia-de-seguridad-en-windows-11/"><u>Resolución Eficaz De Problemas Con La Copia De Seguridad en Windows 11</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-adjusting-your-computers-audio-preferences-on-windows-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Computer's Audio Preferences on Windows - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-restoring-your-printers-drivers-with-yl-computing/"><u>Step-by-Step Guide: Restoring Your Printer's Drivers with YL Computing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/techniques-for-effortless-facebook-video-posting-pcandroid-for-2024/"><u>Techniques for Effortless Facebook Video Posting, PC/Android for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/troubleshooting-guide-dealing-with-unresponsive-mice-advice-from-yl-software-professionals/"><u>Troubleshooting Guide: Dealing with Unresponsive Mice - Advice From YL Software Professionals</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/yl-computings-guide-efficient-steps-to-remove-programs-and-enhance-your-system/"><u>YL Computing's Guide: Efficient Steps to Remove Programs and Enhance Your System</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/yl-computings-guide-repairing-your-malfunctioning-network-adapter/"><u>YL Computing's Guide: Repairing Your Malfunctioning Network Adapter</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/yls-guide-to-ongoing-maintennce-tasks-you-need-regularly-yl-computing-software-solutions/"><u>YL's Guide to Ongoing Maintennce Tasks You Need Regularly – YL Computing | Software Solutions</u></a></li>
 </ul></div>
 

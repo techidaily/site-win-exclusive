@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2024-12-13T23:13:24.709Z
-updated: 2024-12-14T18:44:45.307Z
+date: 2024-12-19T19:00:20.527Z
+updated: 2024-12-24T00:22:56.225Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,20 +81,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-essential-guide-to-cost-free-art-and-graphic-resources/"><u>[New] Essential Guide to Cost-Free Art & Graphic Resources</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-essential-tips-for-instagrams-query-tagging-for-2024/"><u>[New] Essential Tips for Instagram's Query Tagging for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/captivating-hd-wallpaper-collection-for-your-device-featuring-the-elegant-bmw-x2-by-yl-computings-digital-artistry/"><u>Captivating HD Wallpaper Collection for Your Device: Featuring the Elegant BMW X2 by YL Computing's Digital Artistry</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-solutions-for-fixing-malfunctioning-hardware-drivers-expert-advice-from-yl-computing/"><u>Effective Solutions for Fixing Malfunctioning Hardware Drivers - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-salvage-your-unzipping-troubles-with-ease-win-11-style/"><u>How To Salvage Your Unzipping Troubles with Ease, Win 11 Style</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-instant-inspiration-the-easy-guide-to-building-custom-youtube-music-mixes-webapp/"><u>In 2024, Instant Inspiration The Easy Guide to Building Custom YouTube Music Mixes (Web/App)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>In 2024, Setting the Scene A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-it-time-for-an-upgrade-evaluating-your-gpu-with-expert-advice-from-yl-software/"><u>Is It Time for an Upgrade? Evaluating Your GPU with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/solving-common-printer-connection-problems-a-step-by-step-guide-from-yl-software/"><u>Solving Common Printer Connection Problems: A Step-by-Step Guide From YL Software</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/troubleshooting-silent-speakers-understanding-the-common-causes-insights-by-yl-computing/"><u>Troubleshooting Silent Speakers: Understanding the Common Causes - Insights by YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-and-save-your-kindle-books-as-secure-pdf-files-a-comprehensive-how-to-tutorial/"><u>Unlock and Save Your Kindle Books as Secure PDF Files – A Comprehensive How-To Tutorial</u></a></li>
-<li><a href="https://win-web.techidaily.com/unlocking-advanced-pc-settings-the-ultimate-how-to-for-using-the-registry-editor-digital-solutions/"><u>Unlocking Advanced PC Settings: The Ultimate How-To for Using the Registry Editor - Digital Solutions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/why-is-your-hard-drive-failing-and-how-can-you-prevent-it-expert-advice-from-yl-computing/"><u>Why Is Your Hard Drive Failing & How Can You Prevent It? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/yl-software-premium-clear-apple-design-visuals-for-screensavers-and-desktop-decoration/"><u>YL Software: Premium Clear Apple Design Visuals for Screensavers & Desktop Decoration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-guidelines-for-eliminating-obs-fullscreen-freeze/"><u>[New] 2024 Approved Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-tailoring-trailers-to-amplify-your-youtube-channels-earnings/"><u>[New] 2024 Approved Tailoring Trailers to Amplify Your YouTube Channel's Earnings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-best-starter-cameras-for-child-filmmakers-in-splashy-settings/"><u>[Updated] Best Starter Cameras For Child Filmmakers in Splashy Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crop-chronicles-the-ultimate-farm-farewell-fest/"><u>[Updated] Crop Chronicles The Ultimate Farm Farewell Fest</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leverage-youtube-insights-for-sustainable-channel-development-for-2024/"><u>[Updated] Leverage YouTube Insights for Sustainable Channel Development for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effortless-collaboration-in-windows-learn-how-to-share-foldersfiles-with-ease-tips-by-yl-software-experts/"><u>Effortless Collaboration in Windows: Learn How to Share Folders/Files with Ease – Tips by YL Software Experts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-customize-windows-defender-options-a-guide-by-yl-computing-optimizing-your-antivirus-experience/"><u>How to Customize Windows Defender Options: A Guide by YL Computing - Optimizing Your Antivirus Experience</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/karaoki-updates-unveiled-beta-v09amo-improved-scrolling-new-features-for-djing-enthusiasts/"><u>Karaoki Updates Unveiled - Beta v0.9.amo Improved Scrolling, New Features for DJing Enthusiasts!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reclaiming-your-data-tips-for-retrieving-files-after-an-iphone-factory-reset/"><u>Reclaiming Your Data: Tips for Retrieving Files After an iPhone Factory Reset</u></a></li>
+<li><a href="https://fox-info.techidaily.com/revamp-your-workflow-with-top-watermarkers-for-2024/"><u>Revamp Your Workflow with Top Watermarkers for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/rising-global-aversion-and-optimistic-ignorance-how-china-faces-the-once-in-a-century-change-in-international-ties-after-pandemic-ends/"><u>Rising Global Aversion and Optimistic Ignorance: How China Faces the 'Once-in-a-Century Change' In International Ties After Pandemic Ends</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/slow-performance-issues-identifying-the-culprits-of-computer-delays-with-expert-advice-from-yl-computing/"><u>Slow Performance Issues: Identifying the Culprits of Computer Delays with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/solving-persistent-freezes-in-windows-applications-expert-advice-from-yl-computing/"><u>Solving Persistent Freezes in Windows Applications: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-repairing-defective-memory-modules-insights-from-yl-computing/"><u>Step-by-Step Guide: Repairing Defective Memory Modules - Insights From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/the-power-of-digital-cash-unlocking-growth-and-opportunity-through-cryptocurrency-solutions-by-yl-software/"><u>The Power of Digital Cash: Unlocking Growth & Opportunity Through Cryptocurrency Solutions by YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpts-native-tools/"><u>Unveiling ChatGPT’s Native Tools</u></a></li>
 </ul></div>
 

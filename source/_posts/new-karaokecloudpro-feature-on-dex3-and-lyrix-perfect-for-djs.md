@@ -1,7 +1,7 @@
 ---
 title: New KaraokeCloudPro Feature on DEX3 & Lyrix – Perfect for DJs!
-date: 2024-12-08T21:43:32.502Z
-updated: 2024-12-14T20:49:33.417Z
+date: 2024-12-17T17:07:36.911Z
+updated: 2024-12-23T18:39:56.763Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-comprehensive-review-transform-your-images-with-facetune/"><u>[Updated] Comprehensive Review Transform Your Images with Facetune</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/adjusting-computer-sound-configuration-through-windows-control-panel-expert-advice-from-yl-computing/"><u>Adjusting Computer Sound Configuration Through Windows Control Panel - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-crypto-asset-allocation-tactics-insights-from-yl-computings-expertise/"><u>Effective Crypto Asset Allocation Tactics: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/enabling-windows-defender-a-step-by-step-guide-when-its-not-active-tech-insights-with-yl/"><u>Enabling Windows Defender: A Step-by-Step Guide When It's Not Active - Tech Insights with YL</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-amateur-to-pro-excelling-at-instagram-editing/"><u>From Amateur to Pro Excelling at Instagram Editing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>In 2024, A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/siriusxm-all-access-bring-back-memories-from-old-school-fm-radio-days/"><u>SiriusXM All Access: Bring Back Memories From Old-School FM Radio Days!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/stunning-santorini-landscapes-premium-backgrounds-and-wallpapers-by-yl-computing/"><u>Stunning Santorini Landscapes: Premium Backgrounds & Wallpapers by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/troubleshooting-paper-jams-in-scanners-expert-tips-from-yl-computing/"><u>Troubleshooting Paper Jams in Scanners: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862737449-ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-tutorial-on-desktop-cleanup-how-to-delete-folders-effortlessly-yl-software-tech-solutions/"><u>Ultimate Tutorial on Desktop Cleanup: How to Delete Folders Effortlessly – YL Software Tech Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-gear-for-capturing-journeys-on-camera/"><u>[Updated] 2024 Approved Gear for Capturing Journeys on Camera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-chatbot-realities-revealed-uncovering-and-busting-9-common-myths/"><u>AI Chatbot Realities Revealed: Uncovering and Busting 9 Common Myths</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/app-accuracy-check-through-the-lens-of-vll-for-2024/"><u>App Accuracy Check Through the Lens of VLL for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/experience-a-burst-of-color-with-akali-neon-themed-graphics-from-yl-softwares-latest-release/"><u>Experience a Burst of Color with Akali Neon Themed Graphics From YL Software's Latest Release</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-engaging-vids-with-template-magic/"><u>In 2024, Crafting Engaging Vids with Template Magic</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-essential-websites-to-access-pristine-free-audio-fx/"><u>New Essential Websites to Access Pristine Free Audio FX</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/pingdingshans-lavish-spending-on-cowherd-and-weaver-girl-statue-draws-backlash-amidst-recent-poverty-escape/"><u>Pingdingshan's Lavish Spending on Cowherd & Weaver Girl Statue Draws Backlash Amidst Recent Poverty Escape</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-updating-your-computers-network-adapter-drivers-the-yl-computing-solution/"><u>Step-by-Step Guide: Updating Your Computer's Network Adapter Drivers - The YL Computing Solution</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/troubleshooting-manual-save-issues-why-your-scanner-doesnt-auto-save-files-yl-software-guide/"><u>Troubleshooting Manual Save Issues: Why Your Scanner Doesn't Auto-Save Files (YL Software Guide)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-seamless-pc-management-with-our-favorite-15-free-uninstaller-utilities/"><u>Unlock Seamless PC Management with Our Favorite 15 Free Uninstaller Utilities</u></a></li>
 </ul></div>
 
