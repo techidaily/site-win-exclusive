@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2024-12-19T19:00:20.527Z
-updated: 2024-12-24T00:22:56.225Z
+date: 2024-12-24T17:03:07.936Z
+updated: 2024-12-29T17:45:13.150Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-guidelines-for-eliminating-obs-fullscreen-freeze/"><u>[New] 2024 Approved Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-tailoring-trailers-to-amplify-your-youtube-channels-earnings/"><u>[New] 2024 Approved Tailoring Trailers to Amplify Your YouTube Channel's Earnings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-best-starter-cameras-for-child-filmmakers-in-splashy-settings/"><u>[Updated] Best Starter Cameras For Child Filmmakers in Splashy Settings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-crop-chronicles-the-ultimate-farm-farewell-fest/"><u>[Updated] Crop Chronicles The Ultimate Farm Farewell Fest</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-leverage-youtube-insights-for-sustainable-channel-development-for-2024/"><u>[Updated] Leverage YouTube Insights for Sustainable Channel Development for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effortless-collaboration-in-windows-learn-how-to-share-foldersfiles-with-ease-tips-by-yl-software-experts/"><u>Effortless Collaboration in Windows: Learn How to Share Folders/Files with Ease – Tips by YL Software Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-customize-windows-defender-options-a-guide-by-yl-computing-optimizing-your-antivirus-experience/"><u>How to Customize Windows Defender Options: A Guide by YL Computing - Optimizing Your Antivirus Experience</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/karaoki-updates-unveiled-beta-v09amo-improved-scrolling-new-features-for-djing-enthusiasts/"><u>Karaoki Updates Unveiled - Beta v0.9.amo Improved Scrolling, New Features for DJing Enthusiasts!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reclaiming-your-data-tips-for-retrieving-files-after-an-iphone-factory-reset/"><u>Reclaiming Your Data: Tips for Retrieving Files After an iPhone Factory Reset</u></a></li>
-<li><a href="https://fox-info.techidaily.com/revamp-your-workflow-with-top-watermarkers-for-2024/"><u>Revamp Your Workflow with Top Watermarkers for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/rising-global-aversion-and-optimistic-ignorance-how-china-faces-the-once-in-a-century-change-in-international-ties-after-pandemic-ends/"><u>Rising Global Aversion and Optimistic Ignorance: How China Faces the 'Once-in-a-Century Change' In International Ties After Pandemic Ends</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/slow-performance-issues-identifying-the-culprits-of-computer-delays-with-expert-advice-from-yl-computing/"><u>Slow Performance Issues: Identifying the Culprits of Computer Delays with Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/solving-persistent-freezes-in-windows-applications-expert-advice-from-yl-computing/"><u>Solving Persistent Freezes in Windows Applications: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-repairing-defective-memory-modules-insights-from-yl-computing/"><u>Step-by-Step Guide: Repairing Defective Memory Modules - Insights From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/the-power-of-digital-cash-unlocking-growth-and-opportunity-through-cryptocurrency-solutions-by-yl-software/"><u>The Power of Digital Cash: Unlocking Growth & Opportunity Through Cryptocurrency Solutions by YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpts-native-tools/"><u>Unveiling ChatGPT’s Native Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-innovative-techniques-for-designing-attractive-vlog-narratives/"><u>[Updated] 2024 Approved Innovative Techniques for Designing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-bringing-rhythm-to-instagrams-visual-narratives/"><u>2024 Approved Bringing Rhythm to Instagram's Visual Narratives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-windows-10s-audio-settings/"><u>2024 Approved Navigating Windows 10'S Audio Settings</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exquisite-wallpaper-collections-of-tammy-abraham-at-as-roma-stunning-visuals-from-yl-computings-image-database/"><u>Exquisite Wallpaper Collections of Tammy Abraham at AS Roma: Stunning Visuals From YL Computing's Image Database</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-transfer-your-cryptocurrency-account-information-a-guide-from-the-coin-balance-verification-utility-yl-computing/"><u>How to Transfer Your Cryptocurrency Account Information: A Guide From the Coin Balance Verification Utility - YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-note-50-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme Note 50 Data? | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/latest-hit-songs-bundle-get-the-billboard-no1-track-with-your-premium-karaoke-membership/"><u>Latest Hit Songs Bundle: Get the Billboard No.1 Track with Your Premium Karaoke Membership!</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/locating-printer-configuration-tools-on-your-pcs-windows-control-panel-insights-from-yl-computing/"><u>Locating Printer Configuration Tools on Your PC's Windows Control Panel - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-information-retrieval-how-artificial-intelligence-is-reshaping-web-browsing/"><u>Revolutionizing Information Retrieval: How Artificial Intelligence Is Reshaping Web Browsing</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/solutions-when-your-pc-fails-to-boot-expert-advice-from-yl-computing/"><u>Solutions When Your PC Fails To Boot: Expert Advice From YL Computing</u></a></li>
 </ul></div>
 
