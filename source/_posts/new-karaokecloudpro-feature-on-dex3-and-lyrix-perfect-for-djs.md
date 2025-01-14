@@ -1,7 +1,7 @@
 ---
 title: New KaraokeCloudPro Feature on DEX3 & Lyrix – Perfect for DJs!
-date: 2025-01-04T23:36:58.900Z
-updated: 2025-01-08T20:14:12.705Z
+date: 2025-01-10T17:35:15.078Z
+updated: 2025-01-14T16:17:47.834Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,19 +81,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-amplify-visual-impact-mastering-the-art-of-applying-luts-with-obs-studio/"><u>[New] Amplify Visual Impact Mastering the Art of Applying LUTs with OBS Studio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-innovative-editing-methods-for-yt-videos-with-windows-movie-maker/"><u>[Updated] Innovative Editing Methods for YT Videos with Windows Movie Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instant-inspector-quick-photo-explorer-for-win10/"><u>[Updated] Instant Inspector - Quick Photo Explorer for Win10</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-mastering-the-art-of-email-harvesting-from-google-techniques-by-yl-computing-experts/"><u>1. Mastering the Art of Email Harvesting From Google - Techniques by YL Computing Experts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-apps-and-programs-for-image-video-integration/"><u>Best Apps and Programs for Image Video Integration</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/elevate-your-computers-speed-essential-strategies-for-enhancing-performance-by-cleanup-guided-by-yl-technologies/"><u>Elevate Your Computer's Speed: Essential Strategies for Enhancing Performance by Cleanup – Guided by YL Technologies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-8-web-destinations-for-3d-text-psd-sharing/"><u>Essential 8 Web Destinations for 3D Text PSD Sharing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/find-and-install-software-updates-using-control-panel-expert-advice-by-yl-software/"><u>Find & Install Software Updates Using Control Panel - Expert Advice by YL Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pioneering-professionalism-language-proficiency-in-companies/"><u>Pioneering Professionalism: Language Proficiency in Companies</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/rising-global-aversion-and-optimistic-ignorance-how-china-faces-the-once-in-a-century-change-in-international-ties-after-pandemic-ends/"><u>Rising Global Aversion and Optimistic Ignorance: How China Faces the 'Once-in-a-Century Change' In International Ties After Pandemic Ends</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-repairing-defective-memory-modules-insights-from-yl-computing/"><u>Step-by-Step Guide: Repairing Defective Memory Modules - Insights From YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-speaker-problems-in-windows-11-and-7/"><u>Troubleshooting Audio Issues - Solving Speaker Problems in Windows 11 and 7</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/troubleshooting-guide-identifying-the-root-cause-of-a-malfunctioning-network-adapter-insights-from-yl-computing/"><u>Troubleshooting Guide: Identifying the Root Cause of a Malfunctioning Network Adapter - Insights From YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-synching-iphone-vids-with-ease-and-precision/"><u>[New] Synching iPhone Vids with Ease and Precision</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-must-have-programs-for-youtube-video-downloads-for-2024/"><u>[Updated] Must-Have Programs for YouTube Video Downloads for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-to-over-12-malware-varieties-definitions-and-real-world-instances/"><u>Comprehensive Guide to Over 12 Malware Varieties: Definitions & Real-World Instances</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/explore-best-substitutes-of-xsplit-for-both-pcs-and-apple-computers/"><u>Explore Best Substitutes of Xsplit for Both PCs and Apple Computers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/implementing-windows-management-scripts-through-intunes-msix-technology/"><u>Implementing Windows Management Scripts Through Intune's MSIX Technology</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-zepto-usage-a-comprehensive-guide-for-desktop-enthusiasts/"><u>Mastering Zepto Usage: A Comprehensive Guide for Desktop Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revenue-breakdown-how-much-money-stem-from-each-watcher-for-2024/"><u>Revenue Breakdown How Much Money Stem From Each Watcher for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-11-methods-to-transform-ts-files-into-mp4-on-any-platform/"><u>Top 11 Methods to Transform .TS Files Into MP4 on Any Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-of-seamless-sound-integration-in-videos-for-2024/"><u>Unveiling the Magic of Seamless Sound Integration in Videos for 2024</u></a></li>
 </ul></div>
 
