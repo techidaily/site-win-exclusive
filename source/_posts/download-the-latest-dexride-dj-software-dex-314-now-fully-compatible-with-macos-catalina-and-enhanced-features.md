@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2025-01-11T21:23:59.943Z
-updated: 2025-01-14T16:42:52.576Z
+date: 2025-01-17T23:02:08.247Z
+updated: 2025-01-20T19:55:54.445Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-25-ways-to-spice-up-your-personal-screenshot/"><u>[New] 2024 Approved 25 Ways to Spice Up Your Personal Screenshot</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-instant-reachers-handbook-livestreaming-on-facebook-via-smartphones/"><u>[New] Instant Reachers' Handbook Livestreaming on Facebook via Smartphones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-primes-social-standings-top-watchers-and-likers-twitter-2023/"><u>[Updated] 2024 Approved Amazon Prime's Social Standings - Top Watchers and Likers Twitter, 2023</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-from-download-to-implementation-installing-obs-on-a-macpc-for-2024/"><u>[Updated] From Download to Implementation Installing OBS on a MacPC for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-lightning-fast-instagram-videos-tips-for-mobile-users/"><u>[Updated] Lightning-Fast Instagram Videos Tips for Mobile Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-interactive-content-the-key-to-boosted-facebook-pages/"><u>2024 Approved Interactive Content The Key to Boosted Facebook Pages</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-techniques-to-frame-photos-with-leading-lines-iphone/"><u>2024 Approved Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comparative-techniques-in-software-remastering-insights-into-msi-and-exe-conversion-strategies/"><u>Comparative Techniques in Software Remastering: Insights Into MSI and EXE Conversion Strategies</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/deciphering-taboola-strategies-for-detecting-and-removing-persistent-promotional-content/"><u>Deciphering Taboola: Strategies for Detecting and Removing Persistent Promotional Content</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/download-music-from-pandora-legally-and-convert-to-mp3-without-costs/"><u>Download Music From Pandora Legally and Convert to MP3 Without Costs</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-reliable-is-windows-defender-against-viruses-a-deep-dive-with-malwarefox-perspectives/"><u>How Reliable Is Windows Defender Against Viruses: A Deep Dive with MalwareFox Perspectives</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-90-gt-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor 90 GT FRP</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/master-the-art-of-a-clean-browsing-experience-with-these-4-techniques-to-block-and-remove-pop-ups-from-firefox/"><u>Master the Art of a Clean Browsing Experience with These 4 Techniques to Block & Remove Pop-Ups From Firefox</u></a></li>
-<li><a href="https://win11.techidaily.com/safeguarding-systems-highlighting-7-essential-windows-processes/"><u>Safeguarding Systems: Highlighting 7 Essential Windows Processes</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/swift-transformation-how-to-change-your-avi-videos-into-compatible-quicktime-mov-format/"><u>Swift Transformation: How to Change Your AVI Videos Into Compatible QuickTime MOV Format</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-malware-mechanisms-of-operation-and-methods-of-spread/"><u>Understanding Malware: Mechanisms of Operation and Methods of Spread</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/unraveling-the-mystery-why-does-my-chrome-display-managed-by-an-organization-and-is-it-safe/"><u>Unraveling the Mystery: Why Does My Chrome Display 'Managed By an Organization,' And Is It Safe?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-snap-it-all-top-5-windows-11-recording-strategies-for-gamers/"><u>[Updated] 2024 Approved Snap It All! Top 5 Windows 11 Recording Strategies for Gamers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728466667747-windows-server-201/"><u>快速指南：在Windows Server 201</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effizienteste-methode-zur-wiederherstellung-von-ad-backups-auf-einem-neuen-rechnerserver/"><u>Effizienteste Methode Zur Wiederherstellung Von AD-Backups Auf Einem Neuen Rechnerserver</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/eficientemente-convierte-ts-a-mp4-sin-perder-la-calidad-un-guia-con-10-soluciones-faciles/"><u>Eficientemente Convierte TS a MP4 Sin Perder La Calidad: Un Guía Con 10 Soluciones Fáciles</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/erste-schritte-zum-recoverieren-von-verlorenen-daten-auf-ihrem-windows-11-pc/"><u>Erste Schritte Zum Recoverieren Von Verlorenen Daten Auf Ihrem Windows 11 PC</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/fix-your-missing-dvd-drive-on-windows-10-7-effective-strategies/"><u>Fix Your Missing DVD Drive on Windows 10: 7 Effective Strategies</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/free-entry-to-the-ultimate-karaoke-summit-2e15-register-today-and-master-your-mixes/"><u>Free Entry to the Ultimate Karaoke Summit 2E15 - Register Today and Master Your Mixes!</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guida-passo-passo-per-il-restauro-delle-fotografie-eliminate-su-unita-di-archiviazione-esterna/"><u>Guida Passo-Passo per Il Restauro Delle Fotografie Eliminate Su Unità Di Archiviazione Esterna</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-guide-copy-your-data-from-a-samsung-hdd-to-an-ultra-fresh-samsung-ssd/"><u>How-To Guide: Copy Your Data From a Samsung HDD to an Ultra Fresh Samsung SSD</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-steps-for-effective-annotations-and-cards-on-your-youtube-videos/"><u>In 2024, Strategic Steps for Effective Annotations & Cards on Your YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos/"><u>Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos)</u></a></li>
 </ul></div>
 

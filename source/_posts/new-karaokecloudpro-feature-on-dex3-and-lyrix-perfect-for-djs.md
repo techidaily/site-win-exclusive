@@ -1,7 +1,7 @@
 ---
 title: New KaraokeCloudPro Feature on DEX3 & Lyrix – Perfect for DJs!
-date: 2025-01-10T17:35:15.078Z
-updated: 2025-01-14T16:17:47.834Z
+date: 2025-01-13T23:16:41.165Z
+updated: 2025-01-20T21:59:04.414Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,14 +81,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-synching-iphone-vids-with-ease-and-precision/"><u>[New] Synching iPhone Vids with Ease and Precision</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-must-have-programs-for-youtube-video-downloads-for-2024/"><u>[Updated] Must-Have Programs for YouTube Video Downloads for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-to-over-12-malware-varieties-definitions-and-real-world-instances/"><u>Comprehensive Guide to Over 12 Malware Varieties: Definitions & Real-World Instances</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/explore-best-substitutes-of-xsplit-for-both-pcs-and-apple-computers/"><u>Explore Best Substitutes of Xsplit for Both PCs and Apple Computers</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/implementing-windows-management-scripts-through-intunes-msix-technology/"><u>Implementing Windows Management Scripts Through Intune's MSIX Technology</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mastering-zepto-usage-a-comprehensive-guide-for-desktop-enthusiasts/"><u>Mastering Zepto Usage: A Comprehensive Guide for Desktop Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revenue-breakdown-how-much-money-stem-from-each-watcher-for-2024/"><u>Revenue Breakdown How Much Money Stem From Each Watcher for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-11-methods-to-transform-ts-files-into-mp4-on-any-platform/"><u>Top 11 Methods to Transform .TS Files Into MP4 on Any Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-of-seamless-sound-integration-in-videos-for-2024/"><u>Unveiling the Magic of Seamless Sound Integration in Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-earnings-expertise-in-streams-a-comparative-study/"><u>[New] In 2024, Earnings Expertise in Streams A Comparative Study</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-acid-pro-evaluation-and-alternative-software/"><u>[Updated] Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-best-match-image-taking-and-music-merging-technology/"><u>[Updated] In 2024, Best Match Image Taking & Music Merging Technology</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-meizu-21-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Meizu 21 Pro</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-tutorial-on-syncing-ipad-mini-series-4-5-and-6-with-computericloud/"><u>Comprehensive Tutorial on Syncing iPad Mini Series (4, 5, and 6) with Computer/iCloud</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/de-beste-methoden-om-standaard-pakketten-uptade-te-ontsnappen-in-windows-11/"><u>De Beste Methoden Om Standaard Pakketten Uptade Te Ontsnappen in Windows 11</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-strategies-for-restoring-accidentally-deleted-album-photos/"><u>Effective Strategies for Restoring Accidentally Deleted Album Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-download-and-set-up-sandisk-drivers-on-windows-10/"><u>Effortless Installation: Download & Set Up SanDisk Drivers on Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/enabling-discreet-exchange-of-ideas-on-facebook/"><u>Enabling Discreet Exchange of Ideas on Facebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/instant-guida-per-spostare-la-license-di-windows-10-da-un-hard-disk-a-un-altro-con-facilita/"><u>Instant Guida per Spostare La License Di Windows 10 Da Un Hard Disk a Un Altro Con Facilità</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-maven-leading-audio-trivia-games-on-smartphones/"><u>Melody Maven: Leading Audio Trivia Games on Smartphones</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/resolve-missing-partition-issues-in-windows-10-with-simple-restoration-steps-video-guide/"><u>Resolve Missing Partition Issues in Windows 10 with Simple Restoration Steps - Video Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-avcodecdll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving Avcodec.dll File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide-t172386288058010/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-rated-windows-data-recovery-programs-a-3-step-guide/"><u>Top-Rated Windows Data Recovery Programs: A 3-Step Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/tutoriel-pratique-pour-securiser-vos-donnees-avec-un-ghosting-rapide-sur-windows-1011-et-applications/"><u>Tutoriel Pratique Pour Sécuriser Vos Données Avec Un Ghosting Rapide Sur Windows 10/11 Et Applications !</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-selection-of-data-restoration-programs-compatible-with-windows-versions-11-8-and-7/"><u>Ultimate Selection of Data Restoration Programs Compatible with Windows Versions 11, 8 & 7</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/windows-11-updatedownload-stuck-trova-qui-i-passaggi-di-riparazione-in-quattro/"><u>Windows 11 Update/Download Stuck? Trova Qui I Passaggi Di Riparazione in Quattro!</u></a></li>
 </ul></div>
 
