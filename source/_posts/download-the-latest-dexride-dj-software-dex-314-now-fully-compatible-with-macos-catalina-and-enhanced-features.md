@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2025-01-17T23:02:08.247Z
-updated: 2025-01-20T19:55:54.445Z
+date: 2025-01-25T20:23:36.862Z
+updated: 2025-01-26T17:59:36.236Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-snap-it-all-top-5-windows-11-recording-strategies-for-gamers/"><u>[Updated] 2024 Approved Snap It All! Top 5 Windows 11 Recording Strategies for Gamers</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1728466667747-windows-server-201/"><u>快速指南：在Windows Server 201</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effizienteste-methode-zur-wiederherstellung-von-ad-backups-auf-einem-neuen-rechnerserver/"><u>Effizienteste Methode Zur Wiederherstellung Von AD-Backups Auf Einem Neuen Rechnerserver</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/eficientemente-convierte-ts-a-mp4-sin-perder-la-calidad-un-guia-con-10-soluciones-faciles/"><u>Eficientemente Convierte TS a MP4 Sin Perder La Calidad: Un Guía Con 10 Soluciones Fáciles</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/erste-schritte-zum-recoverieren-von-verlorenen-daten-auf-ihrem-windows-11-pc/"><u>Erste Schritte Zum Recoverieren Von Verlorenen Daten Auf Ihrem Windows 11 PC</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/fix-your-missing-dvd-drive-on-windows-10-7-effective-strategies/"><u>Fix Your Missing DVD Drive on Windows 10: 7 Effective Strategies</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/free-entry-to-the-ultimate-karaoke-summit-2e15-register-today-and-master-your-mixes/"><u>Free Entry to the Ultimate Karaoke Summit 2E15 - Register Today and Master Your Mixes!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/guida-passo-passo-per-il-restauro-delle-fotografie-eliminate-su-unita-di-archiviazione-esterna/"><u>Guida Passo-Passo per Il Restauro Delle Fotografie Eliminate Su Unità Di Archiviazione Esterna</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-guide-copy-your-data-from-a-samsung-hdd-to-an-ultra-fresh-samsung-ssd/"><u>How-To Guide: Copy Your Data From a Samsung HDD to an Ultra Fresh Samsung SSD</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-steps-for-effective-annotations-and-cards-on-your-youtube-videos/"><u>In 2024, Strategic Steps for Effective Annotations & Cards on Your YouTube Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos/"><u>Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakdown-fundamental-aspects-of-asmr-videos/"><u>[New] 2024 Approved Breakdown Fundamental Aspects of ASMR Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>[New] The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-step-up-your-image-game-the-best-free-online-editors/"><u>[Updated] Step Up Your Image Game The Best Free Online Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-browser-safety-on-windows-11-with-the-implementation-of-defender-aguard/"><u>Boost Browser Safety on Windows 11 with the Implementation of Defender Aguard</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/can-you-upgrade-to-recent-processors-on-your-current-motherboard-unveiled-by-yl-software-solutions/"><u>Can You Upgrade to Recent Processors on Your Current Motherboard? Unveiled by YL Software Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-kobo-nia-with-amazon-kindle-an-in-depth-review/"><u>Comparing Kobo Nia with Amazon Kindle: An In-Depth Review</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-refresh-your-sound-card-driver-expert-tips-from-yl-computings-latest-guide/"><u>How to Refresh Your Sound Card Driver: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-your-go-to-fb-video-tool-for-desktops-and-phones/"><u>In 2024, Your Go-To FB Video Tool for Desktops and Phones</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/pdf-file-renaming-tips-a-comprehensive-guide-by-yl-computing/"><u>PDF File Renaming Tips: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-steps-to-repair-your-connection-issues-with-outlook/"><u>Resolved: Steps to Repair Your Connection Issues with Outlook</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/resolving-windows-black-monitor-problem-expert-advice-by-yl-software/"><u>Resolving Windows Black Monitor Problem: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-and-fixing-non-black-ink-problems-in-printers-advice-by-yl-computings-technical-team/"><u>Understanding and Fixing Non-Black Ink Problems in Printers - Advice by YL Computing's Technical Team</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/what-to-know-about-apple-m4-silicon-comprehensive-guide-on-performance-release-date-and-more/"><u>What to Know About Apple M4 Silicon: Comprehensive Guide on Performance, Release Date, and More</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/yl-computings-guide-efficient-steps-to-remove-programs-and-enhance-your-system/"><u>YL Computing's Guide: Efficient Steps to Remove Programs and Enhance Your System</u></a></li>
 </ul></div>
 

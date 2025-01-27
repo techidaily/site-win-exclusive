@@ -1,7 +1,7 @@
 ---
 title: New KaraokeCloudPro Feature on DEX3 & Lyrix – Perfect for DJs!
-date: 2025-01-13T23:16:41.165Z
-updated: 2025-01-20T21:59:04.414Z
+date: 2025-01-21T17:35:13.240Z
+updated: 2025-01-26T23:44:48.879Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-earnings-expertise-in-streams-a-comparative-study/"><u>[New] In 2024, Earnings Expertise in Streams A Comparative Study</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-acid-pro-evaluation-and-alternative-software/"><u>[Updated] Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-best-match-image-taking-and-music-merging-technology/"><u>[Updated] In 2024, Best Match Image Taking & Music Merging Technology</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-meizu-21-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Meizu 21 Pro</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-tutorial-on-syncing-ipad-mini-series-4-5-and-6-with-computericloud/"><u>Comprehensive Tutorial on Syncing iPad Mini Series (4, 5, and 6) with Computer/iCloud</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/de-beste-methoden-om-standaard-pakketten-uptade-te-ontsnappen-in-windows-11/"><u>De Beste Methoden Om Standaard Pakketten Uptade Te Ontsnappen in Windows 11</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-strategies-for-restoring-accidentally-deleted-album-photos/"><u>Effective Strategies for Restoring Accidentally Deleted Album Photos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-download-and-set-up-sandisk-drivers-on-windows-10/"><u>Effortless Installation: Download & Set Up SanDisk Drivers on Windows 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/enabling-discreet-exchange-of-ideas-on-facebook/"><u>Enabling Discreet Exchange of Ideas on Facebook</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/instant-guida-per-spostare-la-license-di-windows-10-da-un-hard-disk-a-un-altro-con-facilita/"><u>Instant Guida per Spostare La License Di Windows 10 Da Un Hard Disk a Un Altro Con Facilità</u></a></li>
-<li><a href="https://games-able.techidaily.com/melody-maven-leading-audio-trivia-games-on-smartphones/"><u>Melody Maven: Leading Audio Trivia Games on Smartphones</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/resolve-missing-partition-issues-in-windows-10-with-simple-restoration-steps-video-guide/"><u>Resolve Missing Partition Issues in Windows 10 with Simple Restoration Steps - Video Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-avcodecdll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving Avcodec.dll File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide-t172386288058010/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-rated-windows-data-recovery-programs-a-3-step-guide/"><u>Top-Rated Windows Data Recovery Programs: A 3-Step Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/tutoriel-pratique-pour-securiser-vos-donnees-avec-un-ghosting-rapide-sur-windows-1011-et-applications/"><u>Tutoriel Pratique Pour Sécuriser Vos Données Avec Un Ghosting Rapide Sur Windows 10/11 Et Applications !</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-selection-of-data-restoration-programs-compatible-with-windows-versions-11-8-and-7/"><u>Ultimate Selection of Data Restoration Programs Compatible with Windows Versions 11, 8 & 7</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/windows-11-updatedownload-stuck-trova-qui-i-passaggi-di-riparazione-in-quattro/"><u>Windows 11 Update/Download Stuck? Trova Qui I Passaggi Di Riparazione in Quattro!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/onvert-with-ease-the-top-10-best-tools-for-flv-to-youtubes-for-2024/"><u>[New] Convert With Ease The Top 10 Best Tools for Flv to YouTubes for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-simplify-your-channel-top-strategies-for-free-youtube-video-compression/"><u>1. Simplify Your Channel: Top Strategies for Free YouTube Video Compression</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>2024 Approved Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-limitations-windows-11-setup-for-ineligible-cpus-explained/"><u>Bypass Limitations: Windows 11 Setup for Ineligible CPUs Explained</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-adding-and-deleting-assemblies-with-custom-actions-for-enhanced-functionality/"><u>Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-high-quality-ipad-screenshots/"><u>Essential Tips for High-Quality iPad Screenshots</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-to-delivering-software-through-sccm-msi-exe-vbscript-and-powershell-techniques/"><u>Guide to Delivering Software Through SCCM: MSI, EXE, VBScript & PowerShell Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-low-budget-camera-buys-roundup/"><u>In 2024, Low-Budget Camera Buys Roundup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-installing-canon-dr-c225-drivers-on-windows-operating-systems-windows-11108/"><u>Step-by-Step Guide to Installing Canon DR-C225 Drivers on Windows Operating Systems (Windows 11/10/8)</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-eliminating-newtab-adware-with-malwarefox/"><u>Step-by-Step Guide: Eliminating NewTab Adware with MalwareFox</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/successful-strategies-for-broadcasting-yourself-live-a-comprehensive-guide/"><u>Successful Strategies for Broadcasting Yourself Live: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/synology-nas/"><u>Synology NASで失われたデータの完全復旧方法</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens-for-2024/"><u>The Best Approach to Enhancing Your 4K Vision with a New Lens for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-future-of-computing-has-arrived-how-intels-new-ai-chip-will-elevate-your-laptop-beyond-imagination-gadget-world/"><u>The Future of Computing Has Arrived: How Intel's New AI Chip Will Elevate Your Laptop Beyond Imagination | Gadget World</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-5-tips-for-effortless-recording-of-your-telegram-video-meetings/"><u>Top 5 Tips for Effortless Recording of Your Telegram Video Meetings</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-strategies-for-securing-your-facebook-profile-a-comprehensive-tutorial/"><u>Ultimate Strategies for Securing Your Facebook Profile - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-the-role-of-application-dependencies-in-microsoft-installer-setup-projects/"><u>Understanding the Role of Application Dependencies in Microsoft Installer Setup Projects</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/unlock-seamless-file-transformation-with-powershell-and-visual-basic-scripts/"><u>Unlock Seamless File Transformation with PowerShell and Visual Basic Scripts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-process-for-lenovo-ultra-dock-750w-or-dell-thunderbolt-dock-driver-revision-guide/"><u>Update Process for Lenovo Ultra Dock 750W or Dell Thunderbolt Dock - Driver Revision Guide</u></a></li>
 </ul></div>
 
