@@ -1,7 +1,7 @@
 ---
 title: New KaraokeCloudPro Feature on DEX3 & Lyrix – Perfect for DJs!
-date: 2025-01-21T17:35:13.240Z
-updated: 2025-01-26T23:44:48.879Z
+date: 2025-02-05T18:54:44.336Z
+updated: 2025-02-08T17:39:27.437Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/onvert-with-ease-the-top-10-best-tools-for-flv-to-youtubes-for-2024/"><u>[New] Convert With Ease The Top 10 Best Tools for Flv to YouTubes for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-simplify-your-channel-top-strategies-for-free-youtube-video-compression/"><u>1. Simplify Your Channel: Top Strategies for Free YouTube Video Compression</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>2024 Approved Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypass-limitations-windows-11-setup-for-ineligible-cpus-explained/"><u>Bypass Limitations: Windows 11 Setup for Ineligible CPUs Explained</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-adding-and-deleting-assemblies-with-custom-actions-for-enhanced-functionality/"><u>Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-high-quality-ipad-screenshots/"><u>Essential Tips for High-Quality iPad Screenshots</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/guide-to-delivering-software-through-sccm-msi-exe-vbscript-and-powershell-techniques/"><u>Guide to Delivering Software Through SCCM: MSI, EXE, VBScript & PowerShell Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-low-budget-camera-buys-roundup/"><u>In 2024, Low-Budget Camera Buys Roundup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-installing-canon-dr-c225-drivers-on-windows-operating-systems-windows-11108/"><u>Step-by-Step Guide to Installing Canon DR-C225 Drivers on Windows Operating Systems (Windows 11/10/8)</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-eliminating-newtab-adware-with-malwarefox/"><u>Step-by-Step Guide: Eliminating NewTab Adware with MalwareFox</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/successful-strategies-for-broadcasting-yourself-live-a-comprehensive-guide/"><u>Successful Strategies for Broadcasting Yourself Live: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/synology-nas/"><u>Synology NASで失われたデータの完全復旧方法</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens-for-2024/"><u>The Best Approach to Enhancing Your 4K Vision with a New Lens for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-future-of-computing-has-arrived-how-intels-new-ai-chip-will-elevate-your-laptop-beyond-imagination-gadget-world/"><u>The Future of Computing Has Arrived: How Intel's New AI Chip Will Elevate Your Laptop Beyond Imagination | Gadget World</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-5-tips-for-effortless-recording-of-your-telegram-video-meetings/"><u>Top 5 Tips for Effortless Recording of Your Telegram Video Meetings</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-strategies-for-securing-your-facebook-profile-a-comprehensive-tutorial/"><u>Ultimate Strategies for Securing Your Facebook Profile - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-the-role-of-application-dependencies-in-microsoft-installer-setup-projects/"><u>Understanding the Role of Application Dependencies in Microsoft Installer Setup Projects</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/unlock-seamless-file-transformation-with-powershell-and-visual-basic-scripts/"><u>Unlock Seamless File Transformation with PowerShell and Visual Basic Scripts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-process-for-lenovo-ultra-dock-750w-or-dell-thunderbolt-dock-driver-revision-guide/"><u>Update Process for Lenovo Ultra Dock 750W or Dell Thunderbolt Dock - Driver Revision Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-film-download-highlights-no-8/"><u>[Updated] Facebook Film Download Highlights - No. 8</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-charting-a-path-to-success-exploring-15-top-youtube-beginnings/"><u>[Updated] In 2024, Charting a Path to Success Exploring 15 Top YouTube Beginnings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-video-size-for-standout-instagram-content/"><u>[Updated] Mastering Video Size for Standout Instagram Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-step-by-step-process-to-update-windows-graphics-drivers/"><u>Complete Step-by-Step Process to Update Windows Graphics Drivers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-modify-file-types-in-windows-os-expert-tips-from-yl-software/"><u>Easy Steps to Modify File Types in Windows OS - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-fix-screen-issues-following-the-installation-of-a-new-graphics-card-expert-advice-from-yl-computing/"><u>How to Fix Screen Issues Following the Installation of a New Graphics Card - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/identifying-motherboard-issues-quickly-techniques-by-yl-computing-experts/"><u>Identifying Motherboard Issues Quickly - Techniques by YL Computing Experts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-looking-for-a-pinnacle-studio-alternative-on-mac-try-these-top-picks/"><u>In 2024, Looking for a Pinnacle Studio Alternative on Mac? Try These Top Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-7-tech-choices-prepping-for-the-metaverse-frontier/"><u>In 2024, Top 7 Tech Choices Prepping for the Metaverse Frontier</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-tecno-camon-20-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Tecno Camon 20 Phone Network-Ready</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/secure-your-data-on-windows-10-a-step-by-step-guide-to-file-encryption-yl-computings-expert-tutorial/"><u>Secure Your Data on Windows 10: A Step-by-Step Guide to File Encryption - YL Computing's Expert Tutorial</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/setting-up-localized-windows-10-configuration-regions-and-languages-made-easy-with-yl-software-tips/"><u>Setting Up Localized Windows 10 Configuration: Regions & Languages Made Easy with YL Software Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-three-chatbots-face-off-gpt-microsofts-ai-and-googles-bard/"><u>Top Three Chatbots Face-Off: GPT, Microsoft's AI & Google's Bard</u></a></li>
 </ul></div>
 

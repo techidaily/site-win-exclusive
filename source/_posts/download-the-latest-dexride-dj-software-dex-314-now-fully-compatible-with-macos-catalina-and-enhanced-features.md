@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2025-01-25T20:23:36.862Z
-updated: 2025-01-26T17:59:36.236Z
+date: 2025-02-05T20:18:16.759Z
+updated: 2025-02-08T17:42:35.982Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,20 +81,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakdown-fundamental-aspects-of-asmr-videos/"><u>[New] 2024 Approved Breakdown Fundamental Aspects of ASMR Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>[New] The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-step-up-your-image-game-the-best-free-online-editors/"><u>[Updated] Step Up Your Image Game The Best Free Online Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-browser-safety-on-windows-11-with-the-implementation-of-defender-aguard/"><u>Boost Browser Safety on Windows 11 with the Implementation of Defender Aguard</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/can-you-upgrade-to-recent-processors-on-your-current-motherboard-unveiled-by-yl-software-solutions/"><u>Can You Upgrade to Recent Processors on Your Current Motherboard? Unveiled by YL Software Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-kobo-nia-with-amazon-kindle-an-in-depth-review/"><u>Comparing Kobo Nia with Amazon Kindle: An In-Depth Review</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-refresh-your-sound-card-driver-expert-tips-from-yl-computings-latest-guide/"><u>How to Refresh Your Sound Card Driver: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-your-go-to-fb-video-tool-for-desktops-and-phones/"><u>In 2024, Your Go-To FB Video Tool for Desktops and Phones</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/pdf-file-renaming-tips-a-comprehensive-guide-by-yl-computing/"><u>PDF File Renaming Tips: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-steps-to-repair-your-connection-issues-with-outlook/"><u>Resolved: Steps to Repair Your Connection Issues with Outlook</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/resolving-windows-black-monitor-problem-expert-advice-by-yl-software/"><u>Resolving Windows Black Monitor Problem: Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-and-fixing-non-black-ink-problems-in-printers-advice-by-yl-computings-technical-team/"><u>Understanding and Fixing Non-Black Ink Problems in Printers - Advice by YL Computing's Technical Team</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/what-to-know-about-apple-m4-silicon-comprehensive-guide-on-performance-release-date-and-more/"><u>What to Know About Apple M4 Silicon: Comprehensive Guide on Performance, Release Date, and More</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/yl-computings-guide-efficient-steps-to-remove-programs-and-enhance-your-system/"><u>YL Computing's Guide: Efficient Steps to Remove Programs and Enhance Your System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-professional-gamers-showcase-live-recording-in-obs/"><u>[New] Professional Gamers Showcase - Live Recording in OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>[Updated] 2024 Approved From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fix-how-to-install-or-update-intel-optane-drivers-in-windows-troubleshooting-steps-included/"><u>Easy Fix: How to Install or Update Intel Optane Drivers in Windows - Troubleshooting Steps Included</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-strategies-for-diagnosing-and-resolving-pc-hardware-error-alerts-insights-from-yl-technology-solutions/"><u>Effective Strategies for Diagnosing and Resolving PC Hardware Error Alerts - Insights From YL Technology Solutions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exploring-potential-lags-in-windows-defender-a-comprehensive-analysis-by-yl-computing/"><u>Exploring Potential Lags in Windows Defender: A Comprehensive Analysis by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/exploring-the-effectiveness-of-windows-defender-in-identifying-diverse-malware-threats-a-guide-by-yl-software/"><u>Exploring the Effectiveness of Windows Defender in Identifying Diverse Malware Threats: A Guide by YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-x6-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Poco X6 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/is-it-time-to-upgrade-your-graphic-card-identifying-common-symptoms-of-malfunction-insights-from-yl-computing-solutions/"><u>Is It Time to Upgrade Your Graphic Card? Identifying Common Symptoms of Malfunction - Insights From YL Computing Solutions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/is-windows-defender-effective-against-viruses-and-threats-learn-how-it-works-insights-by-yl-computing/"><u>Is Windows Defender Effective Against Viruses and Threats? Learn How It Works - Insights by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/navigating-cryptocurrency-investments-with-expert-advice-from-yl-software/"><u>Navigating Cryptocurrency Investments with Expert Advice From YL Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplified-guide-to-burning-audio-from-cds-using-wmp-for-2024/"><u>Simplified Guide to Burning Audio From Cds Using WMP for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-the-driver-and-setting-up-brother-l2700dw-printer-in-windows/"><u>Step-by-Step Guide to Downloading the Driver and Setting Up Brother L2700DW Printer in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-wallets-in-2econd-in-depth-review-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Econd: In-Depth Review by Tech Experts</u></a></li>
 </ul></div>
 
