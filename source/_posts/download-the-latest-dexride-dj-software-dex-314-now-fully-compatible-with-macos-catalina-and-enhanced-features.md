@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2025-02-05T20:18:16.759Z
-updated: 2025-02-08T17:42:35.982Z
+date: 2025-02-17T16:01:07.989Z
+updated: 2025-02-18T19:38:02.883Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-professional-gamers-showcase-live-recording-in-obs/"><u>[New] Professional Gamers Showcase - Live Recording in OBS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>[Updated] 2024 Approved From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-fix-how-to-install-or-update-intel-optane-drivers-in-windows-troubleshooting-steps-included/"><u>Easy Fix: How to Install or Update Intel Optane Drivers in Windows - Troubleshooting Steps Included</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-strategies-for-diagnosing-and-resolving-pc-hardware-error-alerts-insights-from-yl-technology-solutions/"><u>Effective Strategies for Diagnosing and Resolving PC Hardware Error Alerts - Insights From YL Technology Solutions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/exploring-potential-lags-in-windows-defender-a-comprehensive-analysis-by-yl-computing/"><u>Exploring Potential Lags in Windows Defender: A Comprehensive Analysis by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/exploring-the-effectiveness-of-windows-defender-in-identifying-diverse-malware-threats-a-guide-by-yl-software/"><u>Exploring the Effectiveness of Windows Defender in Identifying Diverse Malware Threats: A Guide by YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-x6-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Poco X6 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-it-time-to-upgrade-your-graphic-card-identifying-common-symptoms-of-malfunction-insights-from-yl-computing-solutions/"><u>Is It Time to Upgrade Your Graphic Card? Identifying Common Symptoms of Malfunction - Insights From YL Computing Solutions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-windows-defender-effective-against-viruses-and-threats-learn-how-it-works-insights-by-yl-computing/"><u>Is Windows Defender Effective Against Viruses and Threats? Learn How It Works - Insights by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/navigating-cryptocurrency-investments-with-expert-advice-from-yl-software/"><u>Navigating Cryptocurrency Investments with Expert Advice From YL Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/simplified-guide-to-burning-audio-from-cds-using-wmp-for-2024/"><u>Simplified Guide to Burning Audio From Cds Using WMP for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-the-driver-and-setting-up-brother-l2700dw-printer-in-windows/"><u>Step-by-Step Guide to Downloading the Driver and Setting Up Brother L2700DW Printer in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-wallets-in-2econd-in-depth-review-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Econd: In-Depth Review by Tech Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>[New] Capturing Waves How To Record Internet Radios Step-by-Step</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-best-youtube-thumbnail-size/"><u>[New] The Best YouTube Thumbnail Size</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-irecorders-top-screen-capabilities-for-2024/"><u>[New] Unveiling iRecorder's Top Screen Capabilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>[New] Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-a-step-by-step-framework-for-transcribing-whatsapp-calls/"><u>[Updated] In 2024, A Step-by-Step Framework for Transcribing WhatsApp Calls</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/crucial-aspects-to-review-prior-to-acquiring-secondhand-ipads/"><u>Crucial Aspects to Review Prior to Acquiring Secondhand iPads</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-chatbot-prompts-to-podcast-echoes/"><u>From ChatBot Prompts to Podcast Echoes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mac-integration-leveraging-chatgpt-powerfully/"><u>Mac Integration: Leveraging ChatGPT Powerfully</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/transform-your-sounds-converting-audio-files-in-windows-using-yl-computing-techniques/"><u>Transform Your Sounds: Converting Audio Files in Windows Using YL Computing Techniques</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/uncovering-causes-a-deep-dive-into-why-your-windows-display-driver-fails-insights-from-yl-computing/"><u>Uncovering Causes: A Deep Dive Into Why Your Window's Display Driver Fails - Insights From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/updating-your-scanners-firmware-simple-steps-by-yl-computing/"><u>Updating Your Scanner's Firmware - Simple Steps by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/why-pcdj-stands-out-unveiling-the-5-key-advantages-for-professional-disc-jockeys/"><u>Why PCDJ Stands Out: Unveiling the 5 Key Advantages for Professional Disc Jockeys</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/wu-zetians-rule-defined-pioneering-triumphs-and-contributions-analyzed-with-yl-solutions/"><u>Wu Zetian's Rule Defined: Pioneering Triumphs and Contributions – Analyzed with YL Solutions</u></a></li>
 </ul></div>
 

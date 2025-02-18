@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX 3.6.1 RC - Free Download
-date: 2025-02-03T16:10:52.655Z
-updated: 2025-02-08T17:49:48.352Z
+date: 2025-02-16T17:43:49.754Z
+updated: 2025-02-18T23:16:38.062Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ We invite all DEX 3 DJs and potential users to download and try the DEX 3.6.1 re
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes Included With The DEX 3.6.1 Release Candidate
@@ -49,7 +49,7 @@ We invite all DEX 3 DJs and potential users to download and try the DEX 3.6.1 re
 _Have questions about DEX 3.6.1 DJ, **music video mixing** and **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,20 +71,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex361rc-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-hacks-to-record-video-of-your-playtime-for-2024/"><u>[New] Hacks to Record Video of Your Playtime for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-battlefront-bastion-100plus-epic-game-battles-for-2024/"><u>[Updated] Battlefront Bastion 100+ Epic Game Battles for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/10-excellent-cost-free-video-meeting-solutions/"><u>10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/high-resolution-yellow-wallpaper-designs-and-hd-imagery-collection-by-yl-computing/"><u>High-Resolution Yellow Wallpaper Designs & HD Imagery Collection by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-blowout-hp-victus-15-now-just-350-cheaper-at-best-buy-top-sale-alert/"><u>Labor Day Blowout: HP Victus 15 Now Just $350 Cheaper at Best Buy – Top Sale Alert!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/izing-mastery-harness-the-power-of-your-youtube-content-on-mobile/"><u>Monetizing Mastery Harness the Power of Your YouTube Content on Mobile</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-spark-10-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Spark 10 4G Screen | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/resolving-home-network-woes-effective-strategies-by-yl-software-for-reliable-internet-access/"><u>Resolving Home Network Woes: Effective Strategies by YL Software for Reliable Internet Access</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-master-your-graphics-card-configuration-using-yls-expert-advice/"><u>Step-by-Step: Master Your Graphics Card Configuration Using YL's Expert Advice</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/the-ultimate-dj-toolkit-songbookdb-online-database-with-professional-advice-for-mixmasters/"><u>The Ultimate DJ Toolkit: SongBookDB Online Database with Professional Advice for Mixmasters</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/troubleshooting-your-computers-unresponsive-mouse-expert-solutions-from-yl-computing/"><u>Troubleshooting Your Computer's Unresponsive Mouse: Expert Solutions From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/troubleshooting-your-internet-connection-issues-with-expert-advice-from-yl-software-professionals/"><u>Troubleshooting Your Internet Connection Issues with Expert Advice From YL Software Professionals</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ukrainian-and-russian-how-similar-are-these-two-languages/"><u>Ukrainian and Russian: How Similar Are These Two Languages?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-your-gpus-thermal-performance-insights-into-elevated-heat-levels-explored-by-yl-computing/"><u>Understanding Your GPU's Thermal Performance: Insights Into Elevated Heat Levels - Explored by YL Computing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-tutorial-fading-in-and-out-of-audio-like-a-pro/"><u>Updated In 2024, Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-conquered-by-creatives-from-wmm-to-a-stellar-vimeo-presence/"><u>[New] Conquered By Creatives From WMM to a Stellar Vimeo Presence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-explore-ingenious-techniques-for-voice-transformation-at-zero-price-for-2024/"><u>[New] Explore Ingenious Techniques for Voice Transformation at Zero Price for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-inverted-screen-changing-video-ordering/"><u>[New] Inverted Screen Changing Video Ordering</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-live-broadcast-with-periscope/"><u>[Updated] Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-inside-the-latest-youtube-income-regulations/"><u>2024 Approved Inside the Latest YouTube Income Regulations</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-language-barriers-with-immersive-learning-via-mondly-vr-technology/"><u>Break Language Barriers with Immersive Learning via Mondly VR Technology</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/compatibility-guide-using-your-scanning-device-across-different-operating-systems-expert-advice-from-yl-computing/"><u>Compatibility Guide: Using Your Scanning Device Across Different Operating Systems - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-successfully-set-up-your-new-printer-a-guide-by-yl-computing/"><u>Easy Steps to Successfully Set Up Your New Printer - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/essential-tips-for-fixing-non-printing-problems-with-your-printer-by-yl-software-experts/"><u>Essential Tips for Fixing Non-Printing Problems with Your Printer by YL Software Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Pattern Lock Screen</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-can-i-ensure-my-system-is-free-from-malware-expert-tips-by-yl-computing/"><u>How Can I Ensure My System Is Free From Malware? - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/introducing-the-next-generation-of-karaoke-software-try-out-the-open-beta-version-of-pcdj-now/"><u>Introducing the Next Generation of Karaoke Software - Try Out the Open-Beta Version of PCDJ Now!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-windows-live-movie-maker-slow-motion-effect-tips-tricks-and-techniques/"><u>New In 2024, Windows Live Movie Maker Slow Motion Effect Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/safeguarding-virtual-assets-the-role-of-secure-wallets-in-protecting-your-cryptocurrency-investments-a-guide-by-yl-software/"><u>Safeguarding Virtual Assets: The Role of Secure Wallets in Protecting Your Cryptocurrency Investments – A Guide by YL Software</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/setting-up-your-pcs-clock-how-to-adjust-time-zones-via-the-windows-control-panel-tips-from-yl-computing/"><u>Setting Up Your PC's Clock: How to Adjust Time Zones via the Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-instructions-for-modernizing-legacy-scanner-modules-by-yl-tech-experts/"><u>Step-by-Step Instructions for Modernizing Legacy Scanner Modules by YL Tech Experts</u></a></li>
 </ul></div>
 
