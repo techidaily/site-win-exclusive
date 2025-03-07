@@ -1,7 +1,7 @@
 ---
 title: DJ Controllers for Numark DJ2GO-2 with Dex3 Feature Support and Tutorial Map
-date: 2025-02-15T18:13:26.140Z
-updated: 2025-02-18T17:18:22.732Z
+date: 2025-02-28T20:37:16.606Z
+updated: 2025-03-06T16:38:35.420Z
 tags:
   - product
 categories:
@@ -36,10 +36,6 @@ Just like its predecessor, a controller popular with DEX 3 DJs, the Numark DJ2Go
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### KEY NUMARK DJ2GO2 TOUCH FEATURES:
 
 * Ultra-portable USB DJ software controller
@@ -54,10 +50,6 @@ Just like its predecessor, a controller popular with DEX 3 DJs, the Numark DJ2Go
 **NUMARK DJ2GO2 TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file ONLY in zip) To: _**DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS**_
 
 _Have questions about the **Numark DJ2Go2 Touch** DJ controller and how it works with our **DJ software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -78,22 +70,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/03/Capture2.jpg?fit=950%2C574
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-from-tape-to-trending-seamless-mp3-to-youtube-transition/"><u>[New] 2024 Approved From Tape to Trending Seamless MP3 to YouTube Transition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-odyssey-the-most-exciting-psvr-games-on-the-way/"><u>[Updated] Immersive Odyssey The Most Exciting PSVR Games on the Way</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-learn-to-link-zoom-effortlessly-with-email-clients-like-gmail/"><u>[Updated] Learn to Link Zoom Effortlessly with Email Clients Like Gmail</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-simplified-strategies-for-instagram-photo-inclusion/"><u>[Updated] Simplified Strategies for Instagram Photo Inclusion</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1-managing-your-installed-programs-on-windows-11-a-step-by-step-guide-yl-computing/"><u>1. 'Managing Your Installed Programs on Windows 11: A Step-by-Step Guide' - YL Computing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/breaking-down-the-barriers-to-knowing-your-fans-for-2024/"><u>Breaking Down the Barriers to Knowing Your Fans for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/essential-cybersecurity-strategies-for-safeguarding-your-digital-assets-learn-with-yl-computing/"><u>Essential Cybersecurity Strategies for Safeguarding Your Digital Assets - Learn with YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-and-preventing-windows-error-code-0x800704cf-from-recurring/"><u>Expert Tips for Fixing and Preventing Windows Error Code 0X800704CF From Recurring</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/find-out-your-pcs-integrated-graphic-card-details-easily-using-yl-software-tips/"><u>Find Out Your PC's Integrated Graphic Card Details Easily Using YL Software Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/maximize-hard-drive-capacity-with-yls-file-cleanup-tool-for-pc-effective-junk-removal-solutions-from-yl-computing/"><u>Maximize Hard Drive Capacity with YL's File Cleanup Tool for PC - Effective Junk Removal Solutions From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-assassins-creed-valhalla-lagging/"><u>Quick Fix: Assassin’s Creed: Valhalla Lagging</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-note-50-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Note 50 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/rev-up-your-pc-expert-tips-on-accelerating-your-computers-speed-insights-by-yl-computing/"><u>Rev Up Your PC: Expert Tips on Accelerating Your Computer's Speed - Insights by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/singapores-vision-for-attracting-talent-and-adapting-skills-for-tomorrows-economy-insights-from-trade-minister-gan-kim-yong/"><u>Singapore's Vision for Attracting Talent & Adapting Skills for Tomorrow's Economy: Insights From Trade Minister Gan Kim Yong</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/solving-common-problems-in-yl-systems-a-comprehve-look-by-yl-computing-experts/"><u>Solving Common Problems in YL Systems: A Comprehve Look by YL Computing Experts</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/unraveling-the-distinction-windows-defender-security-center-vs-windows-defender-antivirus-insights-by-yl-computing/"><u>Unraveling the Distinction: Windows Defender Security Center Vs. Windows Defender Antivirus - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-shorts-earnings-guide-must-knows-and-future-potential-for-2024/"><u>[New] Youtube Shorts Earnings Guide Must-Knows & Future Potential for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tech-gurus-rate-them-all-unveiling-apeaksofts-screen-recording-capabilities/"><u>[Updated] 2024 Approved Tech Gurus Rate Them All Unveiling Apeaksoft’s Screen Recording Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-scenes-to-screens-sims-4-video-capturing/"><u>[Updated] In 2024, From Scenes to Screens Sims 4 Video Capturing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-how-to-recover-skp-files-in-sketchup-a-step-by-step-guide/"><u>1. How to Recover SKP Files in SketchUp: A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-migrer-facilement-et-gratuitement-vos-donnees-mac-vers-un-disque-dur-externe-avec-trois-techniques-simples/"><u>Comment Migrer Facilement Et Gratuitement Vos Données Mac Vers Un Disque Dur Externe Avec Trois Techniques Simples</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/como-hacer-que-su-almacenamiento-de-windows-server-2008-se-vincule-con-google-drive-un-tutorial-completo/"><u>Cómo Hacer Que Su Almacenamiento De Windows Server 2008 Se Vincule Con Google Drive: Un Tutorial Completo</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guide-facile-a-suivre-pour-reparer-une-cle-usb-demontrant-zero-octet-et-eviter-la-perte-de-fichiers/"><u>Guide Facile À Suivre Pour Réparer Une Clé USB Démontrant Zéro Octet Et Éviter La Perte De Fichiers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-11-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 11 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/la-herramienta-perfecta-para-migracion-de-datos-en-sandisk-ssds-transfiere-todos-tus-archivos-con-confianza-y-facilidad/"><u>La Herramienta Perfecta Para Migración De Datos en SanDisk SSDs: Transfiere Todos Tus Archivos Con Confianza Y Facilidad</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/securing-windows-10-installations-on-dvds-effective-techniques-and-utility-software/"><u>Securing Windows 10 Installations on DVDs: Effective Techniques and Utility Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-picks-samsungs-virtual-reality-adventures-for-2024/"><u>Top Picks Samsung's Virtual Reality Adventures for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/understanding-vivas-video-experience-for-2024/"><u>Understanding Viva's Video Experience for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-final-cut-pro-x-not-responding-heres-how-to-fix-it/"><u>Updated 2024 Approved Final Cut Pro X Not Responding? Heres How to Fix It</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/windows-10-vmwindows-11/"><u>Windows 10 VMからWindows 11へのスムーズなアップグレード手順</u></a></li>
 </ul></div>
 

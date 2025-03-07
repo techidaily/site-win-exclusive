@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!
-date: 2025-02-17T16:01:07.989Z
-updated: 2025-02-18T19:38:02.883Z
+date: 2025-02-28T05:52:37.334Z
+updated: 2025-03-07T05:15:18.093Z
 tags:
   - product
 categories:
@@ -37,10 +37,6 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, and Fixed in DEX 3.14
 
 * macOS Catalina support (**NOTE**: If you receive this warning _“setup\_dex3\_3.14\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3)
@@ -57,10 +53,6 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.14\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -81,19 +73,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>[New] Capturing Waves How To Record Internet Radios Step-by-Step</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-best-youtube-thumbnail-size/"><u>[New] The Best YouTube Thumbnail Size</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unveiling-irecorders-top-screen-capabilities-for-2024/"><u>[New] Unveiling iRecorder's Top Screen Capabilities for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>[New] Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-a-step-by-step-framework-for-transcribing-whatsapp-calls/"><u>[Updated] In 2024, A Step-by-Step Framework for Transcribing WhatsApp Calls</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/crucial-aspects-to-review-prior-to-acquiring-secondhand-ipads/"><u>Crucial Aspects to Review Prior to Acquiring Secondhand iPads</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-chatbot-prompts-to-podcast-echoes/"><u>From ChatBot Prompts to Podcast Echoes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mac-integration-leveraging-chatgpt-powerfully/"><u>Mac Integration: Leveraging ChatGPT Powerfully</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/transform-your-sounds-converting-audio-files-in-windows-using-yl-computing-techniques/"><u>Transform Your Sounds: Converting Audio Files in Windows Using YL Computing Techniques</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/uncovering-causes-a-deep-dive-into-why-your-windows-display-driver-fails-insights-from-yl-computing/"><u>Uncovering Causes: A Deep Dive Into Why Your Window's Display Driver Fails - Insights From YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/updating-your-scanners-firmware-simple-steps-by-yl-computing/"><u>Updating Your Scanner's Firmware - Simple Steps by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/why-pcdj-stands-out-unveiling-the-5-key-advantages-for-professional-disc-jockeys/"><u>Why PCDJ Stands Out: Unveiling the 5 Key Advantages for Professional Disc Jockeys</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/wu-zetians-rule-defined-pioneering-triumphs-and-contributions-analyzed-with-yl-solutions/"><u>Wu Zetian's Rule Defined: Pioneering Triumphs and Contributions – Analyzed with YL Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tailoring-video-content-to-youtubes-niche-needs/"><u>[New] Tailoring Video Content to Youtube's Niche Needs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-microphones-for-university-podcasts/"><u>2024 Approved Premier Microphones for University Podcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-savespace-pros-review-summary/"><u>2024 Approved SaveSpace Pros Review Summary</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/7s-directory-services-restore-mode/"><u>7'S Directory Services Restore Mode</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-note-30i-frp-bypass-by-drfone-android/"><u>About Infinix Note 30i FRP Bypass</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/aiuto-per-eseguire-il-comando-sfcscannow-sulle-versioni-di-windows-10-e-11-un-manuale-dettagliato/"><u>Aiuto per Eseguire Il Comando SFC/Scannow Sulle Versioni Di Windows 10 E 11: Un Manuale Dettagliato</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-free-data-restoration-apps-for-windows-11-top-3-picks/"><u>Best Free Data Restoration Apps for Windows 11: Top 3 Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-rainbow-six-extraction-gameplay-crashes-on-personal-computers/"><u>Comprehensive Fix for Rainbow Six Extraction Gameplay Crashes on Personal Computers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/datentransfer-von-einer-alten-auf-eine-neue-festplatte-ohne-software-neuinstallation/"><u>Datentransfer Von Einer Alten Auf Eine Neue Festplatte Ohne Software-Neuinstallation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-best-practices-in-yt-thumbnail-sizing/"><u>In 2024, Best Practices in YT Thumbnail Sizing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50s-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50S Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-camera-software-solutions/"><u>Live Streaming Mastery with ManyCam: Top Virtual Camera Software Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-with-windows-safeguard-issues/"><u>Overcoming Obstacles with Windows Safeguard Issues</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/possibilite-de-perte-de-donnees-avec-la-mis-a-jour-windows-10-un-realite-ou-un-mythe/"><u>Possibilité De Perte De Données Avec La Mis À Jour Windows 10: Un Réalité Ou Un Mythe?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/reviving-lost-information-expert-guide-on-retrieving-data-from-non-functional-hard-drives/"><u>Reviving Lost Information: Expert Guide on Retrieving Data From Non-Functional Hard Drives</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728496974795-windows-10/"><u>Windows 10 自動複製專案設定：指南下載至外部硬碟</u></a></li>
 </ul></div>
 
